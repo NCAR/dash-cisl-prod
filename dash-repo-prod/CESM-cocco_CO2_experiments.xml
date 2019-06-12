@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2019-04-19T09:57:18Z</gco:DateTime>
+        <gco:DateTime>2019-06-12T11:56:39Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -331,10 +331,10 @@
                     <gmd:geographicElement>
                         <gmd:EX_GeographicBoundingBox>
                             <gmd:westBoundLongitude>
-                                <gco:Decimal>180</gco:Decimal>
+                                <gco:Decimal>-180</gco:Decimal>
                             </gmd:westBoundLongitude>
                             <gmd:eastBoundLongitude>
-                                <gco:Decimal>-180</gco:Decimal>
+                                <gco:Decimal>180</gco:Decimal>
                             </gmd:eastBoundLongitude>
                             <gmd:southBoundLatitude>
                                 <gco:Decimal>-90</gco:Decimal>
@@ -362,7 +362,7 @@
                     <gmd:distributorContact>
                         <gmd:CI_ResponsibleParty>
                             <gmd:organisationName>
-                                <gco:CharacterString>CHANGEME</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - CISL - CDP</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
