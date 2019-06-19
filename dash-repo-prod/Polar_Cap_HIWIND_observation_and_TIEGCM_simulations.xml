@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2019-04-19T09:57:42Z</gco:DateTime>
+        <gco:DateTime>2019-06-19T12:39:21Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -115,9 +115,20 @@
                     </gmd:citedResponsibleParty>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
+                            <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - DASH Repository</gco:CharacterString>
-                            </gmd:individualName>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>datahelp@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
                             </gmd:role>
@@ -231,8 +242,9 @@
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
                                 <gml:TimePeriod gml:id="tp_086895d9-d9fb-4b10-a054-52865bd35207">
-                                    <gml:beginPosition>2018-06-29T00:00:00</gml:beginPosition>
-                                    <gml:endPosition>2018-06-29T00:00:00</gml:endPosition>
+                                        <gml:beginPosition>2018-06-29T06:00:00Z</gml:beginPosition>
+
+                                    <gml:endPosition>2018-06-29T06:00:00Z</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -255,7 +267,7 @@
                     <gmd:distributorContact>
                         <gmd:CI_ResponsibleParty>
                             <gmd:organisationName>
-                                <gco:CharacterString>CHANGEME</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - CISL - CDP</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
