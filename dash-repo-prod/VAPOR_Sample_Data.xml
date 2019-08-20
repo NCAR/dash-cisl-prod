@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2019-08-19T11:19:46Z</gco:DateTime>
+        <gco:DateTime>2019-08-20T11:48:30Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -155,7 +155,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-08-19</gco:Date>
+                                <gco:Date>2019-08-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -293,7 +293,9 @@
 
 VAPOR is a product of the National Center for Atmospheric Research&apos;s Computational and Information Systems Lab. Support for VAPOR is provided by the U.S. National Science Foundation and by the Korea Institute of Science and Technology Information
 
-This dataset contains sample files of model outputs from numerical simulations that Vapor is capable of directly reading.  They are not related to each other aside from being sample data for Vapor.  To unpack the tar.gz files on Linux/OSX, issue the command `tar -xzvf [myFile].tar.gz` on the file you&apos;ve downloaded.  On Windows, a program like 7-zip can perform that operation.  Once unpacked, the files can be directly imported into Vapor, or converted to VDC.  For more information the the &quot;Getting Data Into Vapor&quot; Related Link below.</gco:CharacterString>
+This dataset contains sample files of model outputs from numerical simulations that Vapor is capable of directly reading.  They are not related to each other aside from being sample data for Vapor.  
+
+To unpack the tar.gz files on Linux/OSX, issue the command `tar -xzvf [myFile].tar.gz` on the file you&apos;ve downloaded.  On Windows, a program like 7-zip can perform that operation.  Once unpacked, the files can be directly imported into Vapor, or converted to VDC.  For more information see the &quot;Getting Data Into Vapor&quot; Related Link below.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
