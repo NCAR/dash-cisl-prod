@@ -6,7 +6,9 @@ This repository supports the NCAR DASH Search system, found at https://data.ucar
 
 ## Contents 
 
-Files  and they contain metadata in a standardized, machine-readable format, known as ISO 19139:2003.   More information on this format can be found here:   ftp://ftp.ncddc.noaa.gov/pub/Metadata/Online_ISO_Training/Intro_to_ISO/workbooks/MD_Metadata.pdf
+Files  and they contain metadata in a standardized, machine-readable format, known as ISO 19139:2003.   More information on this format can be found here:   
+
+ftp://ftp.ncddc.noaa.gov/pub/Metadata/Online_ISO_Training/Intro_to_ISO/workbooks/MD_Metadata.pdf
 
 ## Who 
 
