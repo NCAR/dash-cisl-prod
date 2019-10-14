@@ -10,7 +10,7 @@ Files  and they contain metadata in a standardized, machine-readable format, kno
 
 ftp://ftp.ncddc.noaa.gov/pub/Metadata/Online_ISO_Training/Intro_to_ISO/workbooks/MD_Metadata.pdf
 
-## Who 
+## Publisher Information
 
 Files in this repository are managed by NCAR lab representatives in charge of producing metadata for the digital assets published or maintained by their specific NCAR lab.
 
