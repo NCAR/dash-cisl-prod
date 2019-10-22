@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <DIF xmlns="http://gcmd.gsfc.nasa.gov/Aboutus/xml/dif/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gcmd.gsfc.nasa.gov/Aboutus/xml/dif/ http://gcmd.gsfc.nasa.gov/Aboutus/xml/dif/dif_v9.8.4.xsd">
+          <Entry_ID>6d5c2b37-af01-4441-b7ad-bdda4895da60</Entry_ID>
+          <Entry_Title>Ionosphere-thermosphere data published in &quot;Challenges to Understanding the Earth&apos;s Ionosphere and Thermosphere&quot;</Entry_Title>
+
+          <Parameters>
+            <Category>EARTH SCIENCE</Category>
+            <Topic>ATMOSPHERE</Topic>
+            <Term>ATMOSPHERIC WINDS</Term>
+          </Parameters>
+          <Parameters>
+            <Category>EARTH SCIENCE</Category>
+            <Topic>SUN-EARTH INTERACTIONS</Topic>
+            <Term>IONOSPHERE/MAGNETOSPHERE DYNAMICS</Term>
+            <Variable_Level_1>ELECTRIC FIELDS/ELECTRIC CURRENTS</Variable_Level_1>
+          </Parameters>
+
+          <Temporal_Coverage>
+            <Start_Date>2009-06-30 12:00:00</Start_Date>
+            <Stop_Date>2009-06-30 12:00:00</Stop_Date>
+          </Temporal_Coverage>
+
+          <Spatial_Coverage>
+            <Southernmost_Latitude>-90</Southernmost_Latitude>
+            <Northernmost_Latitude>90</Northernmost_Latitude>
+            <Westernmost_Longitude>-180</Westernmost_Longitude>
+            <Easternmost_Longitude>180</Easternmost_Longitude>
+          </Spatial_Coverage>
+
+          <Data_Center>
+            <Data_Center_Name>
+              <Short_Name>REPO</Short_Name>
+              <Long_Name>NCAR DASH Repository</Long_Name>
+            </Data_Center_Name>
+            <Data_Center_URL>https://datarepo.ucar.edu/</Data_Center_URL>
+            <Personnel>
+              <Role>DATA CENTER CONTACT</Role>
+              <First_Name>DASH Repository</First_Name>
+              <Last_Name>User Services</Last_Name>
+              <Contact_Address>
+                <Address>NCAR/CISL</Address>
+                <Address>P.O. Box 3000</Address>
+                <City>Boulder</City>
+                <Province_or_State>CO</Province_or_State>
+                <Postal_Code>80307</Postal_Code>
+                <Country>USA</Country>
+              </Contact_Address>
+            </Personnel>
+          </Data_Center>
+          <Summary>
+            <Abstract>These data sets  accompany an AGU Centennial publication &quot;Challenges to Understanding the Earth&apos;s Ionosphere and Thermosphere&quot; by R.A. Heelis and A. Maute. The data file tiegcm_totTgcm.s_181_12UT_GCpaper.nc is output from a thermosphere-ionosphere-electrodynamics general circulation model (TIEGCM) simulation described in the publication (DOI:10.1007/s11214-017-0330-3). The simulation is for 2009 solar minimum conditions. The ionospheric current and neutral wind in file &quot;heelis_empirical_f130_12UT_extracted.nc&quot; is based on a stand-alone dynamo model (described in doi:10.1002/2017JA024841) driven by the Horizontal Wind Model and ionospheric conductivities based on empirical models of the ionosphere (IRI) and the neutral atmosphere (MSIS). The calculation is for solar medium condition (F10.7=130) and DOY 181 under geomagnetic quiescent times.</Abstract>
+          </Summary>
+          <Related_URL>
+            <URL_Content_Type>
+              <Type>GET DATA</Type>
+            </URL_Content_Type>
+            <URL>http://dashrepo.ucar.edu/dataset/id/6d5c2b37-af01-4441-b7ad-bdda4895da60.html</URL>
+            <Description>Data Center top-level access page for this resource</Description>
+          </Related_URL>
+
+          <Metadata_Name>GATEWAY IDN DIF</Metadata_Name>
+          <Metadata_Version>9.8.5</Metadata_Version>
+          <Last_DIF_Revision_Date>2019-10-21</Last_DIF_Revision_Date>
+        </DIF>
