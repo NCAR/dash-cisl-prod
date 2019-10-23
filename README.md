@@ -16,4 +16,4 @@ Files in this repository are managed by NCAR lab representatives in charge of pr
 
 ## License
 
-The license to use the data in this repository is described by the UCAR Data Use License:  https://www.ucar.edu/terms-of-use/data
+The license to use the files in this repository is described by the UCAR License:  https://www.ucar.edu/terms-of-use/
