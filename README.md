@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository supports the NCAR DASH Search system, found at https://data.ucar.edu.   DASH Search allows users to find, browse, and access digital assets created and published by NCAR and UCAR Community Programs.  For questions, contact datahelp@ucar.edu.
+This repository supports the NCAR DASH Search system, found at https://data.ucar.edu.   DASH Search allows users to find, browse, and access digital assets created and published by NCAR and UCAR Community Programs.  
+
+For questions, contact datahelp@ucar.edu.
 
 ## Contents 
 
