@@ -10,7 +10,7 @@ For questions, contact datahelp@ucar.edu.
 
 Files contain metadata in a standardized, machine-readable format, known as ISO 19139:2003.   More information on this format can be found here:   
 
-ftp://ftp.ncddc.noaa.gov/pub/Metadata/Online_ISO_Training/Intro_to_ISO/workbooks/MD_Metadata.pdf
+https://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.pdf
 
 ## Publisher Information
 
