@@ -8,7 +8,7 @@ For questions, contact datahelp@ucar.edu.
 
 ## Contents 
 
-Files contain metadata in a standardized, machine-readable format, known as ISO 19139:2003.   More information on this format can be found here:   
+Files contain metadata in a standardized, machine-readable format, and conform to the "ISO 19115 Geographic Information - Metadata" standard.   More information on this format can be found here:   
 
 https://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.pdf
 
