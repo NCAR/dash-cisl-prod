@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2019-11-06T15:32:23Z</gco:DateTime>
+        <gco:DateTime>2019-11-18T15:16:12Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-11-01</gco:Date>
+                                <gco:Date>2019-11-18</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -143,7 +143,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>These are simulations from climate-downscaling simulations over the East African Great Lakes region for the East African Great Lakes and Ethiopia (EAGLE) project, using the Weather Research and Forecasting (WRF) model.  NCAR&apos;s Community Earth System Model (CESM) Representative Concentration Pathways (RCP) 8.5 was used for input into the model.  Three decadal periods were simulated: present day (2009-2018), mid-century (2055-2064), and end of century (2090-2099.)
+                <gco:CharacterString>These are climate-downscaling simulations over the East African Great Lakes region for the East African Great Lakes and Ethiopia (EAGLE) project, using the Weather Research and Forecasting (WRF) model.  NCAR&apos;s Community Earth System Model (CESM) Representative Concentration Pathways (RCP) 8.5 was used for input into the model. Three decadal periods were simulated: present day (2009-2018), mid-century (2055-2064), and end of century (2090-2099.)  This work was funded under a grant from the MacArthur Foundation under direction from the principal investigator Anton Seimon.
 
 Please see the readme.txt file in the &apos;EAGLE Documentation&apos; below for more information.</gco:CharacterString>
             </gmd:abstract>
