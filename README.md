@@ -18,8 +18,6 @@ Files in this GitHub repository are managed by NCAR lab representatives in charg
 
 ## License
 
-The license to use the files in this GitHub repository is described by the UCAR License:  https://www.ucar.edu/terms-of-use/
-
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
@@ -30,3 +28,5 @@ License][cc-by].
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+Further information can be found in the UCAR Terms of Use:  https://www.ucar.edu/terms-of-use/
