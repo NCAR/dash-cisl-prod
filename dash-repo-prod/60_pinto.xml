@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2020-01-24T14:09:06Z</gco:DateTime>
+        <gco:DateTime>2020-02-05T09:12:51Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -332,6 +332,13 @@ LAPSE-RATE took place in the San Luis Valley of Colorado during July of 2018. Go
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
 
+                    <gmd:spatialResolution>
+                        <gmd:MD_Resolution>
+                            <gmd:distance>
+                                <gco:Distance uom="meters">100</gco:Distance>
+                            </gmd:distance>
+                        </gmd:MD_Resolution>
+                    </gmd:spatialResolution>
 
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>

@@ -11,7 +11,7 @@
                         http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::b1f65b20-a382-4e7b-bff5-2c3590be29d6</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.dashrepo::d14a96c9-faff-4f44-8678-79ce734b116e</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2020-02-05T09:09:06Z</gco:DateTime>
+        <gco:DateTime>2020-02-05T09:13:17Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.26024/ypnz-d857</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/70zg-0t17</gco:CharacterString>
     </gmd:dataSetURI>
 
     <gmd:metadataExtensionInfo>
@@ -70,7 +70,7 @@
             <gmd:extensionOnLineResource>
                 <gmd:CI_OnlineResource>
                     <gmd:linkage>
-                        <gmd:URL>https://doi.org/10.1029/2019JA026678</gmd:URL>
+                        <gmd:URL>https://doi.org/10.5194/acp-2019-902</gmd:URL>
                     </gmd:linkage>
                     <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
@@ -79,10 +79,10 @@
                         <gco:CharacterString>browser</gco:CharacterString>
                     </gmd:applicationProfile>
                     <gmd:name>
-                        <gco:CharacterString>Whole Atmosphere Climate Change: Dependence on Solar Activity</gco:CharacterString>
+                        <gco:CharacterString>Comprehensive isoprene and terpene chemistry improves simulated surface ozone in the southeastern U.S.</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Solomon, S. C., Liu, H. L., Marsh, D. R., McInerney, J. M., Qian, L., &amp; Vitt, F. M. (2019). Journal of Geophysical Research: Space Physics, 124(5), 3799-3809.</gco:CharacterString>
+                        <gco:CharacterString></gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -94,12 +94,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Whole Atmosphere Climate Change: Dependence on Solar Activity</gco:CharacterString>
+                        <gco:CharacterString>CESM/CAM-chem Data for Evaluation of MOZART-TS2</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-06-14</gco:Date>
+                                <gco:Date>2020-01-23</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-08-29</gco:Date>
+                                <gco:Date>2020-01-23</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -119,99 +119,10 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.26024/ypnz-d857" xlink:title="DOI" xlink:actuate="onRequest">https://doi.org/10.26024/ypnz-d857</gmx:Anchor>
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/70zg-0t17" xlink:title="DOI" xlink:actuate="onRequest">https://doi.org/10.5065/70zg-0t17</gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
                     </gmd:identifier>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Solomon, Stanley C.</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:contactInfo>
-                                <gmd:CI_Contact>
-                                    <gmd:address>
-                                        <gmd:CI_Address>
-                                            <gmd:electronicMailAddress>
-                                                <gco:CharacterString>stans@ucar.edu</gco:CharacterString>
-                                            </gmd:electronicMailAddress>
-                                        </gmd:CI_Address>
-                                    </gmd:address>
-                                </gmd:CI_Contact>
-                            </gmd:contactInfo>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Liu, Han-Li</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Marsh, Daniel R.</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>McInerney, Joseph M.</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Qian, Liying</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Vitt, Francis M.</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:organisationName>
@@ -233,29 +144,75 @@
                             </gmd:role>
                         </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Schwantes, Rebecca</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Atmospheric Chemistry Observations &amp; Modeling</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>rschwant@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Emmons, Louisa</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Atmospheric Chemistry Observations &amp; Modeling</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>emmons@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset contains model output associated with the publication &quot;Whole Atmosphere Climate Change: Dependence on Solar Activity&quot; by S. C. Solomon et al. (2019), J. Geophys Res. Space Physics, 124, doi:10.1029/2019JA026678.
+                <gco:CharacterString>An updated isoprene and terpene chemical mechanism (MOZART-TS2) for CESM/CAM-chem (Community Earth System Model/Community Atmosphere Model with chemistry) was created and evaluated as explained in the following manuscript: Schwantes et al., Comprehensive isoprene and terpene gas-phase chemistry improves simulated surface ozone in the southeastern U.S., ACP, 2019 (https://doi.org/10.5194/acp-2019-902). The hourly instantaneous ozone data for August 2013 for the four different chemical mechanisms (TS1, HL, ISOP, and TS2) and the 10 sensitivity tests performed in this work are included in this dataset. These ozone results will be useful for others to compare CESM/CAM-chem results with other models. Additionally the CESM/CAM-chem SEAC4RS (Studies of Emissions Atmospheric Composition, Clouds and Climate Coupling by Regional Surveys) flight tracks for TS1, HL, ISOP, and TS2 and the nudging tests presented in the supplement are also included. These flight tracks will also be useful to encourage future comparisons of CAM-chem results with other models. Additionally, standard model output for 2013 August monthly average is provided for the TS1 and TS2 chemical mechanisms.
 
-These netCDF files are global gridded monthly monthly mean &quot;h0&quot; files output by the NCAR WACCM-X model.  The &quot;SMIN&quot; or &quot;SMAX&quot; in the file name designates perpetual solar minimum or perpetual solar maximum conditions, respectively.  The date string at the end file name designates the year and month, e.g., 1972-01 is January 1972.  The metadata in the individual netCDF files describes the individual parameters and locations.  The spatial resolution is 1.9 x 2.5 degrees lat/lon.
-
-Note that these are &quot;free-running&quot; climate simulations, and so are not representative of atmospheric weather on any particular date.  Rather, the nominal date of the simulation indicates that the lower boundary conditions of CO2, CH4, CFC, sea-surface temperatures, etc., for that date, were employed.  Similarly, constant &quot;solar minimum&quot; or constant &quot;solar maximum&quot; upper boundary conditions were used for each five-year run, instead of time-varying conditions.  See publication for further details.</gco:CharacterString>
+Please contact Rebecca Schwantes (rschwant@ucar.edu) or Louisa Emmons (emmons@ucar.edu) if you have questions about this dataset.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                         <gmd:individualName>
-                            <gco:CharacterString>Stanley C. Solomon</gco:CharacterString>
+                            <gco:CharacterString>Rebecca Schwantes</gco:CharacterString>
                         </gmd:individualName>
                         <gmd:organisationName>
-                            <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
+                            <gco:CharacterString>UCAR/NCAR - Atmospheric Chemistry Observations &amp; Modeling</gco:CharacterString>
                         </gmd:organisationName>
                         <gmd:contactInfo>
                             <gmd:CI_Contact>
                                 <gmd:address>
                                     <gmd:CI_Address>
                                         <gmd:electronicMailAddress>
-                                            <gco:CharacterString>stans@ucar.edu</gco:CharacterString>
+                                            <gco:CharacterString>rschwant@ucar.edu</gco:CharacterString>
                                         </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                 </gmd:address>
@@ -309,13 +266,13 @@ Note that these are &quot;free-running&quot; climate simulations, and so are not
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; OZONE</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; CLIMATE CHANGE IMPACT ASSESSMENT MODELS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AIR QUALITY &gt; TROPOSPHERIC OZONE</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC TEMPERATURE &gt; UPPER AIR TEMPERATURE</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; ATMOSPHERIC CHEMISTRY MODELS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -388,10 +345,10 @@ Note that these are &quot;free-running&quot; climate simulations, and so are not
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_b1f65b20-a382-4e7b-bff5-2c3590be29d6">
-                                        <gml:beginPosition>1972-01-01Z</gml:beginPosition>
+                                <gml:TimePeriod gml:id="tp_d14a96c9-faff-4f44-8678-79ce734b116e">
+                                        <gml:beginPosition>2013-08-01Z</gml:beginPosition>
 
-                                    <gml:endPosition>2005-12-31Z</gml:endPosition>
+                                    <gml:endPosition>2013-09-30Z</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -428,7 +385,7 @@ Note that these are &quot;free-running&quot; climate simulations, and so are not
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/b1f65b20-a382-4e7b-bff5-2c3590be29d6.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/d14a96c9-faff-4f44-8678-79ce734b116e.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -437,7 +394,7 @@ Note that these are &quot;free-running&quot; climate simulations, and so are not
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>Whole Atmosphere Climate Change: Dependence on Solar Activity</gco:CharacterString>
+                                <gco:CharacterString>CESM/CAM-chem Data for Evaluation of MOZART-TS2</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>

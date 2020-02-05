@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2019-08-20T11:48:30Z</gco:DateTime>
+        <gco:DateTime>2020-02-05T09:09:29Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -125,7 +125,7 @@
                         <gco:CharacterString>browser</gco:CharacterString>
                     </gmd:applicationProfile>
                     <gmd:name>
-                        <gco:CharacterString>Getting Data into Vapor</gco:CharacterString>
+                        <gco:CharacterString>Getting Data into VAPOR</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
                         <gco:CharacterString>Documentation related to the using data with the VAPOR software.</gco:CharacterString>
@@ -155,7 +155,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-08-20</gco:Date>
+                                <gco:Date>2020-01-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -289,13 +289,13 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>VAPOR is the Visualization and Analysis Platform for Ocean, Atmosphere, and Solar Researchers.  VAPOR provides an interactive 3D visualization environment that can also produce animations and still frame images.  VAPOR runs on most UNIX and Windows systems equipped with modern 3D graphics cards.
+                <gco:CharacterString>VAPOR is the Visualization and Analysis Platform for Ocean, Atmosphere, and Solar Researchers. VAPOR provides an interactive 3D visualization environment that can also produce animations and still frame images. VAPOR runs on most UNIX and Windows systems equipped with modern 3D graphics cards.
 
 VAPOR is a product of the National Center for Atmospheric Research&apos;s Computational and Information Systems Lab. Support for VAPOR is provided by the U.S. National Science Foundation and by the Korea Institute of Science and Technology Information
 
-This dataset contains sample files of model outputs from numerical simulations that Vapor is capable of directly reading.  They are not related to each other aside from being sample data for Vapor.  
+This dataset contains sample files of model outputs from numerical simulations that VAPOR is capable of directly reading. They are not related to each other aside from being sample data for VAPOR.  
 
-To unpack the tar.gz files on Linux/OSX, issue the command `tar -xzvf [myFile].tar.gz` on the file you&apos;ve downloaded.  On Windows, a program like 7-zip can perform that operation.  Once unpacked, the files can be directly imported into Vapor, or converted to VDC.  For more information see the &quot;Getting Data Into Vapor&quot; Related Link below.</gco:CharacterString>
+To unpack the tar.gz files on Linux/OSX, issue the command `tar -xzvf [myFile].tar.gz` on the file you&apos;ve downloaded. On Windows, a program like 7-zip can perform that operation. Once unpacked, the files can be directly imported into VAPOR, or converted to VDC. For more information see the &quot;Getting Data Into VAPOR&quot; Related Link below.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
@@ -411,6 +411,8 @@ To unpack the tar.gz files on Linux/OSX, issue the command `tar -xzvf [myFile].t
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
+
+
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
             </gmd:language>

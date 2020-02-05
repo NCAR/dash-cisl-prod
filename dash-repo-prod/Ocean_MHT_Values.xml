@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2019-06-19T12:40:47Z</gco:DateTime>
+        <gco:DateTime>2020-02-05T09:09:49Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -79,10 +79,10 @@
                         <gco:CharacterString>browser</gco:CharacterString>
                     </gmd:applicationProfile>
                     <gmd:name>
-                        <gco:CharacterString>Observation-based estimate of global and basin ocean meridional heat transport time series</gco:CharacterString>
+                        <gco:CharacterString>Observation-Based Estimates of Global and Basin Ocean Meridional Heat Transport Time Series</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Published paper that is associated with this dataset (Citation: Trenberth, K. E., Y. Zhang, J. T. Fasullo, and L. Cheng, 2019: Observation-based estimate of global and basin ocean meridional heat transport time series. J. Climate, https://doi.org/10.1175/JCLI-D-18-0872.1).</gco:CharacterString>
+                        <gco:CharacterString>Trenberth, K. E., Zhang, Y., Fasullo, J. T., &amp; Cheng, L. (2019). Journal of Climate, 32(14), 4567-4583.</gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-04-12</gco:Date>
+                                <gco:Date>2019-08-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -328,6 +328,8 @@
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
+
+
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
             </gmd:language>
