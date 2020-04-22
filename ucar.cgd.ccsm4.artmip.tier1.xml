@@ -53,7 +53,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2019-12-10T11:24:21Z</gco:DateTime>
+        <gco:DateTime>2020-04-22T10:52:45Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -142,7 +142,7 @@
             <gmd:extensionOnLineResource>
                 <gmd:CI_OnlineResource>
                     <gmd:linkage>
-                        <gmd:URL>https://doi.org/10.1029/2018GL07983</gmd:URL>
+                        <gmd:URL>https://doi.org/10.1029/2019JD030936</gmd:URL>
                     </gmd:linkage>
                     <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
@@ -151,10 +151,10 @@
                         <gco:CharacterString>browser</gco:CharacterString>
                     </gmd:applicationProfile>
                     <gmd:name>
-                        <gco:CharacterString>Chen et al. 2019 (GRL)</gco:CharacterString>
+                        <gco:CharacterString>Rutz et al. 2019, JGR-A</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString></gco:CharacterString>
+                        <gco:CharacterString>ARTMIP overview paper (Rutz et al. 2019, JGR-A)</gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -181,7 +181,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-12-10</gco:Date>
+                                <gco:Date>2020-01-25</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -244,7 +244,7 @@
             <gmd:abstract>
                 <gco:CharacterString>Atmospheric River Tracking Method Intercomparison Project (ARTMIP) Tier 1 developer catalogues. Each ARTMIP method/algorithm (named by developer) submits a catalogue comprised of 0&apos;s (no AR exists) or 1&apos;s (yes AR exists) for each time slice, for each grid point, using MERRA-2 reanalysis data from January 1980 through June 2017. Derived quantities required for algorithms, such as IVT or IWV, were computed by the ARTMIP project so that all methods use the exact same data. Derived variables can be found in individual datasets.
 
-Click &apos;download options&apos; for a file containing documentation on the various catalogues.</gco:CharacterString>
+Click &apos;download options&apos; for a file containing documentation on the various catalogues, or &lt;a href=https://www.earthsystemgrid.org/dataset/ucar.cgd.ccsm4.artmip.tier1/file.html&gt;click here&lt;/a&gt;</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
