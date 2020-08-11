@@ -11,7 +11,7 @@
                         http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::de77ed28-3f7a-4e11-b30b-4f0ef18ffb0b</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.dashrepo::07f089eb-fcd8-4fd0-9a0d-38b45cedd9dc</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2020-08-11T10:56:53Z</gco:DateTime>
+        <gco:DateTime>2020-08-11T10:56:48Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.26024/q3vy-ad49</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/cg38-b505</gco:CharacterString>
     </gmd:dataSetURI>
 
     <gmd:metadataExtensionInfo>
@@ -70,7 +70,7 @@
             <gmd:extensionOnLineResource>
                 <gmd:CI_OnlineResource>
                     <gmd:linkage>
-                        <gmd:URL>https://doi.org/10.1029/2019JA026698</gmd:URL>
+                        <gmd:URL>https://doi.org/10.1002/2014JC010227</gmd:URL>
                     </gmd:linkage>
                     <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
@@ -79,10 +79,171 @@
                         <gco:CharacterString>browser</gco:CharacterString>
                     </gmd:applicationProfile>
                     <gmd:name>
-                        <gco:CharacterString>SAPS in the 17 March 2013 Storm Event: Initial Results From the Coupled Magnetosphere‐Ionosphere‐Thermosphere Model</gco:CharacterString>
+                        <gco:CharacterString>Air-sea exchange of methanol and acetone during HiWinGS: Estimation of air phase, water phase gas transfer velocities</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Lin, D., Wang, W., Scales, W. A., Pham, K., Liu, J., Zhang, B., ... &amp; Maimaiti, M. (2019). Journal of Geophysical Research: Space Physics, 124(7), 6212-6225.</gco:CharacterString>
+                        <gco:CharacterString>Yang, M., Blomquist, B. W., &amp; Nightingale, P. D. (2014). Journal of Geophysical Research: Oceans, 119(10), 7308–7323.</gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://doi.org/10.5194/acp-14-7499-2014</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>Air–sea fluxes of oxygenated volatile organic compounds across the Atlantic Ocean</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString>Yang, M., Beale, R., Liss, P., Johnson, M., Blomquist, B., &amp; Nightingale, P. (2014). Atmospheric Chemistry and Physics, 14(14), 7499–7517.</gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://doi.org/10.3389/fmicb.2014.00243</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>Microbial acetone oxidation in coastal seawater</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString>Dixon, J. L., Beale, R., Sargeant, S. L., Tarran, G. A., &amp; Nightingale, P. D. (2014). Frontiers in Microbiology, 5.</gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://doi.org/10.1002/jgrc.20322</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>Methanol, acetaldehyde, and acetone in the surface waters of the Atlantic Ocean</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString>Beale, R., Dixon, J., Arnold, S., Liss, P., &amp; Nightingale, P. (2013). Journal of Geophysical Research: Oceans, 118(10), 5412–5425.</gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://doi.org/10.1016/j.marchem.2010.08.003</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>High-resolution measurement of multiple volatile organic compounds dissolved in seawater using equilibrator inlet–proton transfer reaction-mass spectrometry (EI–PTR-MS)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString>Kameyama, S., Tanimoto, H., Inomata, S., Tsunogai, U., Ooki, A., Takeda, S., et al. (2010). Marine Chemistry, 122(1), 59–73.</gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://doi.org/10.1007/s00216-007-1324-x</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>Determination of acetone in seawater using derivatization solid-phase microextraction</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString>Hudson, E. D., Okuda, K., &amp; Ariya, P. A. (2007). Analytical and Bioanalytical Chemistry, 388(5), 1275–1282.</gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://doi.org/10.1029/2005GL023285</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>Oceanic uptake and the global atmospheric acetone budget</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString>Marandino, C. A., Bruyn, W. J. D., Miller, S. D., Prather, M. J., &amp; Saltzman, E. S. (2005). Geophysical Research Letters, 32(15).</gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://doi.org/DOI:10.1029/2019JD031288</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>Ocean biogeochemistry control on the marine emissions of brominated very short-lived ozone-depleting substances: a machine-learning approach</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString>Wang, S., Kinnison, D, Montzka, S, Apel, E., Hornbrook, R., Hills, A., et al. (2019). Journal of Geophysical Research.</gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -94,12 +255,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Selected and Post-Processed Outputs of LFM-TIEGCM-RCM Simulation of 2013 March 17 Event</gco:CharacterString>
+                        <gco:CharacterString>Surface seawater concentration of acetone: monthly climatology</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-06-10</gco:Date>
+                                <gco:Date>2020-07-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +270,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-10-23</gco:Date>
+                                <gco:Date>2020-07-01</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -119,49 +280,12 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.26024/q3vy-ad49" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.26024/q3vy-ad49
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/cg38-b505" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/cg38-b505
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
                     </gmd:identifier>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Lin, Dong</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory, Virginia Polytechnic Institute and State University</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:contactInfo>
-                                <gmd:CI_Contact>
-                                    <gmd:address>
-                                        <gmd:CI_Address>
-                                            <gmd:electronicMailAddress>
-                                                <gco:CharacterString>ldong7@vt.edu</gco:CharacterString>
-                                            </gmd:electronicMailAddress>
-                                        </gmd:CI_Address>
-                                    </gmd:address>
-                                </gmd:CI_Contact>
-                            </gmd:contactInfo>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Wang, Wenbin</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:organisationName>
@@ -186,11 +310,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Scales, Wayne</gco:CharacterString>
+                                <gco:CharacterString>Wang, Siyuan</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>Virginia Polytechnic Institute and State University</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - Atmospheric Chemistry Observations &amp; Modeling</gco:CharacterString>
                             </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>siyuan@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -199,11 +334,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Pham, Kevin</gco:CharacterString>
+                                <gco:CharacterString>Emmons, Louisa</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - Atmospheric Chemistry Observations &amp; Modeling</gco:CharacterString>
                             </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>emmons@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -212,11 +358,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Liu, Jing</gco:CharacterString>
+                                <gco:CharacterString>Marandino, Christa</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
+                                <gco:CharacterString>Helmholtz-Zentrum für Ozeanforschung Kiel</gco:CharacterString>
                             </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>cmarandino@geomar.de</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -225,11 +382,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Zhang, Binzheng</gco:CharacterString>
+                                <gco:CharacterString>De Bruyn, Warren</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
+                                <gco:CharacterString>Chapman University</gco:CharacterString>
                             </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>debruyn@chapman.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -238,11 +406,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Merkin, Viacheslav</gco:CharacterString>
+                                <gco:CharacterString>Saltzman, Eric</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>Applied Physics Laboratory, Johns Hopkins University</gco:CharacterString>
+                                <gco:CharacterString>University of California Irvine</gco:CharacterString>
                             </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>eric.saltzman@uci.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -251,11 +430,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Shi, Xueling</gco:CharacterString>
+                                <gco:CharacterString>Tanimoto, Hiroshi</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>Virginia Polytechnic Institute and State University</gco:CharacterString>
+                                <gco:CharacterString>National Institute for Environmental Studies</gco:CharacterString>
                             </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>tanimoto@nies.go.jp</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -264,11 +454,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Kunduri, Bharat</gco:CharacterString>
+                                <gco:CharacterString>Yang, Ming-Xi</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>Virginia Polytechnic Institute and State University</gco:CharacterString>
+                                <gco:CharacterString>Plymouth Marine Laboratory</gco:CharacterString>
                             </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>miya@pml.ac.uk</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -277,11 +478,46 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Maimaiti, Maimaitirebike</gco:CharacterString>
+                                <gco:CharacterString>Kameyama, Sohiko</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>Virginia Polytechnic Institute and State University</gco:CharacterString>
+                                <gco:CharacterString>Hokkaido University</gco:CharacterString>
                             </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>skameyama@ees.hokudai.ac.jp</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Omori, Yuko</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>University of Tsukuba</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>omori.yuko.ft@u.tsukuba.ac.jp</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -290,22 +526,46 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset is associated with the publication &quot;SAPS in the 2013 March 17 Storm Event: Initial Results from the Coupled Magnetosphere-Ionosphere-Thermosphere Model&quot;. In particular, the NCAR Community Model: Coupled Magnetosphere-Ionosphere-Thermosphere (CMIT) with Ring Current extension, which is also known as the LFM-TIEGCM-RCM (LTR) model, has been used to investigate the subauroral polarization streams during the 2013 March 17 storm event. The LTR model was driven by realistic solar wind conditions for 2013 March 17. Model outputs of ionospheric electron precipitation energy flux, ion zonal drifts, field-aligned currents, electrostatic potential, conductances, total electron content, as well as diagnostic variables of key features of SAPS were analyzed and used in producing a paper: &apos;SAPS in the 2013 March 17 Storm Event: Initial Results from the Coupled Magnetosphere-Ionosphere-Thermosphere Model&apos;.</gco:CharacterString>
+                <gco:CharacterString>Acetone is one of the most abundant oxygenated volatile organic compounds (VOCs) in the atmosphere. The oceans impose a strong control on atmospheric acetone, yet the oceanic fluxes of acetone remain poorly constrained. The air-sea exchange of acetone is largely controlled by the surface seawater concentration of acetone. This dataset consists of the surface seawater concentration of acetone, predicted by an observationally trained machine-learning algorithm (random forest). The observationally trained machine-learning algorithm is discussed in Wang et al. (2019). The training dataset includes ship-borne observations from a number of previous studies: Yang et al. (2014a); Yang et al. (2014b); Dixon et al. (2014); Beale et al. (2013); Kameyama et al. (2010); Hudson et al. (2007); Marandino et al. (2005); Marandino et al. (Knorr06). This dataset is in 0.9*1.25 (degree*degree) horizontal resolution (finite volume), and can be used to calculate the bi-directional air-sea exchange of acetone.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                         <gmd:individualName>
-                            <gco:CharacterString>Dong Lin</gco:CharacterString>
+                            <gco:CharacterString>Siyuan Wang</gco:CharacterString>
                         </gmd:individualName>
                         <gmd:organisationName>
-                            <gco:CharacterString>Virginia Polytechnic Institute and State University</gco:CharacterString>
+                            <gco:CharacterString>UCAR/NCAR - Atmospheric Chemistry Observations &amp; Modeling</gco:CharacterString>
                         </gmd:organisationName>
                         <gmd:contactInfo>
                             <gmd:CI_Contact>
                                 <gmd:address>
                                     <gmd:CI_Address>
                                         <gmd:electronicMailAddress>
-                                            <gco:CharacterString>ldong7@vt.edu</gco:CharacterString>
+                                            <gco:CharacterString>siyuan@ucar.edu</gco:CharacterString>
+                                        </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                </gmd:address>
+                            </gmd:CI_Contact>
+                        </gmd:contactInfo>
+                    <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                        <gmd:individualName>
+                            <gco:CharacterString>Louisa Emmons</gco:CharacterString>
+                        </gmd:individualName>
+                        <gmd:organisationName>
+                            <gco:CharacterString>UCAR/NCAR - Atmospheric Chemistry Observations &amp; Modeling</gco:CharacterString>
+                        </gmd:organisationName>
+                        <gmd:contactInfo>
+                            <gmd:CI_Contact>
+                                <gmd:address>
+                                    <gmd:CI_Address>
+                                        <gmd:electronicMailAddress>
+                                            <gco:CharacterString>emmons@ucar.edu</gco:CharacterString>
                                         </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                 </gmd:address>
@@ -359,22 +619,10 @@
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; IONOSPHERE/MAGNETOSPHERE DYNAMICS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; CARBON AND HYDROCARBON COMPOUNDS &gt; NON-METHANE HYDROCARBONS/VOLATILE ORGANIC COMPOUNDS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; IONOSPHERE/MAGNETOSPHERE DYNAMICS &gt; AURORAE</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; IONOSPHERE/MAGNETOSPHERE DYNAMICS &gt; ELECTRIC FIELDS/ELECTRIC CURRENTS</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; IONOSPHERE/MAGNETOSPHERE DYNAMICS &gt; GEOMAGNETIC INDICES</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; IONOSPHERE/MAGNETOSPHERE DYNAMICS &gt; MAGNETIC FIELDS/MAGNETIC CURRENTS</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; IONOSPHERE/MAGNETOSPHERE DYNAMICS &gt; MAGNETIC STORMS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN CHEMISTRY &gt; ORGANIC CARBON</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -422,6 +670,20 @@
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
 
+                    <gmd:spatialResolution>
+                        <gmd:MD_Resolution>
+                            <gmd:distance>
+                                <gco:Distance uom="degreesLatitude">0.9</gco:Distance>
+                            </gmd:distance>
+                        </gmd:MD_Resolution>
+                    </gmd:spatialResolution>
+                    <gmd:spatialResolution>
+                        <gmd:MD_Resolution>
+                            <gmd:distance>
+                                <gco:Distance uom="degreesLongitude">1.25</gco:Distance>
+                            </gmd:distance>
+                        </gmd:MD_Resolution>
+                    </gmd:spatialResolution>
 
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
@@ -444,17 +706,6 @@
                             </gmd:northBoundLatitude>
                         </gmd:EX_GeographicBoundingBox>
                     </gmd:geographicElement>
-                    <gmd:temporalElement>
-                        <gmd:EX_TemporalExtent>
-                            <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_de77ed28-3f7a-4e11-b30b-4f0ef18ffb0b">
-                                        <gml:beginPosition>2013-03-17T00:00:00Z</gml:beginPosition>
-
-                                    <gml:endPosition>2013-03-17T23:59:00Z</gml:endPosition>
-                                </gml:TimePeriod>
-                            </gmd:extent>
-                        </gmd:EX_TemporalExtent>
-                    </gmd:temporalElement>
                 </gmd:EX_Extent>
             </gmd:extent>
         </gmd:MD_DataIdentification>
@@ -487,7 +738,7 @@
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/de77ed28-3f7a-4e11-b30b-4f0ef18ffb0b.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/07f089eb-fcd8-4fd0-9a0d-38b45cedd9dc.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -496,7 +747,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>Selected and Post-Processed Outputs of LFM-TIEGCM-RCM Simulation of 2013 March 17 Event</gco:CharacterString>
+                                <gco:CharacterString>Surface seawater concentration of acetone: monthly climatology</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
