@@ -11,7 +11,7 @@
                         http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.sagerepoprod::9fe6e7b6-b1f2-4e02-baee-7e29b51aeae7</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.sagerepoprod::23790c01-1c28-4eb5-b606-816b42b4f45c</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2020-09-04T13:36:56Z</gco:DateTime>
+        <gco:DateTime>2020-09-04T13:36:50Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,44 +62,21 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/c2rf-6170</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/77g1-9x56</gco:CharacterString>
     </gmd:dataSetURI>
 
-    <gmd:metadataExtensionInfo>
-        <gmd:MD_MetadataExtensionInformation>
-            <gmd:extensionOnLineResource>
-                <gmd:CI_OnlineResource>
-                    <gmd:linkage>
-                        <gmd:URL>https://doi.org/10.1029/2019MS001609</gmd:URL>
-                    </gmd:linkage>
-                    <gmd:protocol>
-                        <gco:CharacterString>https</gco:CharacterString>
-                    </gmd:protocol>
-                    <gmd:applicationProfile>
-                        <gco:CharacterString>browser</gco:CharacterString>
-                    </gmd:applicationProfile>
-                    <gmd:name>
-                        <gco:CharacterString>Parametric Controls on Vegetation Responses to Biogeochemical Forcing in the CLM5</gco:CharacterString>
-                    </gmd:name>
-                    <gmd:description>
-                        <gco:CharacterString>Fisher, R. A., Wieder, W. R., Sanderson, B. M., Koven, C. D., Oleson, K. W., Xu, C., ... &amp; Lawrence, D. M. (2019). Journal of Advances in Modeling Earth Systems, 11(9), 2879-2895.</gco:CharacterString>
-                    </gmd:description>
-                </gmd:CI_OnlineResource>
-            </gmd:extensionOnLineResource>
-        </gmd:MD_MetadataExtensionInformation>
-    </gmd:metadataExtensionInfo>
 
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>CLM5 Sensitivity Analyses</gco:CharacterString>
+                        <gco:CharacterString>LIT Thermosphere Control of Ion Outflow Results</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-10-29</gco:Date>
+                                <gco:Date>2020-09-03</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-10-29</gco:Date>
+                                <gco:Date>2020-08-19</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -119,8 +96,8 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/c2rf-6170" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/c2rf-6170
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/77g1-9x56" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/77g1-9x56
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
@@ -149,98 +126,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Rosie A. Fisher</gco:CharacterString>
+                                <gco:CharacterString>Pham, Kevin</gco:CharacterString>
                             </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>William R. Wieder</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Benjamin M. Sanderson</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Charles D. Koven</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Keith W. Oleson</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Chonggang Xu</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Joshua B. Fisher</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Mingjie Shi</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Anthony P. Walker</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>David M. Lawrence</gco:CharacterString>
-                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>phamkh@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -249,28 +150,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>These data are the results of sensitivities with the Community Land Model (version 5, CLM5) under conditions of elevated carbon dioxide, nitrogen deposition, and present day transient control conditions. 13 parameters are modified with 5 iterations each, for four different individual flux tower sites.
-
-The CLM5 is the land surface scheme of the CESM2 Earth System model, and these simulations form the basis of a paper currently in press at the Journal of Advances in Modeling the Earth System, which forms part of the CESM2 special issue.
-
-For each site x experiment file, there are monthly CLM history output files for 53 simulations, which are 13 parameters varied across 4 iterations plus the default. The parameter files used can be found in the PFT files. Simulations 1 through 52 access the PFT files in the order 11, 12, 13, 14, 21, 22, 23, 24, 31,32,33, 34,... 131, 132, 133, 134. Simulation number 53 accesses the default PFT file (#00). 
-
-For further information on driving data, available analysis scripts, etc. please contact the Resource Support Contact below.</gco:CharacterString>
+                <gco:CharacterString>Results from two LIT coupled model runs containing the global outputs from the LFM magnetosphere, IPWM ionosphere, TIEGCM thermosphere-ionosphere simulation.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                         <gmd:individualName>
-                            <gco:CharacterString>Rosie Fisher</gco:CharacterString>
+                            <gco:CharacterString>Kevin Pham</gco:CharacterString>
                         </gmd:individualName>
                         <gmd:organisationName>
-                            <gco:CharacterString>UCAR/NCAR - Climate and Global Dynamics Laboratory</gco:CharacterString>
+                            <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
                         </gmd:organisationName>
                         <gmd:contactInfo>
                             <gmd:CI_Contact>
                                 <gmd:address>
                                     <gmd:CI_Address>
                                         <gmd:electronicMailAddress>
-                                            <gco:CharacterString>rosieafisher@gmail.com</gco:CharacterString>
+                                            <gco:CharacterString>phamkh@ucar.edu</gco:CharacterString>
                                         </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                 </gmd:address>
@@ -324,16 +219,10 @@ For further information on driving data, available analysis scripts, etc. please
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; BIOGEOCHEMICAL CYCLES</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; SOLAR-ATMOSPHERE/SPACE-WEATHER MODELS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; CARBON</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; NITROGEN</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; BIOSPHERIC INDICATORS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; IONOSPHERE/MAGNETOSPHERE DYNAMICS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -381,6 +270,20 @@ For further information on driving data, available analysis scripts, etc. please
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
 
+                    <gmd:spatialResolution>
+                        <gmd:MD_Resolution>
+                            <gmd:distance>
+                                <gco:Distance uom="degreesLatitude">1.25</gco:Distance>
+                            </gmd:distance>
+                        </gmd:MD_Resolution>
+                    </gmd:spatialResolution>
+                    <gmd:spatialResolution>
+                        <gmd:MD_Resolution>
+                            <gmd:distance>
+                                <gco:Distance uom="degreesLongitude">1.25</gco:Distance>
+                            </gmd:distance>
+                        </gmd:MD_Resolution>
+                    </gmd:spatialResolution>
 
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
@@ -390,26 +293,26 @@ For further information on driving data, available analysis scripts, etc. please
                     <gmd:geographicElement>
                         <gmd:EX_GeographicBoundingBox>
                             <gmd:westBoundLongitude>
-                                <gco:Decimal>-121.6</gco:Decimal>
+                                <gco:Decimal>-180</gco:Decimal>
                             </gmd:westBoundLongitude>
                             <gmd:eastBoundLongitude>
-                                <gco:Decimal>-51.4</gco:Decimal>
+                                <gco:Decimal>180</gco:Decimal>
                             </gmd:eastBoundLongitude>
                             <gmd:southBoundLatitude>
-                                <gco:Decimal>-1.9</gco:Decimal>
+                                <gco:Decimal>-90</gco:Decimal>
                             </gmd:southBoundLatitude>
                             <gmd:northBoundLatitude>
-                                <gco:Decimal>44.5</gco:Decimal>
+                                <gco:Decimal>90</gco:Decimal>
                             </gmd:northBoundLatitude>
                         </gmd:EX_GeographicBoundingBox>
                     </gmd:geographicElement>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_9fe6e7b6-b1f2-4e02-baee-7e29b51aeae7">
-                                        <gml:beginPosition>1760-01-01Z</gml:beginPosition>
+                                <gml:TimePeriod gml:id="tp_23790c01-1c28-4eb5-b606-816b42b4f45c">
+                                        <gml:beginPosition>2003-03-26T18:00:00Z</gml:beginPosition>
 
-                                    <gml:endPosition>2159-12-31Z</gml:endPosition>
+                                    <gml:endPosition>2003-03-28T18:00:00Z</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -446,7 +349,7 @@ For further information on driving data, available analysis scripts, etc. please
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/9fe6e7b6-b1f2-4e02-baee-7e29b51aeae7.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/23790c01-1c28-4eb5-b606-816b42b4f45c.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -455,7 +358,7 @@ For further information on driving data, available analysis scripts, etc. please
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>CLM5 Sensitivity Analyses</gco:CharacterString>
+                                <gco:CharacterString>LIT Thermosphere Control of Ion Outflow Results</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>

@@ -11,7 +11,7 @@
                         http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.sagerepoprod::9fe6e7b6-b1f2-4e02-baee-7e29b51aeae7</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.sagerepoprod::faad681f-9f4a-4f99-929d-61ad9c1958d3</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2020-09-04T13:36:56Z</gco:DateTime>
+        <gco:DateTime>2020-09-04T13:36:51Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/c2rf-6170</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/69b8-9t74</gco:CharacterString>
     </gmd:dataSetURI>
 
     <gmd:metadataExtensionInfo>
@@ -70,7 +70,7 @@
             <gmd:extensionOnLineResource>
                 <gmd:CI_OnlineResource>
                     <gmd:linkage>
-                        <gmd:URL>https://doi.org/10.1029/2019MS001609</gmd:URL>
+                        <gmd:URL>https://doi.org/10.1175/BAMS-D-11-00060.1</gmd:URL>
                     </gmd:linkage>
                     <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
@@ -79,10 +79,10 @@
                         <gco:CharacterString>browser</gco:CharacterString>
                     </gmd:applicationProfile>
                     <gmd:name>
-                        <gco:CharacterString>Parametric Controls on Vegetation Responses to Biogeochemical Forcing in the CLM5</gco:CharacterString>
+                        <gco:CharacterString>The Queensland Cloud Seeding Research Program</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Fisher, R. A., Wieder, W. R., Sanderson, B. M., Koven, C. D., Oleson, K. W., Xu, C., ... &amp; Lawrence, D. M. (2019). Journal of Advances in Modeling Earth Systems, 11(9), 2879-2895.</gco:CharacterString>
+                        <gco:CharacterString>Tessendorf, S. A., et al. (2012).Bull. Amer. Meteor. Soc., 93, 75–90.</gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -94,22 +94,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>CLM5 Sensitivity Analyses</gco:CharacterString>
+                        <gco:CharacterString>Queensland Cloud Seeding Research Program (QCSRP) Aircraft Measurements</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-10-29</gco:Date>
-                            </gmd:date>
-                            <gmd:dateType>
-                                <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
-                            </gmd:dateType>
-                        </gmd:CI_Date>
-                    </gmd:date>
-                    <gmd:date>
-                        <gmd:CI_Date>
-                            <gmd:date>
-                                <gco:Date>2019-10-29</gco:Date>
+                                <gco:Date>2020-09-01</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -119,8 +109,8 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/c2rf-6170" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/c2rf-6170
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/69b8-9t74" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/69b8-9t74
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
@@ -149,8 +139,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Rosie A. Fisher</gco:CharacterString>
+                                <gco:CharacterString>Tessendorf, Sarah</gco:CharacterString>
                             </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Research Applications</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>saraht@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -159,8 +163,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>William R. Wieder</gco:CharacterString>
+                                <gco:CharacterString>Weeks, Courtney</gco:CharacterString>
                             </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Research Applications</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>cweeks@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -169,8 +187,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Benjamin M. Sanderson</gco:CharacterString>
+                                <gco:CharacterString>Bruintjes, Roelof</gco:CharacterString>
                             </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Research Applications</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>roelof@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -179,68 +211,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Charles D. Koven</gco:CharacterString>
+                                <gco:CharacterString>Burger, Roelof</gco:CharacterString>
                             </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Keith W. Oleson</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Chonggang Xu</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Joshua B. Fisher</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Mingjie Shi</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Anthony P. Walker</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>David M. Lawrence</gco:CharacterString>
-                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>North-West University</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>roelof.burger@nwu.ac.za</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -249,28 +235,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>These data are the results of sensitivities with the Community Land Model (version 5, CLM5) under conditions of elevated carbon dioxide, nitrogen deposition, and present day transient control conditions. 13 parameters are modified with 5 iterations each, for four different individual flux tower sites.
-
-The CLM5 is the land surface scheme of the CESM2 Earth System model, and these simulations form the basis of a paper currently in press at the Journal of Advances in Modeling the Earth System, which forms part of the CESM2 special issue.
-
-For each site x experiment file, there are monthly CLM history output files for 53 simulations, which are 13 parameters varied across 4 iterations plus the default. The parameter files used can be found in the PFT files. Simulations 1 through 52 access the PFT files in the order 11, 12, 13, 14, 21, 22, 23, 24, 31,32,33, 34,... 131, 132, 133, 134. Simulation number 53 accesses the default PFT file (#00). 
-
-For further information on driving data, available analysis scripts, etc. please contact the Resource Support Contact below.</gco:CharacterString>
+                <gco:CharacterString>Research aircraft collected in situ microphysical and aerosol data during the QCSRP over two summer seasons in Queensland, Australia between 2007 and 2009, as described in Tessendorf et al. (2012, BAMS). The files are netcdf and/or .txt formats, and are roughly 3 GB altogether.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                         <gmd:individualName>
-                            <gco:CharacterString>Rosie Fisher</gco:CharacterString>
+                            <gco:CharacterString>Sarah Tessendorf</gco:CharacterString>
                         </gmd:individualName>
                         <gmd:organisationName>
-                            <gco:CharacterString>UCAR/NCAR - Climate and Global Dynamics Laboratory</gco:CharacterString>
+                            <gco:CharacterString>UCAR/NCAR - Research Applications</gco:CharacterString>
                         </gmd:organisationName>
                         <gmd:contactInfo>
                             <gmd:CI_Contact>
                                 <gmd:address>
                                     <gmd:CI_Address>
                                         <gmd:electronicMailAddress>
-                                            <gco:CharacterString>rosieafisher@gmail.com</gco:CharacterString>
+                                            <gco:CharacterString>saraht@ucar.edu</gco:CharacterString>
                                         </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                 </gmd:address>
@@ -324,16 +304,13 @@ For further information on driving data, available analysis scripts, etc. please
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; BIOGEOCHEMICAL CYCLES</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; CARBON</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; NITROGEN</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; BIOSPHERIC INDICATORS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD MICROPHYSICS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -390,26 +367,26 @@ For further information on driving data, available analysis scripts, etc. please
                     <gmd:geographicElement>
                         <gmd:EX_GeographicBoundingBox>
                             <gmd:westBoundLongitude>
-                                <gco:Decimal>-121.6</gco:Decimal>
+                                <gco:Decimal>152</gco:Decimal>
                             </gmd:westBoundLongitude>
                             <gmd:eastBoundLongitude>
-                                <gco:Decimal>-51.4</gco:Decimal>
+                                <gco:Decimal>154</gco:Decimal>
                             </gmd:eastBoundLongitude>
                             <gmd:southBoundLatitude>
-                                <gco:Decimal>-1.9</gco:Decimal>
+                                <gco:Decimal>-29</gco:Decimal>
                             </gmd:southBoundLatitude>
                             <gmd:northBoundLatitude>
-                                <gco:Decimal>44.5</gco:Decimal>
+                                <gco:Decimal>-27</gco:Decimal>
                             </gmd:northBoundLatitude>
                         </gmd:EX_GeographicBoundingBox>
                     </gmd:geographicElement>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_9fe6e7b6-b1f2-4e02-baee-7e29b51aeae7">
-                                        <gml:beginPosition>1760-01-01Z</gml:beginPosition>
+                                <gml:TimePeriod gml:id="tp_faad681f-9f4a-4f99-929d-61ad9c1958d3">
+                                        <gml:beginPosition>2008-01-01Z</gml:beginPosition>
 
-                                    <gml:endPosition>2159-12-31Z</gml:endPosition>
+                                    <gml:endPosition>2009-03-31Z</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -446,7 +423,7 @@ For further information on driving data, available analysis scripts, etc. please
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/9fe6e7b6-b1f2-4e02-baee-7e29b51aeae7.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/faad681f-9f4a-4f99-929d-61ad9c1958d3.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -455,7 +432,7 @@ For further information on driving data, available analysis scripts, etc. please
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>CLM5 Sensitivity Analyses</gco:CharacterString>
+                                <gco:CharacterString>Queensland Cloud Seeding Research Program (QCSRP) Aircraft Measurements</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
