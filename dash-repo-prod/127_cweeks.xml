@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2020-09-04T13:36:51Z</gco:DateTime>
+        <gco:DateTime>2020-09-14T16:22:02Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -96,6 +96,16 @@
                     <gmd:title>
                         <gco:CharacterString>Queensland Cloud Seeding Research Program (QCSRP) Aircraft Measurements</gco:CharacterString>
                     </gmd:title>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2020-09-14</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
