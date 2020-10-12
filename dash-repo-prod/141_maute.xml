@@ -11,7 +11,7 @@
                         http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.sagerepoprod::1613d171-3a51-4aa1-a503-ecb2218ee1fc</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.sagerepoprod::51954d16-4870-457f-ac07-3dbb1c8f65e1</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -49,27 +49,6 @@
             </gmd:role>
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
-    <gmd:contact>
-        <gmd:CI_ResponsibleParty>
-            <gmd:individualName>
-                <gco:CharacterString>Amy DeCastro</gco:CharacterString>
-            </gmd:individualName>
-            <gmd:contactInfo>
-                <gmd:CI_Contact>
-                    <gmd:address>
-                        <gmd:CI_Address>
-                            <gmd:electronicMailAddress>
-                                <gco:CharacterString>decastro@ucar.edu</gco:CharacterString>
-                            </gmd:electronicMailAddress>
-                        </gmd:CI_Address>
-                    </gmd:address>
-                </gmd:CI_Contact>
-            </gmd:contactInfo>
-            <gmd:role>
-                <gmd:CI_RoleCode codeList="codeListLocation#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
-            </gmd:role>
-        </gmd:CI_ResponsibleParty>
-    </gmd:contact>
     <gmd:dateStamp>
         <gco:DateTime>2020-10-12T11:34:34Z</gco:DateTime>
     </gmd:dateStamp>
@@ -83,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/qt42-zd40</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/akxe-2a56</gco:CharacterString>
     </gmd:dataSetURI>
 
     <gmd:metadataExtensionInfo>
@@ -91,7 +70,7 @@
             <gmd:extensionOnLineResource>
                 <gmd:CI_OnlineResource>
                     <gmd:linkage>
-                        <gmd:URL>https://ral.ucar.edu/projects/improved-wildland-fire-spread-prediction</gmd:URL>
+                        <gmd:URL>https://doi.org/10.1007/s11214-017-0330-3</gmd:URL>
                     </gmd:linkage>
                     <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
@@ -100,10 +79,10 @@
                         <gco:CharacterString>browser</gco:CharacterString>
                     </gmd:applicationProfile>
                     <gmd:name>
-                        <gco:CharacterString>Project Website</gco:CharacterString>
+                        <gco:CharacterString>Thermosphere-Ionosphere-Electrodynamics General Circulation Model for the Ionospheric Connection Explorer: TIEGCM-ICON</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString></gco:CharacterString>
+                        <gco:CharacterString>Maute, A. (2017). Space science reviews, 212(1-2), 523-551.</gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -115,12 +94,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Fuel Moisture Content (Live and Dead) over the Conterminous United States</gco:CharacterString>
+                        <gco:CharacterString>Ground magnetic perturbation due to external ionospheric current for a solar minimum and maximum year</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-12-06</gco:Date>
+                                <gco:Date>2020-10-09</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -130,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-01-08</gco:Date>
+                                <gco:Date>2020-10-08</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -140,8 +119,8 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/qt42-zd40" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/qt42-zd40
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/akxe-2a56" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/akxe-2a56
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
@@ -170,68 +149,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Branko Kosovic</gco:CharacterString>
+                                <gco:CharacterString>Maute, Astrid</gco:CharacterString>
                             </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Steven Massie</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Tyler McCandless</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Bill Petzke</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Pedro Jimenez Munoz</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Amy DeCastro</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Amanda Siems-Anderson</gco:CharacterString>
-                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>maute@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -240,22 +173,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>A dynamic gridded dataset of live and dead fuel moisture content (FMC) over the Conterminous United States (CONUS). The FMC dataset is created by combining satellite observations, reflectances from MODIS Terra and Aqua platforms, with surface, in situ observations of FMC from the National Fuel Moisture Database (NFMD) using a machine learning model as well as environmental data provided by the National Water Model based on the Weather Research and Forecasting – Hydro model.</gco:CharacterString>
+                <gco:CharacterString>The ground magnetic perturbations are calculated using the 3D ionospheric current system based on a stand-alone electrodynamo module using the neutral winds, ionospheric conductivities and high latitude potential from the Thermosphere-Ionosphere-Electrodynamics GCM (TIEGCM). The TIEGCM is driven at its 97 km lower boundary by 27 day averaged diurnal perturbations from a Thermosphere-Ionosphere-Mesosphere-Electrodynamics GCM (TIMEGCM) simulation using MERRA reanalysis data at the 30km TIMEGCM boundary. For details of the TIEGCM simulation please see Maute (2017). Effects of gravity and plasma pressure gradient driven ionospheric currents are included. At high latitude the Heelis ion convection is employed driven by 3-hourly Kp values. Two TIEGCM simulations are conducted, one for the solar minimum year 2009 and one for the solar maximum year 2002 by using the corresponding F10.7 and Kp values for that year. The lower boundary of TIEGCM, which simulates year 2009 conditions, was not changed for the 2002 simulation, since the 2002 simulation was used to derived dominant ionospheric current patterns and not to study the evolution of the current system. The data set is associated with the manuscript &quot;Modeling Diurnal Variation Magnetic Fields due to Ionospheric Currents&quot; by G. Egbert, P Alken, A. Maute and H. Zhang submitted to Geophysical Journal International.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                         <gmd:individualName>
-                            <gco:CharacterString>Amy DeCastro</gco:CharacterString>
+                            <gco:CharacterString>Astrid Maute</gco:CharacterString>
                         </gmd:individualName>
                         <gmd:organisationName>
-                            <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
+                            <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
                         </gmd:organisationName>
                         <gmd:contactInfo>
                             <gmd:CI_Contact>
                                 <gmd:address>
                                     <gmd:CI_Address>
                                         <gmd:electronicMailAddress>
-                                            <gco:CharacterString>decastro@ucar.edu</gco:CharacterString>
+                                            <gco:CharacterString>maute@ucar.edu</gco:CharacterString>
                                         </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                 </gmd:address>
@@ -309,10 +242,13 @@
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; NATURAL HAZARDS &gt; WILDFIRES</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; SOLAR-ATMOSPHERE/SPACE-WEATHER MODELS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; SOCIAL BEHAVIOR &gt; HAZARD MITIGATION/PLANNING</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; IONOSPHERE/MAGNETOSPHERE DYNAMICS &gt; ELECTRIC FIELDS/ELECTRIC CURRENTS</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; IONOSPHERE/MAGNETOSPHERE DYNAMICS &gt; MAGNETIC FIELDS/MAGNETIC CURRENTS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -360,13 +296,6 @@
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
 
-                    <gmd:spatialResolution>
-                        <gmd:MD_Resolution>
-                            <gmd:distance>
-                                <gco:Distance uom="km">1</gco:Distance>
-                            </gmd:distance>
-                        </gmd:MD_Resolution>
-                    </gmd:spatialResolution>
 
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
@@ -376,30 +305,19 @@
                     <gmd:geographicElement>
                         <gmd:EX_GeographicBoundingBox>
                             <gmd:westBoundLongitude>
-                                <gco:Decimal>-124.8</gco:Decimal>
+                                <gco:Decimal>-180</gco:Decimal>
                             </gmd:westBoundLongitude>
                             <gmd:eastBoundLongitude>
-                                <gco:Decimal>-70</gco:Decimal>
+                                <gco:Decimal>180</gco:Decimal>
                             </gmd:eastBoundLongitude>
                             <gmd:southBoundLatitude>
-                                <gco:Decimal>24.7</gco:Decimal>
+                                <gco:Decimal>-90</gco:Decimal>
                             </gmd:southBoundLatitude>
                             <gmd:northBoundLatitude>
-                                <gco:Decimal>49.4</gco:Decimal>
+                                <gco:Decimal>90</gco:Decimal>
                             </gmd:northBoundLatitude>
                         </gmd:EX_GeographicBoundingBox>
                     </gmd:geographicElement>
-                    <gmd:temporalElement>
-                        <gmd:EX_TemporalExtent>
-                            <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_1613d171-3a51-4aa1-a503-ecb2218ee1fc">
-                                        <gml:beginPosition>2019-08-06Z</gml:beginPosition>
-
-                                    <gml:endPosition indeterminatePosition="unknown"/>
-                                </gml:TimePeriod>
-                            </gmd:extent>
-                        </gmd:EX_TemporalExtent>
-                    </gmd:temporalElement>
                 </gmd:EX_Extent>
             </gmd:extent>
         </gmd:MD_DataIdentification>
@@ -432,7 +350,7 @@
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/1613d171-3a51-4aa1-a503-ecb2218ee1fc.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/51954d16-4870-457f-ac07-3dbb1c8f65e1.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -441,7 +359,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>Fuel Moisture Content (Live and Dead) over the Conterminous United States</gco:CharacterString>
+                                <gco:CharacterString>Ground magnetic perturbation due to external ionospheric current for a solar minimum and maximum year</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>

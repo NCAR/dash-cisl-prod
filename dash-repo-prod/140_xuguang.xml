@@ -11,7 +11,7 @@
                         http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.sagerepoprod::1613d171-3a51-4aa1-a503-ecb2218ee1fc</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.sagerepoprod::01047b36-9593-49ab-8e19-a31cbfb962d8</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -49,29 +49,8 @@
             </gmd:role>
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
-    <gmd:contact>
-        <gmd:CI_ResponsibleParty>
-            <gmd:individualName>
-                <gco:CharacterString>Amy DeCastro</gco:CharacterString>
-            </gmd:individualName>
-            <gmd:contactInfo>
-                <gmd:CI_Contact>
-                    <gmd:address>
-                        <gmd:CI_Address>
-                            <gmd:electronicMailAddress>
-                                <gco:CharacterString>decastro@ucar.edu</gco:CharacterString>
-                            </gmd:electronicMailAddress>
-                        </gmd:CI_Address>
-                    </gmd:address>
-                </gmd:CI_Contact>
-            </gmd:contactInfo>
-            <gmd:role>
-                <gmd:CI_RoleCode codeList="codeListLocation#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
-            </gmd:role>
-        </gmd:CI_ResponsibleParty>
-    </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2020-10-12T11:34:34Z</gco:DateTime>
+        <gco:DateTime>2020-10-12T11:34:33Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -83,44 +62,21 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/qt42-zd40</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/mhf3-h738</gco:CharacterString>
     </gmd:dataSetURI>
 
-    <gmd:metadataExtensionInfo>
-        <gmd:MD_MetadataExtensionInformation>
-            <gmd:extensionOnLineResource>
-                <gmd:CI_OnlineResource>
-                    <gmd:linkage>
-                        <gmd:URL>https://ral.ucar.edu/projects/improved-wildland-fire-spread-prediction</gmd:URL>
-                    </gmd:linkage>
-                    <gmd:protocol>
-                        <gco:CharacterString>https</gco:CharacterString>
-                    </gmd:protocol>
-                    <gmd:applicationProfile>
-                        <gco:CharacterString>browser</gco:CharacterString>
-                    </gmd:applicationProfile>
-                    <gmd:name>
-                        <gco:CharacterString>Project Website</gco:CharacterString>
-                    </gmd:name>
-                    <gmd:description>
-                        <gco:CharacterString></gco:CharacterString>
-                    </gmd:description>
-                </gmd:CI_OnlineResource>
-            </gmd:extensionOnLineResource>
-        </gmd:MD_MetadataExtensionInformation>
-    </gmd:metadataExtensionInfo>
 
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Fuel Moisture Content (Live and Dead) over the Conterminous United States</gco:CharacterString>
+                        <gco:CharacterString>Investigation of a neutral ‘tongue’ observed by GOLD during the geomagnetic storm on May 11, 2019</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-12-06</gco:Date>
+                                <gco:Date>2020-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -130,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-01-08</gco:Date>
+                                <gco:Date>2020-10-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -140,8 +96,8 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/qt42-zd40" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/qt42-zd40
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/mhf3-h738" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/mhf3-h738
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
@@ -170,68 +126,22 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Branko Kosovic</gco:CharacterString>
+                                <gco:CharacterString>Cai, Xuguang</gco:CharacterString>
                             </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Steven Massie</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Tyler McCandless</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Bill Petzke</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Pedro Jimenez Munoz</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Amy DeCastro</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Amanda Siems-Anderson</gco:CharacterString>
-                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>xuguang@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -240,22 +150,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>A dynamic gridded dataset of live and dead fuel moisture content (FMC) over the Conterminous United States (CONUS). The FMC dataset is created by combining satellite observations, reflectances from MODIS Terra and Aqua platforms, with surface, in situ observations of FMC from the National Fuel Moisture Database (NFMD) using a machine learning model as well as environmental data provided by the National Water Model based on the Weather Research and Forecasting – Hydro model.</gco:CharacterString>
+                <gco:CharacterString>This dataset include all the data needed for the figures in the main text of JGR paper Investigation of a neutral ‘tongue’ observed by GOLD during the geomagnetic storm on May 11, 2019. It include the percentage difference of TIE-GCM simulated column density ratio of O to N2 (O/N2) between DOY 128 and 130, between DOY 128 and 131, and the absolute difference of horizontal advection of O and N2 at pressure level -1.375 between DOY 128 and 131 from 0:10 to 6:10 UT, and the absolute difference of zonal and meridional wind at pressure level -1.375 between DOY 128 and 131 from 0:10 to 6:10</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                         <gmd:individualName>
-                            <gco:CharacterString>Amy DeCastro</gco:CharacterString>
+                            <gco:CharacterString>Xuguang Cai</gco:CharacterString>
                         </gmd:individualName>
                         <gmd:organisationName>
-                            <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
+                            <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
                         </gmd:organisationName>
                         <gmd:contactInfo>
                             <gmd:CI_Contact>
                                 <gmd:address>
                                     <gmd:CI_Address>
                                         <gmd:electronicMailAddress>
-                                            <gco:CharacterString>decastro@ucar.edu</gco:CharacterString>
+                                            <gco:CharacterString>xuguang@ucar.edu</gco:CharacterString>
                                         </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                 </gmd:address>
@@ -309,10 +219,16 @@
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; NATURAL HAZARDS &gt; WILDFIRES</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; SOCIAL BEHAVIOR &gt; HAZARD MITIGATION/PLANNING</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS &gt; ADVECTION</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; SOLAR-ATMOSPHERE/SPACE-WEATHER MODELS</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; IONOSPHERE/MAGNETOSPHERE DYNAMICS &gt; MAGNETIC STORMS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -363,7 +279,14 @@
                     <gmd:spatialResolution>
                         <gmd:MD_Resolution>
                             <gmd:distance>
-                                <gco:Distance uom="km">1</gco:Distance>
+                                <gco:Distance uom="degreesLatitude">2.5</gco:Distance>
+                            </gmd:distance>
+                        </gmd:MD_Resolution>
+                    </gmd:spatialResolution>
+                    <gmd:spatialResolution>
+                        <gmd:MD_Resolution>
+                            <gmd:distance>
+                                <gco:Distance uom="degreesLongitude">2.5</gco:Distance>
                             </gmd:distance>
                         </gmd:MD_Resolution>
                     </gmd:spatialResolution>
@@ -376,26 +299,26 @@
                     <gmd:geographicElement>
                         <gmd:EX_GeographicBoundingBox>
                             <gmd:westBoundLongitude>
-                                <gco:Decimal>-124.8</gco:Decimal>
+                                <gco:Decimal>-180</gco:Decimal>
                             </gmd:westBoundLongitude>
                             <gmd:eastBoundLongitude>
-                                <gco:Decimal>-70</gco:Decimal>
+                                <gco:Decimal>180</gco:Decimal>
                             </gmd:eastBoundLongitude>
                             <gmd:southBoundLatitude>
-                                <gco:Decimal>24.7</gco:Decimal>
+                                <gco:Decimal>-88.75</gco:Decimal>
                             </gmd:southBoundLatitude>
                             <gmd:northBoundLatitude>
-                                <gco:Decimal>49.4</gco:Decimal>
+                                <gco:Decimal>88.75</gco:Decimal>
                             </gmd:northBoundLatitude>
                         </gmd:EX_GeographicBoundingBox>
                     </gmd:geographicElement>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_1613d171-3a51-4aa1-a503-ecb2218ee1fc">
-                                        <gml:beginPosition>2019-08-06Z</gml:beginPosition>
+                                <gml:TimePeriod gml:id="tp_01047b36-9593-49ab-8e19-a31cbfb962d8">
+                                        <gml:beginPosition>2019-05-10T15:10:00Z</gml:beginPosition>
 
-                                    <gml:endPosition indeterminatePosition="unknown"/>
+                                    <gml:endPosition>2019-05-11T23:55:00Z</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -432,7 +355,7 @@
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/1613d171-3a51-4aa1-a503-ecb2218ee1fc.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/01047b36-9593-49ab-8e19-a31cbfb962d8.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -441,7 +364,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>Fuel Moisture Content (Live and Dead) over the Conterminous United States</gco:CharacterString>
+                                <gco:CharacterString>Investigation of a neutral ‘tongue’ observed by GOLD during the geomagnetic storm on May 11, 2019</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
