@@ -11,7 +11,7 @@
                         http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.sagerepoprod::ef88d752-02f2-45d0-877f-712cca19a2ed</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.sagerepoprod::a76a11ff-5e2b-40a0-a714-1a4567493409</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -62,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/dzek-0012</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/r33v-sv91</gco:CharacterString>
     </gmd:dataSetURI>
 
     <gmd:metadataExtensionInfo>
@@ -70,19 +70,19 @@
             <gmd:extensionOnLineResource>
                 <gmd:CI_OnlineResource>
                     <gmd:linkage>
-                        <gmd:URL>http://www.cesm.ucar.edu/models/cesm1.2/clm/models/lnd/clm/doc/UsersGuide/history_fields_table_45.xhtml</gmd:URL>
+                        <gmd:URL>https://doi.org/10.1175/2008JCLI2292.1</gmd:URL>
                     </gmd:linkage>
                     <gmd:protocol>
-                        <gco:CharacterString>http</gco:CharacterString>
+                        <gco:CharacterString>https</gco:CharacterString>
                     </gmd:protocol>
                     <gmd:applicationProfile>
                         <gco:CharacterString>browser</gco:CharacterString>
                     </gmd:applicationProfile>
                     <gmd:name>
-                        <gco:CharacterString>Definition of CLM history variables</gco:CharacterString>
+                        <gco:CharacterString>A New Sea Surface Temperature and Sea Ice Boundary Dataset for the Community Atmosphere Model</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString></gco:CharacterString>
+                        <gco:CharacterString>Hurrell, J. W., J. J. Hack, D. Shea, J. M. Caron, and J. Rosinski. (2008). J. Climate, 21, 5145–5153.</gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -94,12 +94,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>CLM5.0 TRENDY Simulations used for the 2020 Global Carbon Budget</gco:CharacterString>
+                        <gco:CharacterString>Merged Hadley-OI sea surface temperature and sea ice concentration data set</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-11-04</gco:Date>
+                                <gco:Date>2020-11-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-10-28</gco:Date>
+                                <gco:Date>2020-11-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -119,8 +119,8 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/dzek-0012" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/dzek-0012
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/r33v-sv91" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/r33v-sv91
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
@@ -149,7 +149,27 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Lombardozzi, Danica</gco:CharacterString>
+                                <gco:CharacterString>Shea, Dennis</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Hurrell, Jim</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Phillips, Adam</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Climate &amp; Global Dynamics</gco:CharacterString>
@@ -159,7 +179,7 @@
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>dll@ucar.edu</gco:CharacterString>
+                                                <gco:CharacterString>asphilli@ucar.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
@@ -173,19 +193,12 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The data included consist of four simulations completed for Trends in land carbon cycle (TRENDY) simulations for the Global Carbon Project, which follow the land modeling protocol used for the 2020 Global Carbon Budget. The simulations include:
-
-        •       S0, an extension of the spin up with constant forcings and land use
-        •       S1, including transient CO2, N deposition, and population density
-        •       S2, including transient CO2, climate, N deposition, population density, urban, and aerosols
-        •       S3, including all transient forcings from the S2 simulation, as well as transient land use change, which includes shifting cultivation, irrigation, and agricultural N fertilizer
-
-Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land use change, and N deposition data provided by TRENDY.  All files include monthly averaged data for the full time period. The ‘h0’ files are grid cell averages, whereas the ‘h1’ files are 1-dimensional files averaged by plant functional type. A script to grid the ‘h1’ files is available on the CTSM python GitHub website: https://github.com/NCAR/ctsm_python_gallery/blob/master/notebooks/PFT-Gridding.ipynb</gco:CharacterString>
+                <gco:CharacterString>The merged Hadley-OI sea surface temperature (SST) and sea ice concentration (SIC) data sets were specifically developed as surface forcing data sets for AMIP style uncoupled simulations of the Community Atmosphere Model (CAM). The Hadley Centre&apos;s SST/SIC version 1.1 (HADISST1), which is derived gridded, bias-adjusted in situ observations, were merged with the NOAA-Optimal Interpolation (version 2; OI.v2) analyses. The HADISST1 spanned 1870 onward but the OI.v2, which started in November 1981, better resolved features such as the Gulf Stream and Kuroshio Current which are important components of the climate system. Since the two data sets used different development methods, anomalies from a base period were used to create a more homogeneous record. Also, additional adjustments were made to the SIC data set.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                         <gmd:individualName>
-                            <gco:CharacterString>Danica Lombardozzi</gco:CharacterString>
+                            <gco:CharacterString>Adam Phillips</gco:CharacterString>
                         </gmd:individualName>
                         <gmd:organisationName>
                             <gco:CharacterString>UCAR/NCAR - Climate &amp; Global Dynamics</gco:CharacterString>
@@ -195,7 +208,7 @@ Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land us
                                 <gmd:address>
                                     <gmd:CI_Address>
                                         <gmd:electronicMailAddress>
-                                            <gco:CharacterString>dll@ucar.edu</gco:CharacterString>
+                                            <gco:CharacterString>asphilli@ucar.edu</gco:CharacterString>
                                         </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                 </gmd:address>
@@ -250,16 +263,13 @@ Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land us
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; BIOGEOCHEMICAL CYCLES</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; CRYOSPHERE &gt; SEA ICE &gt; SEA ICE CONCENTRATION</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; TERRESTRIAL ECOSYSTEMS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; ATMOSPHERIC GENERAL CIRCULATION MODELS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; LAND USE/LAND COVER</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; LAND SURFACE MODELS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; OCEANS &gt; OCEAN TEMPERATURE &gt; SEA SURFACE TEMPERATURE</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -312,14 +322,14 @@ Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land us
                     <gmd:spatialResolution>
                         <gmd:MD_Resolution>
                             <gmd:distance>
-                                <gco:Distance uom="degreesLatitude">0.9</gco:Distance>
+                                <gco:Distance uom="degreesLatitude">1</gco:Distance>
                             </gmd:distance>
                         </gmd:MD_Resolution>
                     </gmd:spatialResolution>
                     <gmd:spatialResolution>
                         <gmd:MD_Resolution>
                             <gmd:distance>
-                                <gco:Distance uom="degreesLongitude">1.25</gco:Distance>
+                                <gco:Distance uom="degreesLongitude">1</gco:Distance>
                             </gmd:distance>
                         </gmd:MD_Resolution>
                     </gmd:spatialResolution>
@@ -347,10 +357,10 @@ Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land us
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_ef88d752-02f2-45d0-877f-712cca19a2ed">
-                                        <gml:beginPosition>1700-01-01Z</gml:beginPosition>
+                                <gml:TimePeriod gml:id="tp_a76a11ff-5e2b-40a0-a714-1a4567493409">
+                                        <gml:beginPosition>1870-01-01Z</gml:beginPosition>
 
-                                    <gml:endPosition>2019-12-31Z</gml:endPosition>
+                                    <gml:endPosition>2020-08-31Z</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -387,7 +397,7 @@ Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land us
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/ef88d752-02f2-45d0-877f-712cca19a2ed.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/a76a11ff-5e2b-40a0-a714-1a4567493409.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -396,7 +406,7 @@ Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land us
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>CLM5.0 TRENDY Simulations used for the 2020 Global Carbon Budget</gco:CharacterString>
+                                <gco:CharacterString>Merged Hadley-OI sea surface temperature and sea ice concentration data set</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>

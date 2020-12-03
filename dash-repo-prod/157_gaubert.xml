@@ -11,7 +11,7 @@
                         http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.sagerepoprod::ef88d752-02f2-45d0-877f-712cca19a2ed</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.sagerepoprod::a27f0450-7773-4e0d-b78e-54b78a752098</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -62,44 +62,21 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/dzek-0012</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/cgg0-rr19</gco:CharacterString>
     </gmd:dataSetURI>
 
-    <gmd:metadataExtensionInfo>
-        <gmd:MD_MetadataExtensionInformation>
-            <gmd:extensionOnLineResource>
-                <gmd:CI_OnlineResource>
-                    <gmd:linkage>
-                        <gmd:URL>http://www.cesm.ucar.edu/models/cesm1.2/clm/models/lnd/clm/doc/UsersGuide/history_fields_table_45.xhtml</gmd:URL>
-                    </gmd:linkage>
-                    <gmd:protocol>
-                        <gco:CharacterString>http</gco:CharacterString>
-                    </gmd:protocol>
-                    <gmd:applicationProfile>
-                        <gco:CharacterString>browser</gco:CharacterString>
-                    </gmd:applicationProfile>
-                    <gmd:name>
-                        <gco:CharacterString>Definition of CLM history variables</gco:CharacterString>
-                    </gmd:name>
-                    <gmd:description>
-                        <gco:CharacterString></gco:CharacterString>
-                    </gmd:description>
-                </gmd:CI_OnlineResource>
-            </gmd:extensionOnLineResource>
-        </gmd:MD_MetadataExtensionInformation>
-    </gmd:metadataExtensionInfo>
 
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>CLM5.0 TRENDY Simulations used for the 2020 Global Carbon Budget</gco:CharacterString>
+                        <gco:CharacterString>CAM-chem simulation of the 2020 lockdown</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-11-04</gco:Date>
+                                <gco:Date>2020-11-23</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-10-28</gco:Date>
+                                <gco:Date>2020-11-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -119,8 +96,8 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/dzek-0012" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/dzek-0012
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/cgg0-rr19" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/cgg0-rr19
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
@@ -149,17 +126,17 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Lombardozzi, Danica</gco:CharacterString>
+                                <gco:CharacterString>Gaubert, Benjamin</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - Climate &amp; Global Dynamics</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - Atmospheric Chemistry Observations &amp; Modeling</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>dll@ucar.edu</gco:CharacterString>
+                                                <gco:CharacterString>gaubert@ucar.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
@@ -170,32 +147,157 @@
                             </gmd:role>
                         </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Tilmes, Simone</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Bouarar, Idir</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Doumbia, Thierno</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Liu, Yiming</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Stavrakou, Trissevgeni</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Deroubaix, Adrien</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Darras, Sabine</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Elguindi, Nellie</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Granier Forrest Lacey, Claire</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Müller, Jean-François</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Shi, Xiaoqin</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Wang, Tao</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Brasseur, Guy</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The data included consist of four simulations completed for Trends in land carbon cycle (TRENDY) simulations for the Global Carbon Project, which follow the land modeling protocol used for the 2020 Global Carbon Budget. The simulations include:
+                <gco:CharacterString>With the reduction in economic activities following the COVID-19 pandemic outbreak in early 2020, most emissions of air pollutants (i.e., nitrogen oxides (NOx), carbon monoxide (CO), sulfur dioxide (SO2), volatile organic carbon (VOC), black carbon (BC), organic carbon (OC)) have decreased substantially during several months in different regions of the world. This unintended global experiment has given insight on some of the processes that control air quality and offered a glimpse into a potential future in which air quality would be improved. Here, a global atmospheric model is used to assess the changes in the chemical composition of the atmosphere during the pandemic period and in the related chemical processes that lead to the formation of ozone (O3) and secondary organic aerosols (SOA).
 
-        •       S0, an extension of the spin up with constant forcings and land use
-        •       S1, including transient CO2, N deposition, and population density
-        •       S2, including transient CO2, climate, N deposition, population density, urban, and aerosols
-        •       S3, including all transient forcings from the S2 simulation, as well as transient land use change, which includes shifting cultivation, irrigation, and agricultural N fertilizer
-
-Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land use change, and N deposition data provided by TRENDY.  All files include monthly averaged data for the full time period. The ‘h0’ files are grid cell averages, whereas the ‘h1’ files are 1-dimensional files averaged by plant functional type. A script to grid the ‘h1’ files is available on the CTSM python GitHub website: https://github.com/NCAR/ctsm_python_gallery/blob/master/notebooks/PFT-Gridding.ipynb</gco:CharacterString>
+The chemical fields made available here are provided by the Community Earth System Model (CESM) version 2.2 that accounts for interactive physical, chemical and dynamical processes. The simulations are performed with a detailed chemical scheme (MOZART TS1 mechanism) driven by emission changes of primary pollutants and forced by realistic weather conditions reproduce reasonably well the changes observed in the chemical composition of the atmosphere, and specifically in the perturbations of surface ozone and other oxidants during the COVID-19 pandemic. Two simulations are made available, a reference using daily emissions for 2020 and another one that includes the lockdown induced emission changes.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                         <gmd:individualName>
-                            <gco:CharacterString>Danica Lombardozzi</gco:CharacterString>
+                            <gco:CharacterString>Benjamin Gaubert</gco:CharacterString>
                         </gmd:individualName>
                         <gmd:organisationName>
-                            <gco:CharacterString>UCAR/NCAR - Climate &amp; Global Dynamics</gco:CharacterString>
+                            <gco:CharacterString>UCAR/NCAR - Atmospheric Chemistry Observations &amp; Modeling</gco:CharacterString>
                         </gmd:organisationName>
                         <gmd:contactInfo>
                             <gmd:CI_Contact>
                                 <gmd:address>
                                     <gmd:CI_Address>
                                         <gmd:electronicMailAddress>
-                                            <gco:CharacterString>dll@ucar.edu</gco:CharacterString>
+                                            <gco:CharacterString>gaubert@ucar.edu</gco:CharacterString>
                                         </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                 </gmd:address>
@@ -250,16 +352,19 @@ Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land us
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOLOGICAL DYNAMICS &gt; ECOSYSTEM FUNCTIONS &gt; BIOGEOCHEMICAL CYCLES</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; ORGANIC PARTICLES</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; BIOSPHERE &gt; ECOSYSTEMS &gt; TERRESTRIAL ECOSYSTEMS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AIR QUALITY &gt; TROPOSPHERIC OZONE</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; LAND SURFACE &gt; LAND USE/LAND COVER</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; OXYGEN COMPOUNDS &gt; OZONE</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; LAND SURFACE MODELS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; ATMOSPHERIC CHEMISTRY MODELS</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; COUPLED CLIMATE MODELS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -309,20 +414,6 @@ Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land us
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
-                    <gmd:spatialResolution>
-                        <gmd:MD_Resolution>
-                            <gmd:distance>
-                                <gco:Distance uom="degreesLatitude">0.9</gco:Distance>
-                            </gmd:distance>
-                        </gmd:MD_Resolution>
-                    </gmd:spatialResolution>
-                    <gmd:spatialResolution>
-                        <gmd:MD_Resolution>
-                            <gmd:distance>
-                                <gco:Distance uom="degreesLongitude">1.25</gco:Distance>
-                            </gmd:distance>
-                        </gmd:MD_Resolution>
-                    </gmd:spatialResolution>
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
             </gmd:language>
@@ -347,10 +438,10 @@ Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land us
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_ef88d752-02f2-45d0-877f-712cca19a2ed">
-                                        <gml:beginPosition>1700-01-01Z</gml:beginPosition>
+                                <gml:TimePeriod gml:id="tp_a27f0450-7773-4e0d-b78e-54b78a752098">
+                                        <gml:beginPosition>2020-01-01Z</gml:beginPosition>
 
-                                    <gml:endPosition>2019-12-31Z</gml:endPosition>
+                                    <gml:endPosition>2020-06-01Z</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -387,7 +478,7 @@ Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land us
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/ef88d752-02f2-45d0-877f-712cca19a2ed.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/a27f0450-7773-4e0d-b78e-54b78a752098.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -396,7 +487,7 @@ Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land us
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>CLM5.0 TRENDY Simulations used for the 2020 Global Carbon Budget</gco:CharacterString>
+                                <gco:CharacterString>CAM-chem simulation of the 2020 lockdown</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
