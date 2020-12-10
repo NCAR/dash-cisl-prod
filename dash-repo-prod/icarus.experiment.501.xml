@@ -11,7 +11,7 @@
                         http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.sagerepoprod::551850c3-8e18-4acb-8ed1-edc9803c6bb6</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.sagerepoprod::87869a79-32d9-466e-9282-31516b012614</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2020-12-10T10:19:39Z</gco:DateTime>
+        <gco:DateTime>2020-12-10T10:19:45Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/690e-r347</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/hgbc-8p56</gco:CharacterString>
     </gmd:dataSetURI>
 
     <gmd:metadataExtensionInfo>
@@ -70,7 +70,7 @@
             <gmd:extensionOnLineResource>
                 <gmd:CI_OnlineResource>
                     <gmd:linkage>
-                        <gmd:URL>https://dx.doi.org/10.5194/acp-17-839-2017</gmd:URL>
+                        <gmd:URL>https://dx.doi.org/10.5194/acp-19-12749-2019</gmd:URL>
                     </gmd:linkage>
                     <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
@@ -82,30 +82,7 @@
                         <gco:CharacterString>Publication</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Chemical oxidative potential of secondary organic aerosol (SOA) generated from the photooxidation of biogenic and anthropogenic volatile organic compounds</gco:CharacterString>
-                    </gmd:description>
-                </gmd:CI_OnlineResource>
-            </gmd:extensionOnLineResource>
-        </gmd:MD_MetadataExtensionInformation>
-    </gmd:metadataExtensionInfo>
-    <gmd:metadataExtensionInfo>
-        <gmd:MD_MetadataExtensionInformation>
-            <gmd:extensionOnLineResource>
-                <gmd:CI_OnlineResource>
-                    <gmd:linkage>
-                        <gmd:URL>https://dx.doi.org/10.5194/acp-17-11423-2017</gmd:URL>
-                    </gmd:linkage>
-                    <gmd:protocol>
-                        <gco:CharacterString>https</gco:CharacterString>
-                    </gmd:protocol>
-                    <gmd:applicationProfile>
-                        <gco:CharacterString>browser</gco:CharacterString>
-                    </gmd:applicationProfile>
-                    <gmd:name>
-                        <gco:CharacterString>Publication</gco:CharacterString>
-                    </gmd:name>
-                    <gmd:description>
-                        <gco:CharacterString>Inflammatory responses to secondary organic aerosols (SOA) generated from biogenic and anthropogenic precursors</gco:CharacterString>
+                        <gco:CharacterString>Chemical composition and hydrolysis of organic nitrate aerosol formed from hydroxyl and nitrate radical oxidation of α-pinene and β-pinene</gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -117,12 +94,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160123_a-pinene_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20171004_ALPHA-PINENE_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-12-07</gco:Date>
+                                <gco:Date>2020-12-09</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-12-07</gco:Date>
+                                <gco:Date>2020-12-09</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -142,8 +119,8 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/690e-r347" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/690e-r347
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/hgbc-8p56" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/hgbc-8p56
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
@@ -186,21 +163,21 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>Goals:
-Generate SOA for health study.
+To characterize particulate organic nitrate generated from photooxidation of a-pinene in moderate NO level and to understand its hydrolysis process.
 
 Summary:
-AP+H2O2, photooxidation under drycondition.
+SOA including particulate organic nitrate formed upon UV light on by injecting 26 ppb a-pinene and 2 ppm H2O2, and keeping NO level at around 50 ppb by continuous injection.
 
 Organization: Ng Research Group
 Lab Affiliation: Georgia Institute of Technology
 Chamber: Georgia Tech Environmental Chamber (Near)
 
-Experiment Category: Aerosol formation
+Experiment Category: Condensed-phase chemical reaction, Aerosol formation
 Oxidant: Hydroxyl radical
-Reactants: a-pinene
-Reaction Type: Photooxidation
-Relative Humidity: 1-4
-Temperature: 24-27
+Reactants: ALPHA-PINENE
+Reaction Type: Photooxidation, Hydrolysis
+Relative Humidity: 2-6
+Temperature: 22-24
 Seed Name: Ammonium sulfate</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
@@ -352,10 +329,10 @@ Seed Name: Ammonium sulfate</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_551850c3-8e18-4acb-8ed1-edc9803c6bb6">
-                                        <gml:beginPosition>2016-01-23Z</gml:beginPosition>
+                                <gml:TimePeriod gml:id="tp_87869a79-32d9-466e-9282-31516b012614">
+                                        <gml:beginPosition>2017-10-04Z</gml:beginPosition>
 
-                                    <gml:endPosition>2016-01-23Z</gml:endPosition>
+                                    <gml:endPosition>2017-10-04Z</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -392,7 +369,7 @@ Seed Name: Ammonium sulfate</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/551850c3-8e18-4acb-8ed1-edc9803c6bb6.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/87869a79-32d9-466e-9282-31516b012614.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -401,7 +378,7 @@ Seed Name: Ammonium sulfate</gco:CharacterString>
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160123_a-pinene_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20171004_ALPHA-PINENE_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
