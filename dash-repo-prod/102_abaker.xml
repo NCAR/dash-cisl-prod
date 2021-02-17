@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <gmd:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  xmlns:gco="http://www.isotc211.org/2005/gco"
                  xmlns:gmd="http://www.isotc211.org/2005/gmd"
@@ -7,11 +6,11 @@
                  xmlns:gmx="http://www.isotc211.org/2005/gmx"
                  xmlns:xlink="http://www.w3.org/1999/xlink"
                  xsi:schemaLocation="http://www.isotc211.org/2005/gco http://www.isotc211.org/2005/gco/gco.xsd
-                        http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd
-                        http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
+                                     http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd
+                                     http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.sagerepoprod::406f5e67-531a-496b-9f6c-14bf10e0852c</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.dashrepo::406f5e67-531a-496b-9f6c-14bf10e0852c</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -22,17 +21,18 @@
         <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="004">utf8</gmd:MD_CharacterSetCode>
     </gmd:characterSet>
 
-
     <gmd:hierarchyLevel>
         <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="005">dataset</gmd:MD_ScopeCode>
     </gmd:hierarchyLevel>
-
 
     <gmd:contact>
         <gmd:CI_ResponsibleParty>
             <gmd:individualName>
                 <gco:CharacterString>DASH Repository Curator</gco:CharacterString>
             </gmd:individualName>
+            <gmd:organisationName>
+                <gco:CharacterString>UCAR/NCAR - DASH Repository</gco:CharacterString>
+            </gmd:organisationName>
             <gmd:contactInfo>
                 <gmd:CI_Contact>
                     <gmd:address>
@@ -45,12 +45,13 @@
                 </gmd:CI_Contact>
             </gmd:contactInfo>
             <gmd:role>
-                <gmd:CI_RoleCode codeList="codeListLocation#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
             </gmd:role>
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
+
     <gmd:dateStamp>
-        <gco:DateTime>2020-12-08T08:54:38Z</gco:DateTime>
+        <gco:DateTime>2021-02-17T12:14:15Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -174,36 +175,33 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This repository contains data from an ensemble of 100-year runs on the Cheyenne computer at NCAR. The purpose of this data set is to allow an investigation of how different variables are affected by software and hardware modifications at different time scales. The data was produced by a CESM 1.3 series tag using the CAM5 model version described in Kay et al. (2015). The simulations are CESM startup runs using a present-day F compset (active atmosphere and land, data ocean, and prescribed ice concentration), CAM5 physics at approximately 1 degree latitude/longitude resolution, and the spectral element dynamical core.
-
-The output contains CAM data from 147 simulations each with a 100-year time series (100 time points) of 134 variables.  Of the 147 runs, 139 are control runs that differ only by an order double precision perturbation to the initial temperature, where 114 were from an Intel compilation and 25 from a GNU compilation.  The remaining 8 runs are so-called test runs, each with a single modification (e.g., single parameter, compiler, minor code change) changed relative to the control runs.
-
-The simulations originally output monthly data. The modestly sized dataset released here is a result of annually averaging the monthly files, and then spatially averaging the annual averages over the grid. Each of the 147 NetCDF files corresponding to a single simulation contains the variable names and a matrix of 100 years of annual averages for each variable.</gco:CharacterString>
+                <gco:CharacterString>This repository contains data from an ensemble of 100-year runs on the Cheyenne computer at NCAR. The purpose of this data set is to allow an investigation of how different variables are affected by software and hardware modifications at different time scales. The data was produced by a CESM 1.3 series tag using the CAM5 model version described in Kay et al. (2015). The simulations are CESM startup runs using a present-day F compset (active atmosphere and land, data ocean, and prescribed ice concentration), CAM5 physics at approximately 1 degree latitude/longitude resolution, and the spectral element dynamical core. The output contains CAM data from 147 simulations each with a 100-year time series (100 time points) of 134 variables. Of the 147 runs, 139 are control runs that differ only by an order double precision perturbation to the initial temperature, where 114 were from an Intel compilation and 25 from a GNU compilation. The remaining 8 runs are so-called test runs, each with a single modification (e.g., single parameter, compiler, minor code change) changed relative to the control runs. The simulations originally output monthly data. The modestly sized dataset released here is a result of annually averaging the monthly files, and then spatially averaging the annual averages over the grid. Each of the 147 NetCDF files corresponding to a single simulation contains the variable names and a matrix of 100 years of annual averages for each variable.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
-                        <gmd:individualName>
-                            <gco:CharacterString>Allison Baker</gco:CharacterString>
-                        </gmd:individualName>
-                        <gmd:organisationName>
-                            <gco:CharacterString>UCAR/NCAR - Computational &amp; Information Systems</gco:CharacterString>
-                        </gmd:organisationName>
-                        <gmd:contactInfo>
-                            <gmd:CI_Contact>
-                                <gmd:address>
-                                    <gmd:CI_Address>
-                                        <gmd:electronicMailAddress>
-                                            <gco:CharacterString>abaker@ucar.edu</gco:CharacterString>
-                                        </gmd:electronicMailAddress>
-                                    </gmd:CI_Address>
-                                </gmd:address>
-                            </gmd:CI_Contact>
-                        </gmd:contactInfo>
+                    <gmd:individualName>
+                        <gco:CharacterString>Allison Baker</gco:CharacterString>
+                    </gmd:individualName>
+                    <gmd:organisationName>
+                        <gco:CharacterString>UCAR/NCAR - Computational &amp; Information Systems</gco:CharacterString>
+                    </gmd:organisationName>
+                    <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                            <gmd:address>
+                                <gmd:CI_Address>
+                                    <gmd:electronicMailAddress>
+                                        <gco:CharacterString>abaker@ucar.edu</gco:CharacterString>
+                                    </gmd:electronicMailAddress>
+                                </gmd:CI_Address>
+                            </gmd:address>
+                        </gmd:CI_Contact>
+                    </gmd:contactInfo>
                     <gmd:role>
                         <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
                     </gmd:role>
                 </gmd:CI_ResponsibleParty>
             </gmd:pointOfContact>
+
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
@@ -244,7 +242,6 @@ The simulations originally output monthly data. The modestly sized dataset relea
                     </gmd:thesaurusName>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
@@ -285,70 +282,65 @@ The simulations originally output monthly data. The modestly sized dataset relea
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
 
-
-
             <gmd:resourceConstraints>
                 <gmd:MD_LegalConstraints>
                     <gmd:useLimitation>
                         <gco:CharacterString>
-                                Creative Commons Attribution 4.0 International License.
+                            Creative Commons Attribution 4.0 International License.
                         </gco:CharacterString>
                     </gmd:useLimitation>
                     <gmd:otherConstraints>
                         <gco:CharacterString>
-                                None
+                            None
                         </gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
-                    <gmd:spatialResolution>
-                        <gmd:MD_Resolution>
-                            <gmd:distance>
-                                <gco:Distance uom="degreesLatitude">1</gco:Distance>
-                            </gmd:distance>
-                        </gmd:MD_Resolution>
-                    </gmd:spatialResolution>
-                    <gmd:spatialResolution>
-                        <gmd:MD_Resolution>
-                            <gmd:distance>
-                                <gco:Distance uom="degreesLongitude">1</gco:Distance>
-                            </gmd:distance>
-                        </gmd:MD_Resolution>
-                    </gmd:spatialResolution>
+
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLatitude">1.0</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLongitude">1.0</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
             </gmd:language>
+
             <gmd:extent>
                 <gmd:EX_Extent>
                     <gmd:geographicElement>
                         <gmd:EX_GeographicBoundingBox>
                             <gmd:westBoundLongitude>
-                                <gco:Decimal>-180</gco:Decimal>
+                                <gco:Decimal>-180.0</gco:Decimal>
                             </gmd:westBoundLongitude>
                             <gmd:eastBoundLongitude>
-                                <gco:Decimal>180</gco:Decimal>
+                                <gco:Decimal>180.0</gco:Decimal>
                             </gmd:eastBoundLongitude>
                             <gmd:southBoundLatitude>
-                                <gco:Decimal>-90</gco:Decimal>
+                                <gco:Decimal>-90.0</gco:Decimal>
                             </gmd:southBoundLatitude>
                             <gmd:northBoundLatitude>
-                                <gco:Decimal>90</gco:Decimal>
+                                <gco:Decimal>90.0</gco:Decimal>
                             </gmd:northBoundLatitude>
                         </gmd:EX_GeographicBoundingBox>
                     </gmd:geographicElement>
                 </gmd:EX_Extent>
             </gmd:extent>
+
         </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
 
     <gmd:distributionInfo>
         <gmd:MD_Distribution>
-            <gmd:distributionFormat>
-                <gmd:MD_Format>
-                    <gmd:name gco:nilReason="missing"/>
-                    <gmd:version gco:nilReason="missing"/>
-                </gmd:MD_Format>
-            </gmd:distributionFormat>
             <gmd:distributor>
                 <gmd:MD_Distributor>
                     <gmd:distributorContact>
@@ -393,4 +385,3 @@ The simulations originally output monthly data. The modestly sized dataset relea
     </gmd:distributionInfo>
 
 </gmd:MD_Metadata>
-
