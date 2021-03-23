@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::53fd5850-a61a-4533-8aee-fededbe5a686</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.dashrepo::14fae224-6b53-47c7-9a49-cfb240adc4be</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-03-22T22:15:36Z</gco:DateTime>
+        <gco:DateTime>2021-03-22T22:15:10Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/7h5k-kz56</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/z8er-k616</gco:CharacterString>
     </gmd:dataSetURI>
 
     <gmd:metadataExtensionInfo>
@@ -70,7 +70,7 @@
             <gmd:extensionOnLineResource>
                 <gmd:CI_OnlineResource>
                     <gmd:linkage>
-                        <gmd:URL>https://dx.doi.org/10.5194/acp-17-839-2017</gmd:URL>
+                        <gmd:URL>https://www.nccs.nasa.gov/services/data-collections/coupled-products/geos5-forecast</gmd:URL>
                     </gmd:linkage>
                     <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
@@ -79,10 +79,10 @@
                         <gco:CharacterString>browser</gco:CharacterString>
                     </gmd:applicationProfile>
                     <gmd:name>
-                        <gco:CharacterString>Publication</gco:CharacterString>
+                        <gco:CharacterString>GEOS-5</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Chemical oxidative potential of secondary organic aerosol (SOA) generated from the photooxidation of biogenic and anthropogenic volatile organic compounds</gco:CharacterString>
+                        <gco:CharacterString></gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -93,7 +93,7 @@
             <gmd:extensionOnLineResource>
                 <gmd:CI_OnlineResource>
                     <gmd:linkage>
-                        <gmd:URL>https://dx.doi.org/10.5194/acp-17-11423-2017</gmd:URL>
+                        <gmd:URL>https://www.nco.ncep.noaa.gov/pmb/products/ngac</gmd:URL>
                     </gmd:linkage>
                     <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
@@ -102,10 +102,56 @@
                         <gco:CharacterString>browser</gco:CharacterString>
                     </gmd:applicationProfile>
                     <gmd:name>
-                        <gco:CharacterString>Publication</gco:CharacterString>
+                        <gco:CharacterString>NGAC</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Inflammatory responses to secondary organic aerosols (SOA) generated from biogenic and anthropogenic precursors</gco:CharacterString>
+                        <gco:CharacterString></gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://apps.ecmwf.int/datasets/data/cams-nrealtime/levtype=sfc/</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>CAMS NRT</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString></gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://aeronet.gsfc.nasa.gov/new_web/data.html</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>AERONET</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString></gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -117,12 +163,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160126_M-XYLENE_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
+                        <gco:CharacterString>Middle East AOD550 Forecasts &amp; Observations, 2018–2019</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-12-09</gco:Date>
+                                <gco:Date>2021-03-17</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +178,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-12-09</gco:Date>
+                                <gco:Date>2021-03-03</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -142,26 +188,47 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/7h5k-kz56" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/7h5k-kz56
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/z8er-k616" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/z8er-k616
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
                     </gmd:identifier>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Ng, Nga (Sally)</gco:CharacterString>
-                            </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>Ng Research Group</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - DASH Repository</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>ng@chbe.gatech.edu</gco:CharacterString>
+                                                <gco:CharacterString>datahelp@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Lee, Jared A.</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Research Applications</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>jaredlee@ucar.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
@@ -174,33 +241,62 @@
                     </gmd:citedResponsibleParty>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Jimenez, Pedro A.</gco:CharacterString>
+                            </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>ICARUS Community</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - Research Applications</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Gueymard, Christian A.</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Nguyen, Nhi</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Research Applications</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
                         </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Generate SOA for health study. Summary: MX+H2O2, photooxidation under dry condition. Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Far) Experiment Category: Aerosol formation Oxidant: Hydroxyl radical Reactants: M-XYLENE Reaction Type: Photooxidation Relative Humidity: 1-2 Temperature: 24-27 Seed Name: Ammonium sulfate</gco:CharacterString>
+                <gco:CharacterString>This dataset is used in a study (Lee et al. 2021) in which we compared total aerosol forecasts in the Middle East from three publicly available models, from NASA and NOAA in the U.S. and from CAMS in Europe. We used forecasts issued twice daily during all of 2018–2019. From each model run we validated forecasts of total aerosol optical depth at 550 nm (AOD550) against observations made from 20 ground-based AERONET stations across the region. We found that the NASA GEOS-5 model performed the best overall in the Middle East, the CAMS NRT model was second-best, and the NOAA NGAC model generally performed poorly. Because dust storms are a relatively common phenomenon in the Middle East and bring significant disruptions both to solar power generation and to society in general, we also examined how well the three forecast models performed during two dust storm events. Reference: Lee, J. A., C. A. Gueymard, and P. A. Jiménez, 2021: Performance of aerosol optical depth forecasts over the Middle East: Multi-model analysis and validation. J. Geophys. Res. Atmos., submitted. GEOS-5 model forecast data: 14.8 GB total, .nc4 format, models initialized at 00 &amp;amp; 12 UTC daily from 1 Jan 2018–31 Dec 2019, with 1-hourly forecasts (out to 240 h for 00 UTC cycles, and 120 h for 12 UTC cycles), 105 latitude points (16.0 deg N –&amp;nbsp;42.0 deg N, 0.25 deg grid spacing) x 135 longitude points (24.0625 deg E – 65.9375 deg E, 0.3125 deg grid spacing). One file per forecast valid time. Variable: Total aerosol optical extinction at 550 nm. Recent GEOS-5 data can be freely downloaded from https://www.nccs.nasa.gov/services/data-collections/coupled-products/geos5-forecast. NGAC model forecast data: 1.1 GB total, .grib2 format, models initialized at 00 &amp;amp; 12 UTC daily from 1 Jan 2018–31 Dec 2019, with 3-hourly forecasts out to 120 h, 27 latitude points (16.0 deg N – 42.0 deg N, 1.0 deg grid spacing) x 43 latitude points (24.0 deg E – 66.0 deg E, 1.0 deg grid spacing). One file per forecast cycle (contains all lead times). Variable: Total aerosol optical depth at 550 nm. Limited NGAC data can be freely downloaded from https://www.nco.ncep.noaa.gov/pmb/products/ngac. CAMS NRT model forecast data: 559 GB total, .nc format, models initialized at 00 &amp;amp; 12 UTC daily from 1 Jan 2018–31 Dec 2019, with 1-hourly forecasts out to 120 h, global data at 0.4 deg grid spacing (i.e., not geographically subsetted). One file per forecast valid time. Variable: Total aerosol optical depth at 550 nm. NOTE: Archived CAMS NRT data are only available publicly every 3 h, so the in-between times were processed as linear interpolations between surrounding 3-hourly times. File variables and names were also processed to mimic the files that can be downloaded in real-time from CAMS. CAMS data is subject to this license: https://www.regional.atmosphere.copernicus.eu/doc/CAMS_data_license_final.pdf. 3-hourly archived CAMS data can be freely downloaded from https://apps.ecmwf.int/datasets/data/cams-nrealtime/levtype=sfc/. AERONET observation data: 77 MB total, .csv format, daily-average, 1-h average, and instantaneous L1.5 data (and L2 data when available) from 20 AERONET sites in the Middle East: Tuz_Golu_3 and IMS-METU-ERDEMLI in Turkey; Nicosia, AgiaMarina_Xyliatou, and CUT-TEPAK in Cyprus; Migal, Technion_Haifa_IL, Wiezmann_Institute, SEDE_BOKER, and Eilat in Israel; Cairo_EMA_2, El_Farafra, and Qena_SVU in Egypt; KAUST_Campus in Saudi Arabia; IASBS in Iran; Shagaya_Park and Kuwait_University in Kuwait; and Mezaira, Masdar_Institute, and DEWA_ResearchCentre in UAE. Date range: 1 Jan 2018–2 Jan 2020. L1 (raw) data is also provided for 1–31 Jul 2018 at Mezaira, and for 20–30 Apr 2018 at Shagaya_Park to span two dust storm events. Variables: Total aerosol optical depth at 550 nm and Ångström exponent. AERONET data can be freely downloaded from https://aeronet.gsfc.nasa.gov/new_web/data.html.</gco:CharacterString>
             </gmd:abstract>
+            <gmd:credit>
+                <gco:CharacterString>Funding for this project was supplied by the Kuwait Institute for Scientific Research (KISR) under contract number P-KISR-12, with Dr. Majed Al-Rasheedi of KISR serving as Project Monitor.</gco:CharacterString>
+            </gmd:credit>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Joo, Taekyu</gco:CharacterString>
+                        <gco:CharacterString>Jared A. Lee</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>Ng Research Group</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:contactInfo>
                         <gmd:CI_Contact>
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                        <gco:CharacterString>tjoo6@gatech.edu</gco:CharacterString>
+                                        <gco:CharacterString>jaredlee@ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
@@ -255,10 +351,16 @@
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; AEROSOL OPTICAL DEPTH/THICKNESS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; TRACE GASES/TRACE SPECIES</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; DUST/ASH/SMOKE</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; ECONOMIC RESOURCES &gt; ENERGY PRODUCTION/USE &gt; SOLAR ENERGY PRODUCTION/USE</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; WEATHER RESEARCH/FORECAST MODELS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -294,7 +396,16 @@
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>In Situ Land-Based Platforms &gt; Laboratory</gco:CharacterString>
+                        <gco:CharacterString>In Situ Land-Based Platforms &gt; Air Monitoring Stations/Networks</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Models/Analyses &gt; Ecmwfifs &gt; Ecmwf Integrated Forecast System</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Models/Analyses &gt; Geos-5 &gt; Goddard Eos Data Assimilation System-5</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Models/Analyses &gt; Ncep-Gfs &gt; Ncep Global Forecast System</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -327,42 +438,6 @@
                     </gmd:thesaurusName>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-            <gmd:descriptiveKeywords>
-                <gmd:MD_Keywords>
-                    <gmd:keyword>
-                        <gco:CharacterString>In Situ/Laboratory Instruments &gt; Chemical Meters/Analyzers</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:type>
-                        <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
-                    </gmd:type>
-                    <gmd:thesaurusName>
-                        <gmd:CI_Citation>
-                            <gmd:title>
-                                <gco:CharacterString>NASA/GCMD Earth Science Keywords</gco:CharacterString>
-                            </gmd:title>
-                            <gmd:alternateTitle>
-                                <gco:CharacterString>Instruments and Sensors Keywords</gco:CharacterString>
-                            </gmd:alternateTitle>
-                            <gmd:date>
-                                <gmd:CI_Date>
-                                    <gmd:date>
-                                        <gco:Date>2018-03-15</gco:Date>
-                                    </gmd:date>
-                                    <gmd:dateType>
-                                        <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
-                                    </gmd:dateType>
-                                </gmd:CI_Date>
-                            </gmd:date>
-                            <gmd:edition>
-                                <gco:CharacterString>8.6</gco:CharacterString>
-                            </gmd:edition>
-                            <gmd:collectiveTitle>
-                                <gco:CharacterString>Global Change Master Directory (GCMD). 2018. GCMD Keywords, Version 8.6. Greenbelt, MD: Global Change Data Center, Science and Exploration Directorate, Goddard Space Flight Center (GSFC) National Aeronautics and Space Administration (NASA). URL (GCMD Keyword Forum Page): https://earthdata.nasa.gov/gcmd-forum</gco:CharacterString>
-                            </gmd:collectiveTitle>
-                        </gmd:CI_Citation>
-                    </gmd:thesaurusName>
-                </gmd:MD_Keywords>
-            </gmd:descriptiveKeywords>
 
             <gmd:resourceConstraints>
                 <gmd:MD_LegalConstraints>
@@ -373,12 +448,54 @@
                     </gmd:useLimitation>
                     <gmd:otherConstraints>
                         <gco:CharacterString>
-                            These data are openly accessible by all registered users. Accounts are available free of charge following the registration of user information with a valid email address.
+                            None
                         </gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
 
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLatitude">0.25</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLongitude">0.3125</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLatitude">1.0</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLongitude">1.0</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLatitude">0.4</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLongitude">0.4</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
             </gmd:language>
@@ -386,13 +503,47 @@
             <gmd:extent>
                 <gmd:EX_Extent>
 
+                        <gmd:geographicElement>
+                            <gmd:EX_GeographicBoundingBox>
+                                <gmd:westBoundLongitude>
+                                    <gco:Decimal>24.0</gco:Decimal>
+                                </gmd:westBoundLongitude>
+                                <gmd:eastBoundLongitude>
+                                    <gco:Decimal>66.0</gco:Decimal>
+                                </gmd:eastBoundLongitude>
+                                <gmd:southBoundLatitude>
+                                    <gco:Decimal>16.0</gco:Decimal>
+                                </gmd:southBoundLatitude>
+                                <gmd:northBoundLatitude>
+                                    <gco:Decimal>42.0</gco:Decimal>
+                                </gmd:northBoundLatitude>
+                            </gmd:EX_GeographicBoundingBox>
+                        </gmd:geographicElement>
 
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_35aa1768-4348-4472-b762-ebefedd33716">
-                                    <gml:beginPosition>2016-01-26Z</gml:beginPosition>
-                                    <gml:endPosition>2016-01-26Z</gml:endPosition>
+                                <gml:TimePeriod gml:id="tp_882edd9f-51bf-4211-9b90-9d9b0e499573">
+                                    <gml:beginPosition>2018-01-01Z</gml:beginPosition>
+                                    <gml:endPosition>2019-12-31Z</gml:endPosition>
+                                </gml:TimePeriod>
+                            </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gml:TimePeriod gml:id="tp_639ad4b8-99d7-4cd8-9bab-f25158ec0489">
+                                    <gml:timeInterval unit="hour">1</gml:timeInterval>
+                                </gml:TimePeriod>
+                            </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gml:TimePeriod gml:id="tp_36900c08-ad80-4999-b567-754cc171b25e">
+                                    <gml:timeInterval unit="hour">3</gml:timeInterval>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -424,7 +575,7 @@
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/53fd5850-a61a-4533-8aee-fededbe5a686.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/14fae224-6b53-47c7-9a49-cfb240adc4be.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -433,7 +584,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160126_M-XYLENE_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
+                                <gco:CharacterString>Middle East AOD550 Forecasts &amp; Observations, 2018–2019</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
