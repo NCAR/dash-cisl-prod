@@ -14,6 +14,10 @@ https://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.
 
 ## CISL Completeness Graph
 
+[GCMD Counts](https://github.com/NCAR/dash-cisl-prod/blob/master/dash-repo-prod/cisl_gcmd_counts_levels.txt)
+
+[GCMD Level Counts](https://github.com/NCAR/dash-cisl-prod/blob/master/dash-repo-prod/cisl_gcmd_counts_levels.txt#L9)
+
 ![CISL Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/CISL/barcharts/cisl.png)
 
 ## Publisher Information
