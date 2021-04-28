@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-04-27T00:00:06Z</gco:DateTime>
+        <gco:DateTime>2021-04-28T00:00:05Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -379,7 +379,6 @@ SciDAC and Climate Variability and Change, Grant No. SC-00126005</gco:CharacterS
                                 <gml:TimePeriod gml:id="tp_083c1bb5-88e4-443a-9880-173da4226ec6">
                                     <gml:beginPosition>2010-04-01Z</gml:beginPosition>
                                     <gml:endPosition>2010-06-30Z</gml:endPosition>
-                                    <gml:timeInterval unit="minute">30</gml:timeInterval>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
