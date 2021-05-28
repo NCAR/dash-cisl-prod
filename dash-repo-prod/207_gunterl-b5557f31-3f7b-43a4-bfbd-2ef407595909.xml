@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-05-27T00:00:06Z</gco:DateTime>
+        <gco:DateTime>2021-05-28T00:00:21Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -152,6 +152,9 @@
             <gmd:abstract>
                 <gco:CharacterString>This work aims at investigating the numerical properties of the Community Ice Sheet Model (CISM) using idealized marine ice sheet set up from the MISMIP3d and MISMIP+ experiments. These experiments have the goal in testing CISM to infer model configuration for real Antarctic simulations. In these experiments we investigate several parameters such as stress balance approximation, basal friction law, grounding line parameterization, basal melt parameterization, and resolution. These simulations combine steady state and transient simulations.</gco:CharacterString>
             </gmd:abstract>
+            <gmd:credit>
+                <gco:CharacterString>This material is based upon work supported by the National Center for Atmospheric Research, which is a major facility sponsored by the National Science Foundation under Cooperative Agreement No. 1852977</gco:CharacterString>
+            </gmd:credit>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
