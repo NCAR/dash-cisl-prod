@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-05-28T00:01:06Z</gco:DateTime>
+        <gco:DateTime>2021-05-29T00:00:48Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -71,12 +71,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: UCR-CECERT-APL-Cocker Group_20150511_DEGEE_Hydroxyl radical_No Seed_EPA2058</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: UCR-CECERT-APL-Cocker Group_20150511_DEGEE_Hydroxyl radical_No Seed_EPA2058 - Sara</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-12-04</gco:Date>
+                                <gco:Date>2021-05-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-12-04</gco:Date>
+                                <gco:Date>2021-05-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -344,7 +344,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_dfb953a2-c84c-418e-9a24-7bb0ddcfbe61">
+                                <gml:TimePeriod gml:id="tp_6325739b-8ae2-454a-8ff8-748e592e4641">
                                     <gml:beginPosition>2015-05-11Z</gml:beginPosition>
                                     <gml:endPosition>2015-05-11Z</gml:endPosition>
                                 </gml:TimePeriod>
@@ -387,7 +387,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: UCR-CECERT-APL-Cocker Group_20150511_DEGEE_Hydroxyl radical_No Seed_EPA2058</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: UCR-CECERT-APL-Cocker Group_20150511_DEGEE_Hydroxyl radical_No Seed_EPA2058 - Sara</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>

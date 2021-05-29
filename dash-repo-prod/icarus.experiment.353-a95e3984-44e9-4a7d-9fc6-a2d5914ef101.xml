@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-05-28T00:00:50Z</gco:DateTime>
+        <gco:DateTime>2021-05-29T00:00:33Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -71,12 +71,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: UCR-CECERT-APL-Cocker Group_20161210_No Reactant_None_Ammonium sulfate_EPA2287A</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: UCR-CECERT-APL-Cocker Group_20161210_None_Ammonium sulfate_EPA2287A - Weihan</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-12-04</gco:Date>
+                                <gco:Date>2021-05-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-12-04</gco:Date>
+                                <gco:Date>2021-05-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -344,7 +344,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_36c4ed35-7bde-4971-a186-f24c7635d7d8">
+                                <gml:TimePeriod gml:id="tp_0c516135-dd0c-4c9c-b62d-df3ee9e6bc1a">
                                     <gml:beginPosition>2016-12-10Z</gml:beginPosition>
                                     <gml:endPosition>2016-12-10Z</gml:endPosition>
                                 </gml:TimePeriod>
@@ -387,7 +387,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: UCR-CECERT-APL-Cocker Group_20161210_No Reactant_None_Ammonium sulfate_EPA2287A</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: UCR-CECERT-APL-Cocker Group_20161210_None_Ammonium sulfate_EPA2287A - Weihan</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
