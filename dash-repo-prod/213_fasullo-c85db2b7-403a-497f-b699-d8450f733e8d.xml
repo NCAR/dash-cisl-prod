@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::c2619432-1d59-47b7-90ff-c6ac3f7aabbf</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.dashrepo::c85db2b7-403a-497f-b699-d8450f733e8d</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-07-08T00:00:40Z</gco:DateTime>
+        <gco:DateTime>2021-07-08T00:00:10Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,44 +62,21 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/pwn4-1a86</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/2sf9-mg51</gco:CharacterString>
     </gmd:dataSetURI>
 
-    <gmd:metadataExtensionInfo>
-        <gmd:MD_MetadataExtensionInformation>
-            <gmd:extensionOnLineResource>
-                <gmd:CI_OnlineResource>
-                    <gmd:linkage>
-                        <gmd:URL>https://dx.doi.org/10.5194/acp-14-13531-2014</gmd:URL>
-                    </gmd:linkage>
-                    <gmd:protocol>
-                        <gco:CharacterString>https</gco:CharacterString>
-                    </gmd:protocol>
-                    <gmd:applicationProfile>
-                        <gco:CharacterString>browser</gco:CharacterString>
-                    </gmd:applicationProfile>
-                    <gmd:name>
-                        <gco:CharacterString>Publication</gco:CharacterString>
-                    </gmd:name>
-                    <gmd:description>
-                        <gco:CharacterString>Overview of the Focused Isoprene eXperiment at the California Institute of Technology (FIXCIT): mechanistic chamber studies on the oxidation of biogenic compounds</gco:CharacterString>
-                    </gmd:description>
-                </gmd:CI_OnlineResource>
-            </gmd:extensionOnLineResource>
-        </gmd:MD_MetadataExtensionInformation>
-    </gmd:metadataExtensionInfo>
 
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: 2014 FIXCIT Study_20140119_/ISOPRENE/4-hydroxy-3-hydroperoxy ISOPOOH/hydrogen peroxide_Hydroxyl radical_Ammonium sulfate_Isoprene and 4,3-ISOPOOH + OH, low NO, 50% humidity, (NH4)2SO4 seeds</gco:CharacterString>
+                        <gco:CharacterString>CESM2 COVID and 2019/20 Australian Wildfire Simulations</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-12-04</gco:Date>
+                                <gco:Date>2021-07-07</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-12-04</gco:Date>
+                                <gco:Date>2021-06-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -119,137 +96,138 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/pwn4-1a86" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/pwn4-1a86
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/2sf9-mg51" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/2sf9-mg51
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
                     </gmd:identifier>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Wennberg, Paul</gco:CharacterString>
-                            </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>2014 FIXCIT Study</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - DASH Repository</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>wennberg@caltech.edu</gco:CharacterString>
+                                                <gco:CharacterString>datahelp@ucar.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
                                 </gmd:CI_Contact>
                             </gmd:contactInfo>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Seinfeld, John</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>2014 FIXCIT Study</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:contactInfo>
-                                <gmd:CI_Contact>
-                                    <gmd:address>
-                                        <gmd:CI_Address>
-                                            <gmd:electronicMailAddress>
-                                                <gco:CharacterString>seinfeld@caltech.edu</gco:CharacterString>
-                                            </gmd:electronicMailAddress>
-                                        </gmd:CI_Address>
-                                    </gmd:address>
-                                </gmd:CI_Contact>
-                            </gmd:contactInfo>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Crounse, John</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>2014 FIXCIT Study</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:contactInfo>
-                                <gmd:CI_Contact>
-                                    <gmd:address>
-                                        <gmd:CI_Address>
-                                            <gmd:electronicMailAddress>
-                                                <gco:CharacterString>crounjd@caltech.edu</gco:CharacterString>
-                                            </gmd:electronicMailAddress>
-                                        </gmd:CI_Address>
-                                    </gmd:address>
-                                </gmd:CI_Contact>
-                            </gmd:contactInfo>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Nguyen, Tran</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>2014 FIXCIT Study</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:contactInfo>
-                                <gmd:CI_Contact>
-                                    <gmd:address>
-                                        <gmd:CI_Address>
-                                            <gmd:electronicMailAddress>
-                                                <gco:CharacterString>tbn@ucdavis.edu</gco:CharacterString>
-                                            </gmd:electronicMailAddress>
-                                        </gmd:CI_Address>
-                                    </gmd:address>
-                                </gmd:CI_Contact>
-                            </gmd:contactInfo>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:organisationName>
-                                <gco:CharacterString>ICARUS Community</gco:CharacterString>
-                            </gmd:organisationName>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Fasullo, John</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Climate &amp; Global Dynamics</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>fasullo@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Rosenbloom, Nan</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Climate &amp; Global Dynamics</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Buchholz, Rebecca</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Atmospheric Chemistry Observations &amp; Modeling</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Danabasoglu, Gokhan</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Lawrence, David M.</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Lamarque, Jean-Francois</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Climate &amp; Global Dynamics</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
                         </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Investigate the gas and particle phase composition of the isoprene low NO oxidation mixture, in the presence of moderate relative humidity and wet ammonium sulfate seeds. Test out ozone addition to GTHOS inlet. Summary: This was an interesting experiment. We meant to inject only isoprene, but 4,3-ISOPOOH was also injected due to unexpected contamination of the &quot;hydrocarbon injection&quot; line from Friday&apos;s experiment. So there was ~ 60 ppb isoprene, and ~ 10-30 ppb ISOPOOH in the bag. The RH was 50.5% and the particle sulfate mass concentration was ~ 54 ug/m3 when the experiment started. The particles were injected deliquesced, so they should have water still on them in some form. Once the OH-oxidation started, a few things stood out as interesting. First, very little IEPOX was observed in the gas-phase despite plenty of isoprene and ISOPOOH around. In comparison, the low NO isoprene photooxidation produced an order of magnitude more IEPOX, relatively. The NO was low (~ 20 ppt throughout the experiment) so the RO2 radicals were not reacting with NO preferentially. During SOAS, gas-phase IEPOX was also low. Not much particle organic mass formed (~5 ug/m3 overall) and the organic fraction was seemingly oxidized away from the gas-phase OH, something that we have also noticed in the past. Second, ISOPOOH was lost faster than isoprene, which was not expected based on OH reaction alone, so heterogenous chemistry might be important for ISOPOOH as well in the presence of wet seed aerosol or wet walls. Lots of hydroxyacetone and glycolaldehyde were produced from the oxidation of isoprene low-NO products. Some mystery masses were observed by the PTRMS and I- CIMS, that were not seen in other isoprene low NO experiments (perhaps products of the aqueous chemistry.) GTHOS got a chance to try out ozone addition to the inlet, which did produce plenty of what appears to be interference, but post-processing is needed to gauge the success of this trial. At the end of the experiment, the temperature was ramped up to 45 deg C, held for 30 min, then ramped down again to room temperature. Changes in the AMS organic signal was observed. Organization: 2014 FIXCIT Study Lab Affiliation: California Institute of Technology Chamber: Seinfeld chambers Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Hydroxyl radical Reactants: ISOPRENE, 4-hydroxy-3-hydroperoxy ISOPOOH, hydrogen peroxide Reaction Type: Photooxidation Relative Humidity: 51 Temperature: 28 Seed Name: Ammonium sulfate Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>These simulations comprise three ensembles spanning 2019-2024. The ensembles include 50 members forced with 1) SSP245 climate forcings, 2) SSP245 combined with estimated COVID-related emissions reductions, and 3) SSP245 combined with estimated COVID-related emissions reductions and emissions from Australia&apos;s 2019-20 bushfire season.</gco:CharacterString>
             </gmd:abstract>
+            <gmd:credit>
+                <gco:CharacterString>This material is based upon work supported by the National Center for Atmospheric Research (NCAR), which is a major facility sponsored by the National Science Foundation (NSF) under Cooperative Agreement 1852977. The CESM project is supported primarily by the NSF. Computing and data storage resources, including the Cheyenne supercomputer (doi:10.5065/D6RX99HX), were provided by the Computational and Information Systems Laboratory (CISL) at NCAR. We thank all the scientists, software engineers, and administrators who contributed to the development of CESM2. JF was partially supported by NASA Award 80NSSC17K0565 and NSF Award AGS-1419571. JF and NR were supported by the Regional and Global Model Analysis (RGMA) component of the Earth and Environmental System Modeling Program of the U.S. Department of Energy’s Office of Biological and Environmental Research (BER) via National Science Foundation IA 1947282. We acknowledge the assistance of Louisa Emmons in the preparation of emissions datasets.</gco:CharacterString>
+            </gmd:credit>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Nguyen, Tran</gco:CharacterString>
+                        <gco:CharacterString>John Fasullo</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>2014 FIXCIT Study</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - Climate &amp; Global Dynamics</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:contactInfo>
                         <gmd:CI_Contact>
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                        <gco:CharacterString>tbn@ucdavis.edu</gco:CharacterString>
+                                        <gco:CharacterString>fasullo@ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
@@ -304,10 +282,13 @@
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AIR QUALITY &gt; EMISSIONS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; TRACE GASES/TRACE SPECIES</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; NATURAL HAZARDS &gt; WILDFIRES</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; COUPLED CLIMATE MODELS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -343,7 +324,7 @@
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>In Situ Land-Based Platforms &gt; Laboratory</gco:CharacterString>
+                        <gco:CharacterString>Models/Analyses &gt; Cesm &gt; Ncar Community Earth System Model</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -376,42 +357,6 @@
                     </gmd:thesaurusName>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-            <gmd:descriptiveKeywords>
-                <gmd:MD_Keywords>
-                    <gmd:keyword>
-                        <gco:CharacterString>In Situ/Laboratory Instruments &gt; Chemical Meters/Analyzers</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:type>
-                        <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
-                    </gmd:type>
-                    <gmd:thesaurusName>
-                        <gmd:CI_Citation>
-                            <gmd:title>
-                                <gco:CharacterString>NASA/GCMD Earth Science Keywords</gco:CharacterString>
-                            </gmd:title>
-                            <gmd:alternateTitle>
-                                <gco:CharacterString>Instruments and Sensors Keywords</gco:CharacterString>
-                            </gmd:alternateTitle>
-                            <gmd:date>
-                                <gmd:CI_Date>
-                                    <gmd:date>
-                                        <gco:Date>2018-03-15</gco:Date>
-                                    </gmd:date>
-                                    <gmd:dateType>
-                                        <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
-                                    </gmd:dateType>
-                                </gmd:CI_Date>
-                            </gmd:date>
-                            <gmd:edition>
-                                <gco:CharacterString>8.6</gco:CharacterString>
-                            </gmd:edition>
-                            <gmd:collectiveTitle>
-                                <gco:CharacterString>Global Change Master Directory (GCMD). 2018. GCMD Keywords, Version 8.6. Greenbelt, MD: Global Change Data Center, Science and Exploration Directorate, Goddard Space Flight Center (GSFC) National Aeronautics and Space Administration (NASA). URL (GCMD Keyword Forum Page): https://earthdata.nasa.gov/gcmd-forum</gco:CharacterString>
-                            </gmd:collectiveTitle>
-                        </gmd:CI_Citation>
-                    </gmd:thesaurusName>
-                </gmd:MD_Keywords>
-            </gmd:descriptiveKeywords>
 
             <gmd:resourceConstraints>
                 <gmd:MD_LegalConstraints>
@@ -422,12 +367,26 @@
                     </gmd:useLimitation>
                     <gmd:otherConstraints>
                         <gco:CharacterString>
-                            These data are openly accessible by all registered users. Accounts are available free of charge following the registration of user information with a valid email address.
+                            None
                         </gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
 
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="latitude">192.0</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="longitude">288.0</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
 
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
@@ -436,12 +395,28 @@
 
             <gmd:extent>
                 <gmd:EX_Extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-180.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>180.0</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>-90.0</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>90.0</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_93bb77e1-9cdd-41cc-b561-167f49a9e2c6">
-                                    <gml:beginPosition>2014-01-19Z</gml:beginPosition>
-                                    <gml:endPosition>2014-01-19Z</gml:endPosition>
+                                <gml:TimePeriod gml:id="tp_8b111986-4865-4327-b49e-db91981e8dd0">
+                                    <gml:beginPosition>2019-01-01Z</gml:beginPosition>
+                                    <gml:endPosition>2025-01-01Z</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -473,7 +448,7 @@
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/c2619432-1d59-47b7-90ff-c6ac3f7aabbf.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/c85db2b7-403a-497f-b699-d8450f733e8d.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -482,7 +457,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: 2014 FIXCIT Study_20140119_/ISOPRENE/4-hydroxy-3-hydroperoxy ISOPOOH/hydrogen peroxide_Hydroxyl radical_Ammonium sulfate_Isoprene and 4,3-ISOPOOH + OH, low NO, 50% humidity, (NH4)2SO4 seeds</gco:CharacterString>
+                                <gco:CharacterString>CESM2 COVID and 2019/20 Australian Wildfire Simulations</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
