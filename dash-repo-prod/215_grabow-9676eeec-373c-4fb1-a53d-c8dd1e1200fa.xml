@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::406f5e67-531a-496b-9f6c-14bf10e0852c</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.dashrepo::9676eeec-373c-4fb1-a53d-c8dd1e1200fa</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-07-15T00:00:04Z</gco:DateTime>
+        <gco:DateTime>2021-07-15T00:00:11Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/jk8v-pn52</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/z9wk-1x22</gco:CharacterString>
     </gmd:dataSetURI>
 
 
@@ -71,12 +71,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>A large ensemble of spatially and annually averaged CESM CAM 100-year data</gco:CharacterString>
+                        <gco:CharacterString>Turbulent activation of cloud condensation nuclei</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-06-11</gco:Date>
+                                <gco:Date>2021-07-14</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-06-10</gco:Date>
+                                <gco:Date>2021-07-09</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -96,8 +96,8 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/jk8v-pn52" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/jk8v-pn52
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/z9wk-1x22" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/z9wk-1x22
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
@@ -126,41 +126,17 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Baker, Allison H</gco:CharacterString>
+                                <gco:CharacterString>Grabowski, Wojciech W.</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - Computational &amp; Information Systems</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - Mesoscale &amp; Microscale Meteorology</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>abaker@ucar.edu</gco:CharacterString>
-                                            </gmd:electronicMailAddress>
-                                        </gmd:CI_Address>
-                                    </gmd:address>
-                                </gmd:CI_Contact>
-                            </gmd:contactInfo>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Hammerling, Dorit M</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>Colorado School of Mines</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:contactInfo>
-                                <gmd:CI_Contact>
-                                    <gmd:address>
-                                        <gmd:CI_Address>
-                                            <gmd:electronicMailAddress>
-                                                <gco:CharacterString>hammerling@mines.edu</gco:CharacterString>
+                                                <gco:CharacterString>grabow@ucar.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
@@ -174,22 +150,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This repository contains data from an ensemble of 100-year runs on the Cheyenne computer at NCAR. The purpose of this data set is to allow an investigation of how different variables are affected by software and hardware modifications at different time scales. The data was produced by a CESM 1.3 series tag using the CAM5 model version described in Kay et al. (2015). The simulations are CESM startup runs using a present-day F compset (active atmosphere and land, data ocean, and prescribed ice concentration), CAM5 physics at approximately 1 degree latitude/longitude resolution, and the spectral element dynamical core. The output contains CAM data from 147 simulations each with a 100-year time series (100 time points) of 134 variables. Of the 147 runs, 139 are control runs that differ only by an order double precision perturbation to the initial temperature, where 114 were from an Intel compilation and 25 from a GNU compilation. The remaining 8 runs are so-called test runs, each with a single modification (e.g., single parameter, compiler, minor code change) changed relative to the control runs. The simulations originally output monthly data. The modestly sized dataset released here is a result of annually averaging the monthly files, and then spatially averaging the annual averages over the grid. Each of the 147 NetCDF files corresponding to a single simulation contains the variable names and a matrix of 100 years of annual averages for each variable.</gco:CharacterString>
+                <gco:CharacterString>This dataset contains selected codes and data from simulations investigating the impact of cloud-base turbulence on activation of cloud condensation nuclei (CCN). Activation of two monodisperse CCN are studied within an adiabatic parcel rising through the cloud base and filled with homogeneous isotropic turbulence. We apply a forced implicit large eddy simulation methodology (Grabowski and Thomas Atmospheric Chemistry and Physics, 2021) within a triply periodic computational domain of 64^3 m^3. Small CCN are assumed to have a dry radius of 0.01 micron and a corresponding activation (critical) radius and activation supersaturation of 0.6 micron and 1.3%, respectively. Large CCN have a dry radius of 0.2 micron and feature activation radius of 5.4 micron and activation supersaturation 0.15 %. CCN are assumed in 200 cm^-3 concentration in all cases. Mean cloud base updraft velocities of 0.33, 1, and 3 m/s are considered. Turbulence can lead to activation of only a fraction of all CCN and lead to a non-zero droplet spectral width just above the cloud base, of the order of 1 micron, especially in the case of small CCN and weak mean cloud base ascent. The simulations document an important role of cloud base turbulence on cloud base CCN activation.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Allison Baker</gco:CharacterString>
+                        <gco:CharacterString>Wojciech Grabowski</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - Computational &amp; Information Systems</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - Mesoscale &amp; Microscale Meteorology</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:contactInfo>
                         <gmd:CI_Contact>
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                        <gco:CharacterString>abaker@ucar.edu</gco:CharacterString>
+                                        <gco:CharacterString>grabow@ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
@@ -244,10 +220,13 @@
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; DATA ANALYSIS AND VISUALIZATION</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS &gt; CLOUD CONDENSATION NUCLEI</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; COUPLED CLIMATE MODELS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; WIND DYNAMICS &gt; TURBULENCE</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; WEATHER RESEARCH/FORECAST MODELS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -296,46 +275,12 @@
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
 
-            <gmd:spatialResolution>
-                <gmd:MD_Resolution>
-                    <gmd:distance>
-                        <gco:Distance uom="degreesLatitude">1.0</gco:Distance>
-                    </gmd:distance>
-                </gmd:MD_Resolution>
-            </gmd:spatialResolution>
-            <gmd:spatialResolution>
-                <gmd:MD_Resolution>
-                    <gmd:distance>
-                        <gco:Distance uom="degreesLongitude">1.0</gco:Distance>
-                    </gmd:distance>
-                </gmd:MD_Resolution>
-            </gmd:spatialResolution>
 
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
             </gmd:language>
 
 
-            <gmd:extent>
-                <gmd:EX_Extent>
-                    <gmd:geographicElement>
-                        <gmd:EX_GeographicBoundingBox>
-                            <gmd:westBoundLongitude>
-                                <gco:Decimal>-180.0</gco:Decimal>
-                            </gmd:westBoundLongitude>
-                            <gmd:eastBoundLongitude>
-                                <gco:Decimal>180.0</gco:Decimal>
-                            </gmd:eastBoundLongitude>
-                            <gmd:southBoundLatitude>
-                                <gco:Decimal>-90.0</gco:Decimal>
-                            </gmd:southBoundLatitude>
-                            <gmd:northBoundLatitude>
-                                <gco:Decimal>90.0</gco:Decimal>
-                            </gmd:northBoundLatitude>
-                        </gmd:EX_GeographicBoundingBox>
-                    </gmd:geographicElement>
-                </gmd:EX_Extent>
-            </gmd:extent>
 
         </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
@@ -361,7 +306,7 @@
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/406f5e67-531a-496b-9f6c-14bf10e0852c.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/9676eeec-373c-4fb1-a53d-c8dd1e1200fa.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -370,7 +315,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>A large ensemble of spatially and annually averaged CESM CAM 100-year data</gco:CharacterString>
+                                <gco:CharacterString>Turbulent activation of cloud condensation nuclei</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
