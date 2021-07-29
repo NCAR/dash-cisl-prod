@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-07-26T00:00:27Z</gco:DateTime>
+        <gco:DateTime>2021-07-29T00:00:28Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -117,12 +117,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160412_a-pinene_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160412_ALPHA-PINENE_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-07-20</gco:Date>
+                                <gco:Date>2021-07-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-07-20</gco:Date>
+                                <gco:Date>2021-07-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -185,7 +185,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Generate SOA for health study. Summary: AP+HONO, photooxidation under dry condition. Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Near) Experiment Category: Aerosol formation Oxidant: Hydroxyl radical Reactants: a-pinene Reaction Type: Photooxidation Relative Humidity: 1-10 Temperature: 24-27 Seed Name: Ammonium sulfate</gco:CharacterString>
+                <gco:CharacterString>Goals: Generate SOA for health study. Summary: AP+HONO, photooxidation under dry condition. Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Near) Experiment Category: Aerosol formation Oxidant: Hydroxyl radical Reactants: ALPHA-PINENE Reaction Type: Photooxidation Relative Humidity: 1-10 Temperature: 24-27 Seed Name: Ammonium sulfate</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
@@ -390,7 +390,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_26d7e22d-1abd-4a45-8d83-dfac2534bf3b">
+                                <gml:TimePeriod gml:id="tp_d62cb8b7-37b7-4c20-bba0-61b4146aaacf">
                                     <gml:beginPosition>2016-04-12Z</gml:beginPosition>
                                     <gml:endPosition>2016-04-12Z</gml:endPosition>
                                 </gml:TimePeriod>
@@ -433,7 +433,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160412_a-pinene_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160412_ALPHA-PINENE_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>

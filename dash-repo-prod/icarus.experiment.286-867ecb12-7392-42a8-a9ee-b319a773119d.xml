@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-07-26T00:00:26Z</gco:DateTime>
+        <gco:DateTime>2021-07-29T00:00:28Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -117,12 +117,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160127_b-caryophyllene_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160127_BETA-CARYOPHYLLENE_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-12-07</gco:Date>
+                                <gco:Date>2021-07-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-12-07</gco:Date>
+                                <gco:Date>2021-07-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -185,7 +185,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Generate SOA for health study. Summary: BCAR+H2O2, photooxidation under dry condition Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Near) Experiment Category: Aerosol formation Oxidant: Hydroxyl radical Reactants: b -caryophyllene Reaction Type: Photooxidation Relative Humidity: 1-4 Temperature: 24-27 Seed Name: Ammonium sulfate</gco:CharacterString>
+                <gco:CharacterString>Goals: Generate SOA for health study. Summary: BCAR+H2O2, photooxidation under dry condition Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Near) Experiment Category: Aerosol formation Oxidant: Hydroxyl radical Reactants: BETA-CARYOPHYLLENE Reaction Type: Photooxidation Relative Humidity: 1-4 Temperature: 24-27 Seed Name: Ammonium sulfate</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
@@ -390,7 +390,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_e4b4a7b8-a6e5-4fb7-b9fa-d831a9dbd428">
+                                <gml:TimePeriod gml:id="tp_ec87fd4e-4523-488d-90e9-7ad5aceccb5e">
                                     <gml:beginPosition>2016-01-27Z</gml:beginPosition>
                                     <gml:endPosition>2016-01-27Z</gml:endPosition>
                                 </gml:TimePeriod>
@@ -433,7 +433,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160127_b-caryophyllene_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160127_BETA-CARYOPHYLLENE_Hydroxyl radical_Ammonium sulfate_dry</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>

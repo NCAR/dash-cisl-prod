@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-07-26T00:00:27Z</gco:DateTime>
+        <gco:DateTime>2021-07-29T00:00:28Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -117,12 +117,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160331_isoprene_Hydroxyl radical_1:2 MgSO4/H2SO4_dry</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160331_ISOPRENE_Hydroxyl radical_1:2 MgSO4/H2SO4_dry</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-07-24</gco:Date>
+                                <gco:Date>2021-07-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-07-24</gco:Date>
+                                <gco:Date>2021-07-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -185,7 +185,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Generate SOA for health study. Summary: ISO+H2O2, photooxidation under dry condition with acidic seed. Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Near) Experiment Category: Aerosol formation Oxidant: Hydroxyl radical Reactants: isoprene Reaction Type: Photooxidation Relative Humidity: 7-12 Temperature: 24-27 Seed Name: 1:2 MgSO4/H2SO4</gco:CharacterString>
+                <gco:CharacterString>Goals: Generate SOA for health study. Summary: ISO+H2O2, photooxidation under dry condition with acidic seed. Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Near) Experiment Category: Aerosol formation Oxidant: Hydroxyl radical Reactants: ISOPRENE Reaction Type: Photooxidation Relative Humidity: 7-12 Temperature: 24-27 Seed Name: 1:2 MgSO4/H2SO4</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
@@ -390,7 +390,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_67a20fc0-d69b-4b9f-9175-bf39e99b59fc">
+                                <gml:TimePeriod gml:id="tp_4598e7fa-cbbb-4fa2-b55b-fe42a931b45f">
                                     <gml:beginPosition>2016-03-31Z</gml:beginPosition>
                                     <gml:endPosition>2016-03-31Z</gml:endPosition>
                                 </gml:TimePeriod>
@@ -433,7 +433,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160331_isoprene_Hydroxyl radical_1:2 MgSO4/H2SO4_dry</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160331_ISOPRENE_Hydroxyl radical_1:2 MgSO4/H2SO4_dry</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>

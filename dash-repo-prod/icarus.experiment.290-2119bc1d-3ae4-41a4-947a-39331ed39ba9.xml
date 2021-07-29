@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-07-26T00:00:27Z</gco:DateTime>
+        <gco:DateTime>2021-07-29T00:00:28Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -117,12 +117,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160323_b-caryophyllene_Hydroxyl radical_Ammonium sulfate_36%RH</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160323_BETA-CARYOPHYLLENE_Hydroxyl radical_Ammonium sulfate_36%RH</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-07-20</gco:Date>
+                                <gco:Date>2021-07-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-07-20</gco:Date>
+                                <gco:Date>2021-07-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -185,7 +185,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Generate SOA for health study. Summary: BCAR+H2O2, photooxidation under humid condition Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Near) Experiment Category: Aerosol formation Oxidant: Hydroxyl radical Reactants: b -caryophyllene Reaction Type: Photooxidation Relative Humidity: 32-43 Temperature: 24-27 Seed Name: Ammonium sulfate</gco:CharacterString>
+                <gco:CharacterString>Goals: Generate SOA for health study. Summary: BCAR+H2O2, photooxidation under humid condition Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Near) Experiment Category: Aerosol formation Oxidant: Hydroxyl radical Reactants: BETA-CARYOPHYLLENE Reaction Type: Photooxidation Relative Humidity: 32-43 Temperature: 24-27 Seed Name: Ammonium sulfate</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
@@ -390,7 +390,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_429938b0-c09f-47e0-b652-ab1fa02318df">
+                                <gml:TimePeriod gml:id="tp_af211910-b39f-4dd4-bc6c-df0bfef80d19">
                                     <gml:beginPosition>2016-03-23Z</gml:beginPosition>
                                     <gml:endPosition>2016-03-23Z</gml:endPosition>
                                 </gml:TimePeriod>
@@ -433,7 +433,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160323_b-caryophyllene_Hydroxyl radical_Ammonium sulfate_36%RH</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20160323_BETA-CARYOPHYLLENE_Hydroxyl radical_Ammonium sulfate_36%RH</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
