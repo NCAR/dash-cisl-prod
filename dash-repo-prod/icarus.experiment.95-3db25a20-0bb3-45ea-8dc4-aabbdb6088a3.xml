@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-07-29T00:00:51Z</gco:DateTime>
+        <gco:DateTime>2021-07-30T00:00:48Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -140,12 +140,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: 2014 FIXCIT Study_20140113_Alpha-pinene/Nitrogen dioxide/Ozone/Formaldehyde_Nitrate radical_Ammonium sulfate_HO2 fate, dry RH, seed added at end</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: 2014 FIXCIT Study_20140113_ALPHA-PINENE/nitric oxide/OZONE/formaldehyde_Nitrate radical_Ammonium sulfate_HO2 fate, dry RH, seed added at end</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-07-25</gco:Date>
+                                <gco:Date>2021-07-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -155,7 +155,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-07-25</gco:Date>
+                                <gco:Date>2021-07-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -280,7 +280,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Study alpha-pinene + NO3 chemistry by injecting 150 ppb NO2 &amp;amp; 75 ppb O3, plus HCHO. Run the experiment so as to optimize for the formation of the nitrooxyhydroperoxide (MW = 231), which we detected during SOAS and to prevent the dominance of RO2 + RO2 reactions. We will see if we can better understand the gas phase nitrate yields from alpha-pinene nighttime chemistry when we run the experiment in a more atmospherically relevant way than has been done in the past. We will also inject ammonium sulfate seed at the end of the experiment to see, which and to what degree, the gas phase nitrates partition into the particle phase. Summary: We formed a very high yield of nitrooxyhydroperoxide. In fact most of the other masses detected by the CF3O- CIMS were significantly smaller. After the nitrooxyhydroperoxide signal began to level out, we ramped the temperature to determine if any species came off the walls. The signal for the nitrooxyhydroperoxide and other signals did increase, but not substantially. We then cooled the chamber and injected seed. There was uptake seen by the AMS (~10 ug/m^3). At the very end we turned on lights, and saw the nitrooxyhydroperoxide signal increase instead of decay. There was still alpha-pinene left unreacted at this point as confirmed via the PTR-MS. O3 increased to around ~500 ppb over only 30 minutes after lights turned on, so likely this provided enough NO3 to be competitive with OH. Organization: 2014 FIXCIT Study Lab Affiliation: California Institute of Technology Chamber: Seinfeld chambers Experiment Category: Gas phase chemical reaction Oxidant: Nitrate radical Reactants: Alpha-pinene, Nitrogen dioxide, Ozone, Formaldehyde Reaction Type: Dark oxidation Relative Humidity: 5 Temperature: 25 Seed Name: Ammonium sulfate Pressure: 755</gco:CharacterString>
+                <gco:CharacterString>Goals: Study alpha-pinene + NO3 chemistry by injecting 150 ppb NO2 &amp;amp; 75 ppb O3, plus HCHO. Run the experiment so as to optimize for the formation of the nitrooxyhydroperoxide (MW = 231), which we detected during SOAS and to prevent the dominance of RO2 + RO2 reactions. We will see if we can better understand the gas phase nitrate yields from alpha-pinene nighttime chemistry when we run the experiment in a more atmospherically relevant way than has been done in the past. We will also inject ammonium sulfate seed at the end of the experiment to see, which and to what degree, the gas phase nitrates partition into the particle phase. Summary: We formed a very high yield of nitrooxyhydroperoxide. In fact most of the other masses detected by the CF3O- CIMS were significantly smaller. After the nitrooxyhydroperoxide signal began to level out, we ramped the temperature to determine if any species came off the walls. The signal for the nitrooxyhydroperoxide and other signals did increase, but not substantially. We then cooled the chamber and injected seed. There was uptake seen by the AMS (~10 ug/m^3). At the very end we turned on lights, and saw the nitrooxyhydroperoxide signal increase instead of decay. There was still alpha-pinene left unreacted at this point as confirmed via the PTR-MS. O3 increased to around ~500 ppb over only 30 minutes after lights turned on, so likely this provided enough NO3 to be competitive with OH. Organization: 2014 FIXCIT Study Lab Affiliation: California Institute of Technology Chamber: Seinfeld chambers Experiment Category: Gas phase chemical reaction Oxidant: Nitrate radical Reactants: ALPHA-PINENE, nitric oxide, OZONE, formaldehyde Reaction Type: Dark oxidation Relative Humidity: 5 Temperature: 25 Seed Name: Ammonium sulfate Pressure: 755</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
@@ -485,7 +485,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_43c327dc-04cf-4bed-8b2f-e1262cdd1dca">
+                                <gml:TimePeriod gml:id="tp_9512880b-b650-4ade-8f25-59b0b4264ef5">
                                     <gml:beginPosition>2014-01-13Z</gml:beginPosition>
                                     <gml:endPosition>2014-01-13Z</gml:endPosition>
                                 </gml:TimePeriod>
@@ -528,7 +528,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: 2014 FIXCIT Study_20140113_Alpha-pinene/Nitrogen dioxide/Ozone/Formaldehyde_Nitrate radical_Ammonium sulfate_HO2 fate, dry RH, seed added at end</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: 2014 FIXCIT Study_20140113_ALPHA-PINENE/nitric oxide/OZONE/formaldehyde_Nitrate radical_Ammonium sulfate_HO2 fate, dry RH, seed added at end</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
