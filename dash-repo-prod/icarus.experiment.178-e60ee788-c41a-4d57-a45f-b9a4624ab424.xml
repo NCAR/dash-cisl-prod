@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-09-15T00:00:19Z</gco:DateTime>
+        <gco:DateTime>2021-09-16T00:00:21Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-08-22</gco:Date>
+                                <gco:Date>2021-09-15</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-08-22</gco:Date>
+                                <gco:Date>2021-09-15</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -105,7 +105,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>, John Orlando</gco:CharacterString>
+                                <gco:CharacterString>Orlando, John</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>NCAR</gco:CharacterString>
@@ -344,7 +344,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_85d90715-ab11-432d-8a89-6fc681931168">
+                                <gml:TimePeriod gml:id="tp_01e832e5-dbc6-491c-a572-cbcab4437cc4">
                                     <gml:beginPosition>2005-08-25Z</gml:beginPosition>
                                     <gml:endPosition>2005-08-25Z</gml:endPosition>
                                 </gml:TimePeriod>
