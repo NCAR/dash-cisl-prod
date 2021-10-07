@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-10-06T00:00:35Z</gco:DateTime>
+        <gco:DateTime>2021-10-07T00:00:27Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -82,7 +82,7 @@
                         <gco:CharacterString>Publication</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Chlorine-initiated oxidation of n-alkanes under high-NOx conditions: insights into secondary organic aerosol composition and volatility using a FIGAERO–CIMS</gco:CharacterString>
+                        <gco:CharacterString>Chlorine-initiated oxidation of n-alkanes under high-NOx conditions: insights into secondary organic aerosol composition and volatility using a FIGAERO?CIMS</gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-05</gco:Date>
+                                <gco:Date>2021-10-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-05</gco:Date>
+                                <gco:Date>2021-10-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -367,7 +367,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_dae7f1c1-5727-4ebd-ac78-f76db2aa4499">
+                                <gml:TimePeriod gml:id="tp_46d1dc10-410b-4bd4-93c7-5e37c4fcd6ba">
                                     <gml:beginPosition>2018-03-29Z</gml:beginPosition>
                                     <gml:endPosition>2018-03-29Z</gml:endPosition>
                                 </gml:TimePeriod>

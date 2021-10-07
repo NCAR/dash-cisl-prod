@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-10-06T00:00:20Z</gco:DateTime>
+        <gco:DateTime>2021-10-07T00:00:16Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -82,7 +82,7 @@
                         <gco:CharacterString>Publication</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Aqueous Photochemistry of Secondary Organic Aerosol of α-Pinene and α-Humulene in the Presence of Hydrogen Peroxide or Inorganic Salts</gco:CharacterString>
+                        <gco:CharacterString>Aqueous Photochemistry of Secondary Organic Aerosol of ?-Pinene and ?-Humulene in the Presence of Hydrogen Peroxide or Inorganic Salts</gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-05</gco:Date>
+                                <gco:Date>2021-10-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-05</gco:Date>
+                                <gco:Date>2021-10-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -367,7 +367,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_c938a508-595f-4959-9056-16926cabbc6a">
+                                <gml:TimePeriod gml:id="tp_3c74b593-2442-48db-97a6-b9722e3b7835">
                                     <gml:beginPosition>2015-05-15Z</gml:beginPosition>
                                     <gml:endPosition>2015-05-15Z</gml:endPosition>
                                 </gml:TimePeriod>

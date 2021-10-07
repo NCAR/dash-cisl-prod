@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-10-06T00:01:18Z</gco:DateTime>
+        <gco:DateTime>2021-10-07T00:01:15Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-05</gco:Date>
+                                <gco:Date>2021-10-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-05</gco:Date>
+                                <gco:Date>2021-10-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: This experiment was done to study the Methacrolein high NO2 photoxidation in the presence of wet ammonium sulfate (AS) seeds at RH 40%, since the other experiments were done at low RH and without seed particles. The hypothesis is that particle liquid water will decrease SOA formation because water will hydrolyze HMML instead of allowing it to oligomerize on the particle surface. This liquid water is also hypothesized to liberate 2-methylgycleric acid (2MGA) from the aerosol to the gas phase. Summary: Interestingly, gas-phase 2MGA is not significantly enhanced and aerosol mass is not significantly decreased in the 40% RH experiment (Exp. #12) compared to the dry experiments. It is possible that the liquid water content under these conditions (∼30 vol%) is not high enough to dominate the reaction with HMML or there is a barrier to 2MGA volatilization. We do see the hypothesis confirmed in the fully deliquesced particle in the 85% RH experiment (150208) Organization: Caltech Atmospheric Chamber Lab Affiliation: California Institute of Technology, Pasadena, CA Chamber: Near/Far Bag 2012-2015 (Tran) Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Hydroxyl radical Reactants: METHACROLEIN, Methyl nitrite, 10102-44-0 Reaction Type: Photooxidation Relative Humidity: 40 Temperature: 25 Seed Name: Ammonium sulfate Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals: This experiment was done to study the Methacrolein high NO2 photoxidation in the presence of wet ammonium sulfate (AS) seeds at RH 40%, since the other experiments were done at low RH and without seed particles. The hypothesis is that particle liquid water will decrease SOA formation because water will hydrolyze HMML instead of allowing it to oligomerize on the particle surface. This liquid water is also hypothesized to liberate 2-methylgycleric acid (2MGA) from the aerosol to the gas phase. Summary: Interestingly, gas-phase 2MGA is not significantly enhanced and aerosol mass is not significantly decreased in the 40% RH experiment (Exp. #12) compared to the dry experiments. It is possible that the liquid water content under these conditions (?30 vol%) is not high enough to dominate the reaction with HMML or there is a barrier to 2MGA volatilization. We do see the hypothesis confirmed in the fully deliquesced particle in the 85% RH experiment (150208) Organization: Caltech Atmospheric Chamber Lab Affiliation: California Institute of Technology, Pasadena, CA Chamber: Near/Far Bag 2012-2015 (Tran) Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Hydroxyl radical Reactants: METHACROLEIN, Methyl nitrite, 10102-44-0 Reaction Type: Photooxidation Relative Humidity: 40 Temperature: 25 Seed Name: Ammonium sulfate Pressure: 750 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
@@ -367,7 +367,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_68633bbf-77eb-41a4-8355-81f13c0b3ac5">
+                                <gml:TimePeriod gml:id="tp_4ddc8ae9-788c-4073-8bd0-64e1bf64de04">
                                     <gml:beginPosition>2015-01-30Z</gml:beginPosition>
                                     <gml:endPosition>2015-01-30Z</gml:endPosition>
                                 </gml:TimePeriod>

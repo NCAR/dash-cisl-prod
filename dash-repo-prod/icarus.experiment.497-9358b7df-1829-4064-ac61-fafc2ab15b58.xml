@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-10-06T00:01:05Z</gco:DateTime>
+        <gco:DateTime>2021-10-07T00:01:00Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -82,7 +82,7 @@
                         <gco:CharacterString>Publication</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Chemical composition and hydrolysis of organic nitrate aerosol formed from hydroxyl and nitrate radical oxidation of α-pinene and β-pinene</gco:CharacterString>
+                        <gco:CharacterString>Chemical composition and hydrolysis of organic nitrate aerosol formed from hydroxyl and nitrate radical oxidation of ?-pinene and ?-pinene</gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-05</gco:Date>
+                                <gco:Date>2021-10-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-05</gco:Date>
+                                <gco:Date>2021-10-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -367,7 +367,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_68619de7-7839-49a5-a846-abcd62739399">
+                                <gml:TimePeriod gml:id="tp_64e45102-f79a-466d-8f48-5b3918617072">
                                     <gml:beginPosition>2017-10-31Z</gml:beginPosition>
                                     <gml:endPosition>2017-10-31Z</gml:endPosition>
                                 </gml:TimePeriod>
