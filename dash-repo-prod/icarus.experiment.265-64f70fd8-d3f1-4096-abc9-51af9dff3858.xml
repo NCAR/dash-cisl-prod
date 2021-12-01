@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-10-14T00:01:01Z</gco:DateTime>
+        <gco:DateTime>2021-12-01T13:33:03Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -88,6 +88,29 @@
             </gmd:extensionOnLineResource>
         </gmd:MD_MetadataExtensionInformation>
     </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://dx.doi.org/10.1021/acs.estlett.0c00888</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>Publication</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString>Determining Activity Coefficients of SOA from Isothermal Evaporation in a Laboratory Chamber</gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
 
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>
@@ -99,7 +122,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-07</gco:Date>
+                                <gco:Date>2021-12-01</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-07</gco:Date>
+                                <gco:Date>2021-12-01</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +185,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Fast burst photooxidation of alkanols (high-NOx). Gas-aerosol-wall partitioning kinetics. Determine accommodation coefficient (alpha) and effective volatility under differing seed aerosol types (differing phase and polarities, inorganic/organic, humid/dry, standards/SOA). Summary: Alkanols, Methyl nitrite, NO, and particle seed added to chamber, UV lights turned on for 10 sec, multifunctional products formed, and measured with nitrate CIMS. In most experiments in this experimental set, 10-s UV light/photochemistry burst repeated a few times. Organization: Jimenez Lab Lab Affiliation: University of Colorado, Boulder Chamber: 1-White (1W) Experiment Category: Volatility and partitioning Oxidant: Hydroxyl radical Reactants: 1-Hexanol, 1-octanol, 1-Nonanol, 1-DECANOL, Methyl nitrite, nitric oxide, 1-DODECANOL Reaction Type: Photooxidation Relative Humidity: &amp;lt;1 Temperature: 25 Seed Name: Squalane</gco:CharacterString>
+                <gco:CharacterString>Goals: Fast burst photooxidation of alkanols (high-NOx). Gas-aerosol-wall partitioning kinetics. Determine accommodation coefficient (alpha) and effective volatility under differing seed aerosol types (differing phase and polarities, inorganic/organic, humid/dry, standards/SOA). Summary: Alkanols, Methyl nitrite, NO, and particle seed added to chamber, UV lights turned on for 10 sec, multifunctional products formed. In most experiments in this experimental set, 10-s UV light/photochemistry burst repeated a few times. SMPS measurements of particle size distributions were conducted to determine particle formation, surface area and condensational sink rate coefficients. Gas-phase chemical species were measured with nitrate CIMS. Organization: Jimenez Lab Lab Affiliation: University of Colorado, Boulder Chamber: 1-White (1W) Experiment Category: Volatility and partitioning Oxidant: Hydroxyl radical Reactants: 1-Hexanol, 1-octanol, 1-Nonanol, 1-DECANOL, Methyl nitrite, nitric oxide, 1-DODECANOL Reaction Type: Photooxidation Relative Humidity: &amp;lt;1 Temperature: 25 Seed Name: Squalane</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
@@ -367,7 +390,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_286d6933-e456-4485-a9d8-fec761f716f5">
+                                <gml:TimePeriod gml:id="tp_35ab0f66-1f23-4c9c-a7ab-99249c11806f">
                                     <gml:beginPosition>2017-03-31Z</gml:beginPosition>
                                     <gml:endPosition>2017-03-31Z</gml:endPosition>
                                 </gml:TimePeriod>
