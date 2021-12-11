@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::18785ebe-56c2-4745-8be5-ae1400649efe</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.dashrepo::7cfe3f0c-8a08-4b58-bd3c-506031225a7e</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-11T00:00:44Z</gco:DateTime>
+        <gco:DateTime>2021-12-11T00:01:35Z</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,16 +62,39 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/0s8z-kh70</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/zdc6-7a91</gco:CharacterString>
     </gmd:dataSetURI>
 
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://dx.doi.org/10.1038/s42004-019-0200-x</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>Publication</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString>Direct measurements of semi-volatile organic compound dynamics show near-unity mass accommodation coefficients for diverse aerosols</gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
 
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Caltech Atmospheric Chamber_20170606_No Reactant_None_No Seed_170606_55_isop</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: Jimenez Lab_20181121_Toluene/Methyl nitrite/Nitric oxide_Hydroxyl radical_Ammonium sulfate</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -96,8 +119,8 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/0s8z-kh70" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/0s8z-kh70
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/zdc6-7a91" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/zdc6-7a91
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
@@ -105,17 +128,17 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Seinfeld, John</gco:CharacterString>
+                                <gco:CharacterString>Jimenez, Jose</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>Caltech Atmospheric Chamber</gco:CharacterString>
+                                <gco:CharacterString>Jimenez Lab</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>seinfeld@caltech.edu</gco:CharacterString>
+                                                <gco:CharacterString>jose.jimenez@colorado.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
@@ -139,22 +162,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Investigate vapor-wall loss rates of isoprene, MACR, and MVK at RH = 55% Summary: Obtained temporal profiles of three compounds with GC-FID Organization: Caltech Atmospheric Chamber Lab Affiliation: California Institute of Technology, Pasadena, CA Chamber: Near Bag 2014 Experiment Category: Volatility and partitioning Oxidant: None Reaction Type: Non-chemical Relative Humidity: 5 Temperature: 25 Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals: Determine the average and individual gas-particle accommodation coefficients of reaction products formed from toluene photooxidation and contributing to SOA formation. Summary: Toluene, Methyl nitrite, NO, and particle seed added to chamber, UV lights turned on for 10-20 sec, multifunctional products formed and some condensed to aerosol. The 10-20s UV light/photochemistry bursts were repeated 7 times. SMPS measurements of particle size distributions were conducted to determine particle formation, surface area and condensational sink rate coefficients. In this experiment reported, Aerosol-phase chemical species were measured with HR-AMS. Organization: Jimenez Lab Lab Affiliation: University of Colorado, Boulder Chamber: 1-White (1W) Experiment Category: Volatility and partitioning Oxidant: Hydroxyl radical Reactants: Toluene, Methyl nitrite, Nitric oxide Reaction Type: Photooxidation Temperature: 25 Seed Name: Ammonium sulfate Pressure: 830 mbar</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Kong, Stephanie</gco:CharacterString>
+                        <gco:CharacterString>Handschy, Anne</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>Caltech Atmospheric Chamber</gco:CharacterString>
+                        <gco:CharacterString>Jimenez Lab</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:contactInfo>
                         <gmd:CI_Contact>
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                        <gco:CharacterString>wkong@caltech.edu</gco:CharacterString>
+                                        <gco:CharacterString>cudatabasemanager@gmail.com</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
@@ -364,7 +387,7 @@
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/18785ebe-56c2-4745-8be5-ae1400649efe.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/7cfe3f0c-8a08-4b58-bd3c-506031225a7e.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -373,7 +396,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Caltech Atmospheric Chamber_20170606_No Reactant_None_No Seed_170606_55_isop</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: Jimenez Lab_20181121_Toluene/Methyl nitrite/Nitric oxide_Hydroxyl radical_Ammonium sulfate</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
