@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-15T00:00:13Z</gco:DateTime>
+        <gco:DateTime>2021-12-16T00:00:18-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-04-23</gco:Date>
+                                <gco:Date>2020-04-23T17:40:22-06:00</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-04-16</gco:Date>
+                                <gco:Date>2020-04-16T10:51:26-06:00</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -344,8 +344,8 @@
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
                                 <gml:TimePeriod gml:id="tp_16c48c7a-c5f3-4d63-a90e-91156e448600">
-                                    <gml:beginPosition>2011-05-20T06:00:00Z</gml:beginPosition>
-                                    <gml:endPosition>2011-05-20T06:00:00Z</gml:endPosition>
+                                    <gml:beginPosition>2011-05-20T06:00:00-06:00</gml:beginPosition>
+                                    <gml:endPosition>2011-05-20T06:00:00-06:00</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>

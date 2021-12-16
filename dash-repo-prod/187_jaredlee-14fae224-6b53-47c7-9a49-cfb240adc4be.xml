@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-15T00:00:06Z</gco:DateTime>
+        <gco:DateTime>2021-12-16T00:00:11-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -168,7 +168,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-03-17</gco:Date>
+                                <gco:Date>2021-03-17T11:19:38-06:00</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -178,7 +178,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-03-03</gco:Date>
+                                <gco:Date>2021-03-03T09:10:36-07:00</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -524,8 +524,8 @@
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
                                 <gml:TimePeriod gml:id="tp_882edd9f-51bf-4211-9b90-9d9b0e499573">
-                                    <gml:beginPosition>2018-01-01Z</gml:beginPosition>
-                                    <gml:endPosition>2019-12-31Z</gml:endPosition>
+                                    <gml:beginPosition>2018-01-01</gml:beginPosition>
+                                    <gml:endPosition>2019-12-31</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>

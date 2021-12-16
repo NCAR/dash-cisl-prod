@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-15T00:01:29Z</gco:DateTime>
+        <gco:DateTime>2021-12-16T00:01:27-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-09-25</gco:Date>
+                                <gco:Date>2021-09-25T17:58:09-06:00</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-09-25</gco:Date>
+                                <gco:Date>2021-09-25T17:58:09-06:00</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -368,8 +368,8 @@
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
                                 <gml:TimePeriod gml:id="tp_f0e00bd9-3c30-4c74-8e33-d3ff6ed44ab1">
-                                    <gml:beginPosition>2021-02-03Z</gml:beginPosition>
-                                    <gml:endPosition>2021-02-03Z</gml:endPosition>
+                                    <gml:beginPosition>2021-02-03</gml:beginPosition>
+                                    <gml:endPosition>2021-02-03</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
