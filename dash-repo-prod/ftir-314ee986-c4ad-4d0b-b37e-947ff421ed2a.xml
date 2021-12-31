@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:34-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:07-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -237,7 +237,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-07T10:51:27-07:00</gco:Date>
+                                <gco:Date>2021-12-07</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -247,7 +247,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-06T17:19:08-07:00</gco:Date>
+                                <gco:Date>2021-12-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -335,7 +335,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The NCAR/ACOM Optical Techniques Project operates three high spectral resolution, solar viewing FTIR instruments at Thule, Greenland (76.5ºN, 291.3ºE, 225 masl), Boulder Colorado (40.03ºN, 254.7ºE, 1612 masl) and Mauna Loa Observatory Hawaii (19.5ºN, 204.4ºE, 3396 masl). These instruments operate within the framework of the Network for the Detection of Atmospheric Composition change (NDACC). The raw data are recorded autonomously and downloaded to ACOM servers daily. They are processed at ACOM and produce vertical profiles of several trace atmospheric constituents: O3, HNO3, HCl, HF, CO, N2O, CH4, HCN, C2H6, OCS, H2CO, H2O and ClONO2. These data constitute a long-term reference dataset for tropospheric and stratospheric chemistry investigations. The data, along with metadata and full error analysis are saved to GEOMS conforming HDF files. Per our agreement with NDACC and our sponsor NASA, they are uploaded bi-yearly to the NDACC data handling facility (DHF) at www.ndacc.org. For select species, HDF files are uploaded on a near-real-time basis for the CAMS27 project which use the data for realtime air quality forecasting. Once these data are uploaded they are publicly available. The NDACC has implemented Creative Commons licensing designations for data at the DHF. These data maintain a CC0 license.</gco:CharacterString>
+                <gco:CharacterString>The NCAR/ACOM Optical Techniques Project operates three high spectral resolution, solar viewing FTIR instruments at Thule, Greenland (76.5ºN, 291.3ºE, 225 masl), Boulder Colorado (40.03ºN, 254.7ºE, 1612 masl) and Mauna Loa Observatory Hawaii (19.5ºN, 204.4ºE, 3396 masl). These instruments operate within the framework of the Network for the Detection of Atmospheric Composition change (NDACC). The raw data are recorded autonomously and downloaded to ACOM servers daily. They are processed at ACOM and produce vertical profiles of several trace atmospheric constituents: O3, HNO3, HCl, HF, CO, N2O, CH4, HCN, C2H6, OCS, H2CO, H2O and ClONO2.  These data constitute a long-term reference dataset for tropospheric and stratospheric chemistry investigations.
+
+The data, along with metadata and full error analysis are saved to GEOMS conforming HDF files. Per our agreement with NDACC and our sponsor NASA, they are uploaded bi-yearly to the NDACC data handling facility (DHF) at www.ndacc.org. For select species, HDF files are uploaded on a near-real-time basis for the CAMS27 project which use the data for realtime air quality forecasting. Once these data are uploaded they are publicly available. The NDACC has implemented Creative Commons licensing designations for data at the DHF. These data maintain a CC0 license.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

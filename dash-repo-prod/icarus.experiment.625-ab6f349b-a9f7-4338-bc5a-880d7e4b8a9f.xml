@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:50-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:40-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:01:38-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:01:38-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: This experiment was performed to study product formation from stabilized Criegee intermediates in the Isoprene + ozone under dry conditions with cyclohexane as an OH scavenger Summary: The experiment went well, but the mixing could be better in the chamber. The initial rate was 4E8 molec/cm3/s. Organization: Caltech Atmospheric Chamber Lab Affiliation: California Institute of Technology, Pasadena, CA Chamber: Near/Far Bag 2012-2015 (Tran) Experiment Category: Gas phase chemical reaction Oxidant: Ozone Reactants: ISOPRENE, CYCLOHEXANE Reaction Type: Dark oxidation Relative Humidity: 4 Temperature: 24 Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+This experiment was performed to study product formation from stabilized Criegee intermediates in the Isoprene + ozone under dry conditions with cyclohexane as an OH scavenger
+
+Summary:
+The experiment went well, but the mixing could be better in the chamber. The initial rate was 4E8 molec/cm3/s.
+
+Organization: Caltech Atmospheric Chamber
+Lab Affiliation: California Institute of Technology, Pasadena, CA
+Chamber: Near/Far Bag 2012-2015 (Tran)
+
+Experiment Category: Gas phase chemical reaction
+Oxidant: Ozone
+Reactants: ISOPRENE, CYCLOHEXANE
+Reaction Type: Dark oxidation
+Relative Humidity: 4
+Temperature: 24
+Pressure: 750 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

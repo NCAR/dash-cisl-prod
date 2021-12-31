@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:23-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:54-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:59:14-07:00</gco:Date>
+                                <gco:Date>2021-12-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:59:14-07:00</gco:Date>
+                                <gco:Date>2021-12-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Product and SOA formation study on 2-methylbut-3-ene-1,2-diol (1,2-DHI) + OH, using dry ammonium sulfate seeds at &amp;lt;5% RH. RO2 + NO pathway targeted. Summary: 1,2-DHI, NO and H2O2 were injected, AS solution was atomized, and lights were turned on to initiate photooxidation. A DNPH cartridge was collected after photooxidation to analyze for carbonyl content. Organization: Nguyen Group Lab Affiliation: UC Davis Chamber: Tran&apos;s big bag of air Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Hydroxyl radical Reactants: 2-methylbut-3-ene-1,2-diol, hydrogen peroxide, 10028-14-5 Reaction Type: Photooxidation Relative Humidity: 5 Temperature: 22 Seed Name: Ammonium sulfate Pressure: 755</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Product and SOA formation study on 2-methylbut-3-ene-1,2-diol (1,2-DHI) + OH, using dry ammonium sulfate seeds at &amp;lt;5% RH. RO2 + NO pathway targeted.
+
+Summary:
+1,2-DHI, NO and H2O2 were injected, AS solution was atomized, and lights were turned on to initiate photooxidation. A DNPH cartridge was collected after photooxidation to analyze for carbonyl content.
+
+Organization: Nguyen Group
+Lab Affiliation: UC Davis
+Chamber: Tran&apos;s big bag of air
+
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Hydroxyl radical
+Reactants: 2-methylbut-3-ene-1,2-diol, hydrogen peroxide, 10028-14-5
+Reaction Type: Photooxidation
+Relative Humidity: 5
+Temperature: 22
+Seed Name: Ammonium sulfate
+Pressure: 755</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

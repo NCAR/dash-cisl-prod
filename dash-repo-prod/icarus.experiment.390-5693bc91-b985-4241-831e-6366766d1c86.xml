@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:50-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:04:59-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -145,7 +145,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:57:03-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -155,7 +155,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:57:03-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -280,7 +280,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Observe the products (first generation:beta IEPOX) of OH oxidation; evaluate the OH LIF interference from an organic peroxide; observe ISOPOOH and its oxidation products as interferences for GC-FID/PTR-MS/others. Summary: The experiment went well. Long sampling periods were provided before and after oxidation to help instrument teams evaluate interferences from ISOPOOH and its products. A little over 2/3 of the ISOPOOH was reacted away using ~500 ppb of H2O2 as the OH source. Note that the ISOPOOH sample itself contained H2O2, so H2O2 was present in the bag before it was added explicitly. Organization: 2014 FIXCIT Study Lab Affiliation: California Institute of Technology Chamber: Seinfeld chambers Experiment Category: Gas phase chemical reaction Oxidant: Hydroxyl radical Reactants: 4-hydroxy 3-peroxy ISOPOOH Reaction Type: Photooxidation Relative Humidity: 5 Temperature: 25 Pressure: 760 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Observe the products (first generation:beta IEPOX) of OH oxidation; evaluate the OH LIF interference from an organic peroxide; observe ISOPOOH and its oxidation products as interferences for GC-FID/PTR-MS/others.
+
+Summary:
+The experiment went well.  Long sampling periods were provided before and after oxidation to help instrument teams evaluate interferences from ISOPOOH and its products.  A little over 2/3 of the ISOPOOH was reacted away using ~500 ppb of H2O2 as the OH source.  Note that the ISOPOOH sample itself contained H2O2, so H2O2 was present in the bag before it was added explicitly.
+
+Organization: 2014 FIXCIT Study
+Lab Affiliation: California Institute of Technology
+Chamber: Seinfeld chambers
+
+Experiment Category: Gas phase chemical reaction
+Oxidant: Hydroxyl radical
+Reactants: 4-hydroxy 3-peroxy ISOPOOH
+Reaction Type: Photooxidation
+Relative Humidity: 5
+Temperature: 25
+Pressure: 760 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

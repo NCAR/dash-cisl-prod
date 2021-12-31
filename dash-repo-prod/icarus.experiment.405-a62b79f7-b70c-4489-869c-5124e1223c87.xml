@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:53-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:03-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -122,7 +122,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:58:40-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:58:39-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -257,7 +257,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Study isoprene low NO chemistry. The experiment will be similar to the experiment run on 01/02/2014, but the loading will be lower, so as to limit RO2 + RO2 chemistry. Summary: We injected isoprene initially and like the experiment run on 01/19/2014 there was ISOPOOH contamination during the injection. We decided given the goals of the experiment to flush the bag for several hours to remove the ISOPOOH. After several hours of flushing the ISOPOOH was roughly around 200 ppt (see the worked up data for a more precise number). The source of contamination was found, and everything was cleaned again. No ISOPOOH was injected during the second injection of isoprene. Because we started the experiment later (i.e., after rush hour), the NO background was a lot lower than previous experiments (~10 ppt in the beginning). The lower isoprene loading in this experiment allowed for the HO2 pathway to dominate over the RO2 pathway and allowed for later generation products to form. During the experiment we saw ISOPOOH form and decay away. Unexpectedly IEPOX also formed and decayed away. There seemed to be a lower than expected amount of IEPOX formed. Perhaps wall loss was greater in this experiment than on 01/02/2014. For the PTR-MS and GC-FID, we trapped ISOPOOH/IEPOX at -40 deg C, so that yields of MVK and MACR for the experiment could be determined without the ISOPOOH/IEPOX interference. Organization: 2014 FIXCIT Study Lab Affiliation: California Institute of Technology Chamber: Seinfeld chambers Experiment Category: Gas phase chemical reaction Oxidant: Hydroxyl radical Reactants: ISOPRENE, hydrogen peroxide Reaction Type: Photooxidation Relative Humidity: 5 Temperature: 27 Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Study isoprene low NO chemistry. The experiment will be similar to the experiment run on 01/02/2014, but the loading will be lower, so as to limit RO2 + RO2 chemistry.
+
+Summary:
+We injected isoprene initially and like the experiment run on 01/19/2014 there was ISOPOOH contamination during the injection.  We decided given the goals of the experiment to flush the bag for several hours to remove the ISOPOOH. After several hours of flushing the ISOPOOH was roughly around 200 ppt (see the worked up data for a more precise number). The source of contamination was found, and everything was cleaned again. No ISOPOOH was injected during the second injection of isoprene. Because we started the experiment later (i.e., after rush hour), the NO background was a lot lower than previous experiments (~10 ppt in the beginning). The lower isoprene loading in this experiment allowed for the HO2 pathway to dominate over the RO2 pathway and allowed for later generation products to form. During the experiment we saw ISOPOOH form and decay away. Unexpectedly IEPOX also formed and decayed away. There seemed to be a lower than expected amount of IEPOX formed. Perhaps wall loss was greater in this experiment than on 01/02/2014. For the PTR-MS and GC-FID, we trapped ISOPOOH/IEPOX  at -40 deg C, so that yields of MVK and MACR for the experiment could be determined without the ISOPOOH/IEPOX interference.
+
+Organization: 2014 FIXCIT Study
+Lab Affiliation: California Institute of Technology
+Chamber: Seinfeld chambers
+
+Experiment Category: Gas phase chemical reaction
+Oxidant: Hydroxyl radical
+Reactants: ISOPRENE, hydrogen peroxide
+Reaction Type: Photooxidation
+Relative Humidity: 5
+Temperature: 27
+Pressure: 750 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

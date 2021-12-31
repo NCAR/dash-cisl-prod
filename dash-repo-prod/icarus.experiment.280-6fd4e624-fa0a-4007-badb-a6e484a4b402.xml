@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:15-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:04:17-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:54:19-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:54:19-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Observing OH-initiated m-xylene reactions under SOA surrogate and NOx environment. Summary: targets: 0.55 ppmC SOA surrogate + 1 ppmc H2O2 + 25 ppb Nox + 100 ppb m-xylene(A) INSTRUMENTS: GC1, SMPS,VTDMA, HTDMA, AMS Organization: UCR-CECERT-APL-Cocker Group Lab Affiliation: University of California, Riverside, CE-CERT Chamber: EPA chamber Experiment Category: Photolysis, any phase, Blank/Control Oxidant: Hydroxyl radical Reactants: SOA surrogate, NOx, H2O2 Reaction Type: Photooxidation Relative Humidity: 0.01 Temperature: 28 Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Observing OH-initiated m-xylene reactions under SOA surrogate and NOx environment.
+
+Summary:
+targets: 0.55 ppmC SOA surrogate + 1 ppmc H2O2 + 25 ppb Nox + 100 ppb m-xylene(A)
+INSTRUMENTS: GC1, SMPS,VTDMA, HTDMA, AMS
+
+Organization: UCR-CECERT-APL-Cocker Group
+Lab Affiliation: University of California, Riverside, CE-CERT
+Chamber: EPA chamber
+
+Experiment Category: Photolysis, any phase, Blank/Control
+Oxidant: Hydroxyl radical
+Reactants: SOA surrogate, NOx, H2O2
+Reaction Type: Photooxidation
+Relative Humidity: 0.01
+Temperature: 28
+Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

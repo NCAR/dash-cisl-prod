@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:52-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:02-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -145,7 +145,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:58:06-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -155,7 +155,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:58:05-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -280,7 +280,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Study methacrolein low NO chemistry. Summary: We successfully oxidized MACR in low NO conditions. About 9 ppb was remaining by the time we turned off lights. After we turned off lights we added in dry ammonium sulfate seed and the AMS saw aerosol uptake. The main peaks increasing on the CF3O- CIMS were hydroxyacetone, acetic acid, formic acid, and peroxyacetic acid. Note the night prior to this experiment we cleaned the bag with Milli-Q water, and then flushed the bag overnight at 40 deg C to dry it. RH was typical in the morning at ~3%. Organization: 2014 FIXCIT Study Lab Affiliation: California Institute of Technology Chamber: Seinfeld chambers Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Hydroxyl radical Reactants: METHACROLEIN, hydrogen peroxide Reaction Type: Photooxidation Relative Humidity: 5 Temperature: 28 Seed Name: Ammonium sulfate Pressure: 750</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Study methacrolein low NO chemistry.
+
+Summary:
+We successfully oxidized MACR in low NO conditions. About 9 ppb was remaining by the time we turned off lights.  After we turned off lights we added in dry ammonium sulfate seed and the AMS saw aerosol uptake. The main peaks increasing  on the CF3O- CIMS were hydroxyacetone, acetic acid, formic acid, and peroxyacetic acid. Note the night prior to this experiment we cleaned the bag with Milli-Q water, and then flushed the bag overnight at 40 deg C to dry it. RH was typical in the morning at ~3%.
+
+Organization: 2014 FIXCIT Study
+Lab Affiliation: California Institute of Technology
+Chamber: Seinfeld chambers
+
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Hydroxyl radical
+Reactants: METHACROLEIN, hydrogen peroxide
+Reaction Type: Photooxidation
+Relative Humidity: 5
+Temperature: 28
+Seed Name: Ammonium sulfate
+Pressure: 750</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:24-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:04:28-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:54:43-07:00</gco:Date>
+                                <gco:Date>2021-12-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:54:43-07:00</gco:Date>
+                                <gco:Date>2021-12-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Investigate vapor-wall loss rates of isoprene, MACR, and MVK at RH = 5% Summary: Obtained temporal profiles of three compounds with GC-FID Organization: Caltech Atmospheric Chamber Lab Affiliation: California Institute of Technology, Pasadena, CA Chamber: Near Bag 2014 Experiment Category: Volatility and partitioning Oxidant: None Reaction Type: Non-chemical Relative Humidity: 5 Temperature: 25 Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Investigate vapor-wall loss rates of isoprene, MACR, and MVK at RH = 5%
+
+Summary:
+Obtained temporal profiles of three compounds with GC-FID
+
+Organization: Caltech Atmospheric Chamber
+Lab Affiliation: California Institute of Technology, Pasadena, CA
+Chamber: Near Bag 2014
+
+Experiment Category: Volatility and partitioning
+Oxidant: None
+Reaction Type: Non-chemical
+Relative Humidity: 5
+Temperature: 25
+Pressure: 750 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

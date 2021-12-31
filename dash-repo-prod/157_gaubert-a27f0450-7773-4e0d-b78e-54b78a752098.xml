@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:19-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:53-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-03-12T15:40:10-07:00</gco:Date>
+                                <gco:Date>2021-03-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-03-09T10:43:07-07:00</gco:Date>
+                                <gco:Date>2021-03-09</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -280,7 +280,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>With the reduction in economic activities following the COVID-19 pandemic outbreak in early 2020, most emissions of air pollutants (i.e., nitrogen oxides (NOx), carbon monoxide (CO), sulfur dioxide (SO2), volatile organic carbon (VOC), black carbon (BC), organic carbon (OC)) have decreased substantially during several months in different regions of the world. This unintended global experiment has given insight on some of the processes that control air quality and offered a glimpse into a potential future in which air quality would be improved. Here, a global atmospheric model is used to assess the changes in the chemical composition of the atmosphere during the pandemic period and in the related chemical processes that lead to the formation of ozone (O3) and secondary organic aerosols (SOA). The chemical fields made available here are provided by the Community Earth System Model (CESM) version 2.2 that accounts for interactive physical, chemical and dynamical processes. The simulations are performed with a detailed chemical scheme (MOZART TS1 mechanism) driven by emission changes of primary pollutants and forced by realistic weather conditions reproduce reasonably well the changes observed in the chemical composition of the atmosphere, and specifically in the perturbations of surface ozone and other oxidants during the COVID-19 pandemic. Two simulations are made available, a reference using daily emissions for 2020 and another one that includes the lockdown induced emission changes.</gco:CharacterString>
+                <gco:CharacterString>With the reduction in economic activities following the COVID-19 pandemic outbreak in early 2020, most emissions of air pollutants (i.e., nitrogen oxides (NOx), carbon monoxide (CO), sulfur dioxide (SO2), volatile organic carbon (VOC), black carbon (BC), organic carbon (OC)) have decreased substantially during several months in different regions of the world. This unintended global experiment has given insight on some of the processes that control air quality and offered a glimpse into a potential future in which air quality would be improved. Here, a global atmospheric model is used to assess the changes in the chemical composition of the atmosphere during the pandemic period and in the related chemical processes that lead to the formation of ozone (O3) and secondary organic aerosols (SOA).
+
+The chemical fields made available here are provided by the Community Earth System Model (CESM) version 2.2 that accounts for interactive physical, chemical and dynamical processes. The simulations are performed with a detailed chemical scheme (MOZART TS1 mechanism) driven by emission changes of primary pollutants and forced by realistic weather conditions reproduce reasonably well the changes observed in the chemical composition of the atmosphere, and specifically in the perturbations of surface ozone and other oxidants during the COVID-19 pandemic. Two simulations are made available, a reference using daily emissions for 2020 and another one that includes the lockdown induced emission changes.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

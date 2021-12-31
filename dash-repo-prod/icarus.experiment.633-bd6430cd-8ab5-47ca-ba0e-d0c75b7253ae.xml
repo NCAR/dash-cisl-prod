@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:52-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:47-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:01:46-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:01:46-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: This experiment was performed to study product formation from stabilized Criegee intermediates (SCI) in the Isoprene + ozone under various relative humidity (RH) conditions with cyclohexane as an OH scavenger. This investigates the reaction of the simplest SCI (CH2OO) with water and water dimer Summary: Significant amounts of CH2OO + H2O products (HMHP, formic acid, and H2O2) were observed Organization: Caltech Atmospheric Chamber Lab Affiliation: California Institute of Technology, Pasadena, CA Chamber: Near/Far Bag 2012-2015 (Tran) Experiment Category: Gas phase chemical reaction Oxidant: Ozone Reactants: ISOPRENE, CYCLOHEXANE Reaction Type: Dark oxidation Relative Humidity: 4 Temperature: 24 Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+This experiment was performed to study product formation from stabilized Criegee intermediates (SCI) in the Isoprene + ozone under various relative humidity (RH) conditions with cyclohexane as an OH scavenger.  This investigates the reaction of the simplest SCI (CH2OO) with water and water dimer
+
+Summary:
+Significant amounts of  CH2OO + H2O products (HMHP, formic acid, and H2O2) were observed
+
+Organization: Caltech Atmospheric Chamber
+Lab Affiliation: California Institute of Technology, Pasadena, CA
+Chamber: Near/Far Bag 2012-2015 (Tran)
+
+Experiment Category: Gas phase chemical reaction
+Oxidant: Ozone
+Reactants: ISOPRENE, CYCLOHEXANE
+Reaction Type: Dark oxidation
+Relative Humidity: 4
+Temperature: 24
+Pressure: 750 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

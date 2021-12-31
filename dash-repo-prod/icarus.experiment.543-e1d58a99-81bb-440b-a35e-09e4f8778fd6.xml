@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:24-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:57-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:59:21-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:59:21-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Product study on 2-methylbut-3-ene-1,2-diol (1,2-DHI) + OH, unseeded, dry, trying to get the best conditions possible for any isomerization/autooxidation to occur (including high temperature, low OH / light) Summary: The chamber was heated to 35?C and all but two lights were removed from the chamber (~3% of max light flux). 1,2-DHI and CH3ONO were injected and allowed to mix and equilibrate, after which the lights were turned on and left on overnight (&amp;gt;24 h). The CIMS was acting up and running out of reagent gas, so signals were pretty wonky before 12:00 on the first day and after 06:00 on the second. Organization: Nguyen Group Lab Affiliation: UC Davis Chamber: Tran&apos;s big bag of air Experiment Category: Gas phase chemical reaction Oxidant: Hydroxyl radical Reactants: 2-methylbut-3-ene-1,2-diol, Methyl nitrite Reaction Type: Photooxidation Relative Humidity: 5 Temperature: 35 Seed Name: N/A Pressure: 755</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Product study on 2-methylbut-3-ene-1,2-diol (1,2-DHI) + OH, unseeded, dry, trying to get the best conditions possible for any isomerization/autooxidation to occur (including high temperature, low OH / light)
+
+Summary:
+The chamber was heated to 35?C and all but two lights were removed from the chamber (~3% of max light flux). 1,2-DHI and CH3ONO were injected and allowed to mix and equilibrate, after which the lights were turned on and left on overnight (&amp;gt;24 h). The CIMS was acting up and running out of reagent gas, so signals were pretty wonky before 12:00 on the first day and after 06:00 on the second.
+
+Organization: Nguyen Group
+Lab Affiliation: UC Davis
+Chamber: Tran&apos;s big bag of air
+
+Experiment Category: Gas phase chemical reaction
+Oxidant: Hydroxyl radical
+Reactants: 2-methylbut-3-ene-1,2-diol, Methyl nitrite
+Reaction Type: Photooxidation
+Relative Humidity: 5
+Temperature: 35
+Seed Name: N/A
+Pressure: 755</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:40-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:18-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:14-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:13-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Probing the steady state NO and O3 concentration that could be reached by varying the concentrations of reactants O3 and NO in the dark experiment Summary: First, a given amount of O3 is continuously injected into the chamber till the steady state is established. Second, a given amount of NO is injected into the chamber till another steady state is established. Organization: NCAR Lab Affiliation: NCAR ACOM Boulder CO USA Chamber: NCAR 3rd Floor Teflon Experiment Category: Gas phase chemical reaction, Blank/Control Oxidant: Nitrate radical Reactants: nitric oxide, ozone Reaction Type: Dark oxidation Relative Humidity: 10 Temperature: 25 Pressure: 0.8 atm</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Probing the steady state NO and O3 concentration that could be reached by varying the concentrations of reactants O3 and NO in the dark experiment
+
+Summary:
+First, a given amount of O3 is continuously injected into the chamber till the steady state is established. Second, a given amount of NO is injected into the chamber till another steady state is established.
+
+Organization: NCAR
+Lab Affiliation: NCAR ACOM Boulder CO USA
+Chamber: NCAR 3rd Floor Teflon
+
+Experiment Category: Gas phase chemical reaction, Blank/Control
+Oxidant: Nitrate radical
+Reactants: nitric oxide, ozone
+Reaction Type: Dark oxidation
+Relative Humidity: 10
+Temperature: 25
+Pressure: 0.8 atm</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

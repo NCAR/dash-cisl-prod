@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:30-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:05-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-01-23T13:51:45-07:00</gco:Date>
+                                <gco:Date>2020-01-23</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-01-23T13:51:45-07:00</gco:Date>
+                                <gco:Date>2020-01-23</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -197,7 +197,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>An updated isoprene and terpene chemical mechanism (MOZART-TS2) for CESM/CAM-chem (Community Earth System Model/Community Atmosphere Model with chemistry) was created and evaluated as explained in the following manuscript: Schwantes et al., Comprehensive isoprene and terpene gas-phase chemistry improves simulated surface ozone in the southeastern U.S., ACP, 2019 (https://doi.org/10.5194/acp-2019-902). The hourly instantaneous ozone data for August 2013 for the four different chemical mechanisms (TS1, HL, ISOP, and TS2) and the 10 sensitivity tests performed in this work are included in this dataset. These ozone results will be useful for others to compare CESM/CAM-chem results with other models. Additionally the CESM/CAM-chem SEAC4RS (Studies of Emissions Atmospheric Composition, Clouds and Climate Coupling by Regional Surveys) flight tracks for TS1, HL, ISOP, and TS2 and the nudging tests presented in the supplement are also included. These flight tracks will also be useful to encourage future comparisons of CAM-chem results with other models. Additionally, standard model output for 2013 August monthly average is provided for the TS1 and TS2 chemical mechanisms. Please contact Rebecca Schwantes (rschwant@ucar.edu) or Louisa Emmons (emmons@ucar.edu) if you have questions about this dataset.</gco:CharacterString>
+                <gco:CharacterString>An updated isoprene and terpene chemical mechanism (MOZART-TS2) for CESM/CAM-chem (Community Earth System Model/Community Atmosphere Model with chemistry) was created and evaluated as explained in the following manuscript: Schwantes et al., Comprehensive isoprene and terpene gas-phase chemistry improves simulated surface ozone in the southeastern U.S., ACP, 2019 (https://doi.org/10.5194/acp-2019-902). The hourly instantaneous ozone data for August 2013 for the four different chemical mechanisms (TS1, HL, ISOP, and TS2) and the 10 sensitivity tests performed in this work are included in this dataset. These ozone results will be useful for others to compare CESM/CAM-chem results with other models. Additionally the CESM/CAM-chem SEAC4RS (Studies of Emissions Atmospheric Composition, Clouds and Climate Coupling by Regional Surveys) flight tracks for TS1, HL, ISOP, and TS2 and the nudging tests presented in the supplement are also included. These flight tracks will also be useful to encourage future comparisons of CAM-chem results with other models. Additionally, standard model output for 2013 August monthly average is provided for the TS1 and TS2 chemical mechanisms.
+
+Please contact Rebecca Schwantes (rschwant@ucar.edu) or Louisa Emmons (emmons@ucar.edu) if you have questions about this dataset.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

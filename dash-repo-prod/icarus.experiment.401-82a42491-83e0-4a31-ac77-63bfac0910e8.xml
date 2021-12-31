@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:52-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:02-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -145,7 +145,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:58:15-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -155,7 +155,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:58:14-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -280,7 +280,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Understand the gas-phase products of MPAN + OH. Understand what contributes to SOA from MPAN + OH. Summary: Within an hour of lights on, methacrolein was completely oxidized away. Significant amounts of organic aerosol were reported by AMS past 30% oxidation of methacrolein. TD-LIF reported increasing signal on their PN channel, peaking around lights off. Upon lights off, GHTOS reported significant OH interference, so the addition of NO was held off for 20 minutes. NO addition led to an excess of roughly 90ppb of NO and successfully titrated out the ozone. Wall loss was monitored for approximately an hour. MAE standard (courtesy of the Surrat group at UNC-Chapel Hill) was then injected into the chamber, at approximately ~10ppb. Wall loss was monitored again for another 90 minutes. At this point, humidified air was added to the bag to intentionally cause wall loss of MAE. Wall loss did increase after addition of humidity. Wet ammonium sulfate seed aerosol was then injected into the bag and no extra wall loss was noted from MAE. Organization: 2014 FIXCIT Study Lab Affiliation: California Institute of Technology Chamber: Seinfeld chambers Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Hydroxyl radical Reactants: METHACROLEIN, nitrogen dioxide, methyl nitrite, methacrylic acid epoxide Reaction Type: Photooxidation Relative Humidity: 5 Temperature: 26 Seed Name: Ammonium sulfate Pressure: 750</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Understand the gas-phase products of MPAN + OH. Understand what contributes to SOA from MPAN + OH.
+
+Summary:
+Within an hour of lights on, methacrolein was completely oxidized away. Significant amounts of organic aerosol were reported by AMS past 30% oxidation of methacrolein. TD-LIF reported increasing signal on their PN channel, peaking around lights off. Upon lights off, GHTOS reported significant OH interference, so the addition of NO was held off for 20 minutes. NO addition led to an excess of roughly 90ppb of NO and successfully titrated out the ozone. Wall loss was monitored for  approximately an hour. MAE standard (courtesy of the Surrat group at UNC-Chapel Hill) was then injected into the chamber, at approximately ~10ppb. Wall loss was monitored again for another 90 minutes. At this point, humidified air was added to the bag to intentionally cause wall loss of MAE. Wall loss did increase after addition of humidity. Wet ammonium sulfate seed aerosol was then injected into the bag and no extra wall loss was noted from MAE.
+
+Organization: 2014 FIXCIT Study
+Lab Affiliation: California Institute of Technology
+Chamber: Seinfeld chambers
+
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Hydroxyl radical
+Reactants: METHACROLEIN, nitrogen dioxide, methyl nitrite, methacrylic acid epoxide
+Reaction Type: Photooxidation
+Relative Humidity: 5
+Temperature: 26
+Seed Name: Ammonium sulfate
+Pressure: 750</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

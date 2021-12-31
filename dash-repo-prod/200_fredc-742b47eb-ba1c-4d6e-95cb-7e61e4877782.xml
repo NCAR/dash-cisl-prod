@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:23-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:57-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -122,7 +122,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-05-04T12:53:38-06:00</gco:Date>
+                                <gco:Date>2021-05-04</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-05-03T10:48:56-06:00</gco:Date>
+                                <gco:Date>2021-05-03</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -196,7 +196,13 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Reference level assumptions used to calculate the Atlantic meridional overturning circulation transports at the RAPID and MOVE observing arrays are revisited in an eddying ocean model. Observational transport calculation methods are complemented by several alternative approaches. At RAPID, the model transports from the observational method and the model truth (based on the actual model velocities) agree well in their mean and variability. There are substantial differences among the transport estimates obtained with various methods at the MOVE site. These differences result from relatively large and time-varying reference velocities at depth in the model, not supporting a level-of-no-motion. The methods that account for these reference velocities properly at MOVE produce transports that are in good agreement with the model truth. In contrast with the observational estimates, the model transport trends at MOVE and RAPID largely agree with each other on pentadal to multi-decadal time scales. The datasets listed here are output fields from the Meridional ovErTurning ciRculation diagnostIC (METRIC) package which enables consistent calculations of AMOC estimates at the MOVE and RAPID sections from observations and models. The METRIC package is available on GitHub at https://github.com/NCAR/metric. Citation for the code: Castruccio F. S., 2021: NCAR/metric: metric v0.1. doi/10.5281/zenodo.4708277 Citation for the method: Danabasoglu et al. (2021). Revisiting AMOC Transport Estimates from Observations and Models. Geophysical Research Letters.</gco:CharacterString>
+                <gco:CharacterString>Reference level assumptions used to calculate the Atlantic meridional overturning circulation transports at the RAPID and MOVE observing arrays are revisited in an eddying ocean model. Observational transport calculation methods are complemented by several alternative approaches. At RAPID, the model transports from the observational method and the model truth (based on the actual model velocities) agree well in their mean and variability. There are substantial differences among the transport estimates obtained with various methods at the MOVE site. These differences result from relatively large and time-varying reference velocities at depth in the model, not supporting a level-of-no-motion. The methods that account for these reference velocities properly at MOVE produce transports that are in good agreement with the model truth. In contrast with the observational estimates, the model transport trends at MOVE and RAPID largely agree with each other on pentadal to multi-decadal time scales.
+
+The datasets listed here are output fields from the Meridional ovErTurning ciRculation diagnostIC (METRIC) package which enables consistent calculations of AMOC estimates at the MOVE and RAPID sections from observations and models. The METRIC package is available on GitHub at https://github.com/NCAR/metric. 
+
+Citation for the code:  Castruccio F. S., 2021: NCAR/metric: metric v0.1. doi/10.5281/zenodo.4708277
+
+Citation for the method: Danabasoglu et al. (2021). Revisiting AMOC Transport Estimates from Observations and Models. Geophysical Research Letters.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

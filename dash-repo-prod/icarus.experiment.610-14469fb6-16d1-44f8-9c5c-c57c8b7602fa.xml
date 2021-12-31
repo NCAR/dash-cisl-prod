@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:46-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:33-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:01:21-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:01:20-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: This experiment was done to photooxidize MPAN and capture NO3 with a-pinene, while observing secondary organic aerosol (SOA) formation through dry nucleation. MAE was added toward the end of the experiment to see if it enhanced SOA formation. Summary: Addition of MAE didn&apos;t change the particle mass. Similar to 7/22 - we observed m/z316, the pinene nitroxyhydroperoxide on CIMS, which showed that NO3 radical was liberated from the MPAN+OH reaction. This reaction produced a lot of SOA. Organization: Caltech Atmospheric Chamber Lab Affiliation: California Institute of Technology, Pasadena, CA Chamber: Near/Far Bag 2012-2015 (Tran) Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Hydroxyl radical Reactants: Methacrylolyl peroxynitrate(MPAN), ALPHA-PINENE, hydrogen peroxide, Methacrylic acid epoxide (MAE) Reaction Type: Photooxidation Relative Humidity: 4 Temperature: 15 Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+This experiment was done to photooxidize MPAN and capture NO3 with a-pinene, while observing secondary organic aerosol (SOA) formation through dry nucleation. MAE was added toward the end of the experiment to see if it enhanced SOA formation.
+
+Summary:
+Addition of MAE didn&apos;t change the particle mass. Similar to 7/22 - we observed m/z316, the pinene nitroxyhydroperoxide on CIMS, which showed that NO3 radical was liberated from the MPAN+OH reaction. This reaction produced a lot of SOA.
+
+Organization: Caltech Atmospheric Chamber
+Lab Affiliation: California Institute of Technology, Pasadena, CA
+Chamber: Near/Far Bag 2012-2015 (Tran)
+
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Hydroxyl radical
+Reactants: Methacrylolyl peroxynitrate(MPAN), ALPHA-PINENE, hydrogen peroxide, Methacrylic acid epoxide (MAE)
+Reaction Type: Photooxidation
+Relative Humidity: 4
+Temperature: 15
+Pressure: 750 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

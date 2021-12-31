@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:22-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:53-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:59:11-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:59:11-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Product study on 2-methylbut-3-ene-1,2-diol (1,2-DHI) + OH, trying to target the RO2+RO2 pathway with really high 1,2-DHI loading but the RO2+HO2 pathway still likely dominated. Summary: 1,2-DHI and H2O2 were injected and lights were turned on to initiate photooxidation. A DNPH cartridge was collected towards the end of the experiment to analyze for carbonyl content. Some new particle formation observed, possibly from dimers! Organization: Nguyen Group Lab Affiliation: UC Davis Chamber: Tran&apos;s big bag of air Experiment Category: Gas phase chemical reaction Oxidant: Hydroxyl radical Reactants: 2-methylbut-3-ene-1,2-diol, hydrogen peroxide Reaction Type: Photooxidation Relative Humidity: 5 Temperature: 22 Pressure: 755</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Product study on  2-methylbut-3-ene-1,2-diol (1,2-DHI) + OH, trying to target the RO2+RO2 pathway with really high 1,2-DHI loading but the RO2+HO2 pathway still likely dominated.
+
+Summary:
+1,2-DHI and H2O2 were injected and lights were turned on to initiate photooxidation. A DNPH cartridge was collected towards the end of the experiment to analyze for carbonyl content. Some new particle formation observed, possibly from dimers!
+
+Organization: Nguyen Group
+Lab Affiliation: UC Davis
+Chamber: Tran&apos;s big bag of air
+
+Experiment Category: Gas phase chemical reaction
+Oxidant: Hydroxyl radical
+Reactants: 2-methylbut-3-ene-1,2-diol, hydrogen peroxide
+Reaction Type: Photooxidation
+Relative Humidity: 5
+Temperature: 22
+Pressure: 755</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

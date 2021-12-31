@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:16-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:04:18-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:54:23-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:54:23-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: To characterize particulate organic nitrate generated from NO3 oxidation of a-pinene and understand its hydrolysis process Summary: SOA including particulate organic nitrate formed by 12 ppb of a-pinene injected as precursor VOC and 27 ppb N2O5 injected as oxidant precursor. Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Far) Experiment Category: Condensed-phase chemical reaction, Aerosol formation Oxidant: Nitrate radical Reactants: ALPHA-PINENE Reaction Type: Dark oxidation, Hydrolysis Relative Humidity: 2 - 3 Temperature: 25 Seed Name: Ammonium sulfate</gco:CharacterString>
+                <gco:CharacterString>Goals:
+To characterize particulate organic nitrate generated from NO3 oxidation of a-pinene and understand its hydrolysis process
+
+Summary:
+SOA including particulate organic nitrate formed by 12 ppb of a-pinene injected as precursor VOC and 27 ppb N2O5 injected as oxidant precursor.
+
+Organization: Ng Research Group
+Lab Affiliation: Georgia Institute of Technology
+Chamber: Georgia Tech Environmental Chamber (Far)
+
+Experiment Category: Condensed-phase chemical reaction, Aerosol formation
+Oxidant: Nitrate radical
+Reactants: ALPHA-PINENE
+Reaction Type: Dark oxidation, Hydrolysis
+Relative Humidity: 2 - 3
+Temperature: 25
+Seed Name: Ammonium sulfate</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

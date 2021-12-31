@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:12-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:36-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:58:08-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:58:08-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Photo-oxidation of 2,4-DMP with OH under black lights Summary: Targets: 2,4-DMP 200ppb (A), m-xylene 200ppb (B), H2O2 1ppm (both) INSTRUMENTS: PILS-ToF, GC1,2, SMPS, vTDMA, APM, AMS, filters Organization: UCR-CECERT-APL-Cocker Group Lab Affiliation: University of California, Riverside, CE-CERT Chamber: EPA chamber Experiment Category: Photolysis, any phase, Aerosol formation, Aerosol aging, Blank/Control Oxidant: Hydroxyl radical Reactants: M-XYLENE, H2O2 Reaction Type: Photooxidation Relative Humidity: 0.01 Temperature: 28 Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Photo-oxidation of 2,4-DMP with OH under black lights
+
+Summary:
+Targets: 2,4-DMP 200ppb (A), m-xylene 200ppb (B), H2O2 1ppm (both)
+INSTRUMENTS:  PILS-ToF, GC1,2, SMPS, vTDMA, APM, AMS, filters
+
+Organization: UCR-CECERT-APL-Cocker Group
+Lab Affiliation: University of California, Riverside, CE-CERT
+Chamber: EPA chamber
+
+Experiment Category: Photolysis, any phase, Aerosol formation, Aerosol aging, Blank/Control
+Oxidant: Hydroxyl radical
+Reactants: M-XYLENE, H2O2
+Reaction Type: Photooxidation
+Relative Humidity: 0.01
+Temperature: 28
+Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

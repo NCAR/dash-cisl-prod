@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:58-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:57-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-08T11:26:30-07:00</gco:Date>
+                                <gco:Date>2021-12-08</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-08T11:26:30-07:00</gco:Date>
+                                <gco:Date>2021-12-08</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: This experiment serves as a control for experiments on 11/16/21 and 11/19/21, to examine the partitioning of species from chamber walls to the gas phase while lights are on and filter collection is in progress. Summary: The chamber was humidified to ~80% RH. Filter collection proceeded for ~5 hours and gas phase species were measured. ~1 hour of data is missing mid-experiment due to CIMS pressure issues Organization: Nguyen Group Lab Affiliation: UC Davis Chamber: Tran&apos;s big bag of air Experiment Category: Volatility and partitioning, Instrument/Chamber characterization, Blank/Control Oxidant: None Reaction Type: Non-chemical Relative Humidity: 85 Temperature: 20-22 Seed Name: N/A Pressure: 755 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+This experiment serves as a control for experiments on 11/16/21 and 11/19/21, to examine the partitioning of species from chamber walls to the gas phase while lights are on and filter collection is in progress.
+
+Summary:
+The chamber was humidified to ~80% RH. Filter collection proceeded for ~5 hours and gas phase species were measured. ~1 hour of data is missing mid-experiment due to CIMS pressure issues
+
+Organization: Nguyen Group
+Lab Affiliation: UC Davis
+Chamber: Tran&apos;s big bag of air
+
+Experiment Category: Volatility and partitioning, Instrument/Chamber characterization, Blank/Control
+Oxidant: None
+Reaction Type: Non-chemical
+Relative Humidity: 85
+Temperature: 20-22
+Seed Name: N/A
+Pressure: 755 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

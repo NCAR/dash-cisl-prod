@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:18-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:52-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-10-26T12:32:57-06:00</gco:Date>
+                                <gco:Date>2020-10-26</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-10-23T09:46:04-06:00</gco:Date>
+                                <gco:Date>2020-10-23</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -150,7 +150,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The Community Radiative Transfer Model (CRTM) is a JCSDA developed and distributed community model. It is used within the JCSDA JEDI framework, but is also a commonly used stand-alone radiative transfer model used across various federal agencies, research organizations, and universities. CRTM is licensed under the Creative Commons Zero license, and is fully within the public domain, including the dataset to be hosted here. The present dataset is the &quot;binary files&quot; that are used within the CRTM to enable it to compute clear-sky transmittances for various satellite sensors. There will be either 1 &quot;tarball&quot; file (tar.gz) with a total size of approximately 6 GB or less, or a structured directory consisting of 4139 files binary files consisting of big endian, little endian, netCDF3/4, pdf, and assorted binary assets totaling no more than 10GB (uncompressed). There will be occasion to add individual files, but no more than a weekly occurrence in general.</gco:CharacterString>
+                <gco:CharacterString>The Community Radiative Transfer Model (CRTM) is a JCSDA developed and distributed community model.  It is used within the JCSDA JEDI framework, but is also a commonly used stand-alone radiative transfer model used across various federal agencies, research organizations, and universities. CRTM is licensed under the Creative Commons Zero license, and is fully within the public domain, including the dataset to be hosted here.
+
+The present dataset is the &quot;binary files&quot; that are used within the CRTM to enable it to compute clear-sky transmittances for various satellite sensors.  There will be either 1 &quot;tarball&quot; file (tar.gz) with a total size of approximately 6 GB or less, or a structured directory consisting of 4139 files binary files consisting of big endian, little endian, netCDF3/4, pdf, and assorted binary assets totaling no more than 10GB (uncompressed). There will be occasion to add individual files, but no more than a weekly occurrence in general.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

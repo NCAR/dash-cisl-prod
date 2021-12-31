@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:30-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:04-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-20T13:49:02-07:00</gco:Date>
+                                <gco:Date>2021-12-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-16T19:00:57-07:00</gco:Date>
+                                <gco:Date>2021-12-16</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Ocean circulation models have systematic errors in large-scale horizontal density gradients due to estimating the grid-cell-mean density by applying the nonlinear seawater equation of state to the grid-cell-mean water properties. In frontal regions where unresolved subgrid-scale (SGS) fluctuations are significant, dynamically relevant errors in the representation of current systems can result. A previous study developed a novel and computationally efficient parameterization of the unresolved SGS temperature variance andresulting density correction. This parameterization was empirically validated but not tested in an ocean model. In this study, we implement deterministic and stochastic variants of this parameterization in the pressure-gradient force term of a coupled ocean-sea ice configuration of CESM-MOM6 and perform a suite of hindcast sensitivity experiments to investigate the ocean response. The parameterization leads to coherent changes in the large-scale ocean circulation and hydrography, particularly in the Nordic Seas and Labrador Sea, which are attributable in large part to changes in the seasonally varying upper-ocean exchange through Denmark Strait. In addition, the separated Gulf Stream strengthens and shifts equatorward, reducing a common bias in coarse-resolution ocean models. The ocean response to the deterministic and stochastic variants of the parameterization is qualitatively, albeit not quantitatively, similar, yet qualitative differences are found in various regions.</gco:CharacterString>
+                <gco:CharacterString>Ocean circulation models have systematic errors in large-scale horizontal density gradients due to estimating the grid-cell-mean density by applying the nonlinear seawater equation of state to the grid-cell-mean water properties.  In frontal regions where unresolved subgrid-scale (SGS) fluctuations are significant, dynamically relevant errors in the representation of current systems can result.  A previous study developed a novel and computationally efficient parameterization of the unresolved SGS temperature variance andresulting density correction.  This parameterization was empirically validated but not tested in an ocean model.  In this study, we implement deterministic and stochastic variants of this parameterization in the pressure-gradient force term of a coupled ocean-sea ice configuration of CESM-MOM6 and perform a suite of hindcast sensitivity experiments to investigate the ocean response.  The parameterization leads to coherent changes in the large-scale ocean circulation and hydrography, particularly in the Nordic Seas and Labrador Sea, which are attributable in large part to changes in the seasonally varying upper-ocean exchange through Denmark Strait.  In addition, the separated Gulf Stream strengthens and shifts equatorward, reducing a common bias in coarse-resolution ocean models.  The ocean response to the deterministic and stochastic variants of the parameterization is qualitatively, albeit not quantitatively, similar, yet qualitative differences are found in various regions.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

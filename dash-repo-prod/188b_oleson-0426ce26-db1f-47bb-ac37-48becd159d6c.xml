@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:22-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:56-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -145,7 +145,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-03-09T11:19:10-07:00</gco:Date>
+                                <gco:Date>2021-03-09</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -155,7 +155,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-03-08T12:04:56-07:00</gco:Date>
+                                <gco:Date>2021-03-08</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -219,7 +219,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>NCAR is coordinating the development of the Toolbox for Human-Earth System Integration and Scaling (THESIS) to facilitate linkages between the Community Earth System Model (CESM) and Integrated Assessment or impact models. THESIS consists of models and software tools to translate, scale, and synthesize information from and between human system models and CESM. Code and documentation for the Land Use Tool - CLM5 is currently hosted on github: https://github.com/lawrencepj1/clm5landusedatatool</gco:CharacterString>
+                <gco:CharacterString>NCAR is coordinating the development of the Toolbox for Human-Earth System Integration and Scaling (THESIS) to facilitate linkages between the Community Earth System Model (CESM) and Integrated Assessment or impact models. THESIS consists of models and software tools to translate, scale, and synthesize information from and between human system models and CESM.
+
+Code and documentation for the Land Use Tool - CLM5 is currently hosted on github: https://github.com/lawrencepj1/clm5landusedatatool</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
                 <gco:CharacterString>The Toolbox for Human-Earth System Integration and Scaling (THESIS) was developed in cooperation with the National Science Foundation, the University Corporation for Atmospheric Research, National Center for Atmospheric Research, the University of Kansas, the University of Illinois Urbana-Champaign, and Arizona State University. This work was supported by the NSF under Grant Number AGS-1243095.</gco:CharacterString>

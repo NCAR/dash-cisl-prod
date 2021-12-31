@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:55-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:54-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-09-25T16:32:12-06:00</gco:Date>
+                                <gco:Date>2021-09-25</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-09-25T16:32:09-06:00</gco:Date>
+                                <gco:Date>2021-09-25</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Measure SOA yield of D5 Summary: Performed in the Caltech Near Bag, no NOx, low Y Organization: Caltech Atmospheric Chamber Lab Affiliation: California Institute of Technology, Pasadena, CA Chamber: Near Bag 2017 Experiment Category: Aerosol formation Oxidant: Hydroxyl radical Reactants: DECAMETHYLCYCLOPENTASILOXANE Reaction Type: Photooxidation Relative Humidity: 5 Temperature: 27.6 Seed Name: Ammonium sulfate</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Measure SOA yield of D5
+
+Summary:
+Performed in the Caltech Near Bag, no NOx, low Y
+
+Organization: Caltech Atmospheric Chamber
+Lab Affiliation: California Institute of Technology, Pasadena, CA
+Chamber: Near Bag 2017
+
+Experiment Category: Aerosol formation
+Oxidant: Hydroxyl radical
+Reactants: DECAMETHYLCYCLOPENTASILOXANE
+Reaction Type: Photooxidation
+Relative Humidity: 5
+Temperature: 27.6
+Seed Name: Ammonium sulfate</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

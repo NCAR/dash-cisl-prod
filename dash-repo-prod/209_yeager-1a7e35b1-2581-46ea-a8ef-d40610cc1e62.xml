@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:25-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:59-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-06-21T10:11:47-06:00</gco:Date>
+                                <gco:Date>2021-06-21</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-06-17T13:06:51-06:00</gco:Date>
+                                <gco:Date>2021-06-17</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -253,7 +253,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Climate models are essential tools for investigating intrinsic North Atlantic variability related to variations in the Atlantic meridional overturning circulation (AMOC), but recent observations have called into question the fidelity of models that emphasize the importance of Labrador Sea processes. A multi-century pre-industrial climate simulation that resolves ocean mesoscale eddies has a realistic representation of key observed subpolar Atlantic phenomena, including the dominance of density-space overturning in the eastern subpolar gyre, and thus provides uniquely credible context for interpreting short observational records. Despite weak mean surface diapycnal transformation in the Labrador Sea, multidecadal AMOC variability can be traced to anomalous production of dense Labrador Sea Water with local buoyancy forcing in the interior Labrador Sea playing a significant driving role. The files included here are the post-processed model output fields and associated codes needed to reproduce the figures and table in Yeager et al., 2021, An Outsized Role for the Labrador Sea in the Multidecadal Variability of the Atlantic Overturning Circulation, doi:10.31223/X5ZP68.</gco:CharacterString>
+                <gco:CharacterString>Climate models are essential tools for investigating intrinsic North Atlantic variability related to variations in the Atlantic meridional overturning circulation (AMOC), but recent observations have called into question the fidelity of models that emphasize the importance of Labrador Sea processes. A multi-century pre-industrial climate simulation that resolves ocean mesoscale eddies has a realistic representation of key observed subpolar Atlantic phenomena, including the dominance of density-space overturning in the eastern subpolar gyre, and thus provides uniquely credible context for interpreting short observational records. Despite weak mean surface diapycnal transformation in the Labrador Sea, multidecadal AMOC variability can be traced to anomalous production of dense Labrador Sea Water with local buoyancy forcing in the interior Labrador Sea playing a significant driving role.
+
+The files included here are the post-processed model output fields and associated codes needed to reproduce the figures and table in Yeager et al., 2021, An Outsized Role for the Labrador Sea in the Multidecadal Variability of the Atlantic Overturning Circulation, doi:10.31223/X5ZP68.</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
                 <gco:CharacterString>Funding for this work was provided by the International Laboratory for High Resolution Earth System Prediction (iHESP) and by the NSF via its support of NCAR.</gco:CharacterString>

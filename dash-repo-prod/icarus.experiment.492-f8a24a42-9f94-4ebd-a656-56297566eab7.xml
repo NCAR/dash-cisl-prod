@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:14-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:38-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:58:19-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:58:19-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: To characterize particulate organic nitrate generated from photooxidation of a-pinene in moderate NO level and to understand its hydrolysis process. Summary: SOA including particulate organic nitrate formed upon UV light on by injecting 22 ppb a-pinene and 2 ppm H2O2, and keeping NO level at around 50 ppb by continuous injection. Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Far) Experiment Category: Condensed-phase chemical reaction, Aerosol formation Oxidant: Hydroxyl radical Reactants: ALPHA-PINENE Reaction Type: Photooxidation, Hydrolysis Relative Humidity: 48-65 Temperature: 25-28 Seed Name: 1:2 MgSO4/H2SO4</gco:CharacterString>
+                <gco:CharacterString>Goals:
+To characterize particulate organic nitrate generated from photooxidation of a-pinene in moderate NO level and to understand its hydrolysis process.
+
+Summary:
+SOA including particulate organic nitrate formed upon UV light on by injecting 22 ppb a-pinene and 2 ppm H2O2, and keeping NO level at around 50 ppb by continuous injection.
+
+Organization: Ng Research Group
+Lab Affiliation: Georgia Institute of Technology
+Chamber: Georgia Tech Environmental Chamber (Far)
+
+Experiment Category: Condensed-phase chemical reaction, Aerosol formation
+Oxidant: Hydroxyl radical
+Reactants: ALPHA-PINENE
+Reaction Type: Photooxidation, Hydrolysis
+Relative Humidity: 48-65
+Temperature: 25-28
+Seed Name: 1:2 MgSO4/H2SO4</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

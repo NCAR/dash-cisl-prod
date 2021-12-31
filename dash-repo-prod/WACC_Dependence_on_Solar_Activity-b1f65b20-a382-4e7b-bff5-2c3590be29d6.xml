@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:03:03-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:07:04-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-06-14T14:17:29-06:00</gco:Date>
+                                <gco:Date>2019-06-14</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-08-29T10:12:11-06:00</gco:Date>
+                                <gco:Date>2019-08-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -238,7 +238,11 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset contains model output associated with the publication &quot;Whole Atmosphere Climate Change: Dependence on Solar Activity&quot; by S. C. Solomon et al. (2019), J. Geophys Res. Space Physics, 124, doi:10.1029/2019JA026678. These netCDF files are global gridded monthly monthly mean &quot;h0&quot; files output by the NCAR WACCM-X model. The &quot;SMIN&quot; or &quot;SMAX&quot; in the file name designates perpetual solar minimum or perpetual solar maximum conditions, respectively. The date string at the end file name designates the year and month, e.g., 1972-01 is January 1972. The metadata in the individual netCDF files describes the individual parameters and locations. The spatial resolution is 1.9 x 2.5 degrees lat/lon. Note that these are &quot;free-running&quot; climate simulations, and so are not representative of atmospheric weather on any particular date. Rather, the nominal date of the simulation indicates that the lower boundary conditions of CO2, CH4, CFC, sea-surface temperatures, etc., for that date, were employed. Similarly, constant &quot;solar minimum&quot; or constant &quot;solar maximum&quot; upper boundary conditions were used for each five-year run, instead of time-varying conditions. See publication for further details.</gco:CharacterString>
+                <gco:CharacterString>This dataset contains model output associated with the publication &quot;Whole Atmosphere Climate Change: Dependence on Solar Activity&quot; by S. C. Solomon et al. (2019), J. Geophys Res. Space Physics, 124, doi:10.1029/2019JA026678.
+
+These netCDF files are global gridded monthly monthly mean &quot;h0&quot; files output by the NCAR WACCM-X model.  The &quot;SMIN&quot; or &quot;SMAX&quot; in the file name designates perpetual solar minimum or perpetual solar maximum conditions, respectively.  The date string at the end file name designates the year and month, e.g., 1972-01 is January 1972.  The metadata in the individual netCDF files describes the individual parameters and locations.  The spatial resolution is 1.9 x 2.5 degrees lat/lon.
+
+Note that these are &quot;free-running&quot; climate simulations, and so are not representative of atmospheric weather on any particular date.  Rather, the nominal date of the simulation indicates that the lower boundary conditions of CO2, CH4, CFC, sea-surface temperatures, etc., for that date, were employed.  Similarly, constant &quot;solar minimum&quot; or constant &quot;solar maximum&quot; upper boundary conditions were used for each five-year run, instead of time-varying conditions.  See publication for further details.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

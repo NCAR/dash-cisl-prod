@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:32-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:07-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-05-15T10:06:18-06:00</gco:Date>
+                                <gco:Date>2020-05-15</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-05-13T09:33:09-06:00</gco:Date>
+                                <gco:Date>2020-05-13</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -150,7 +150,13 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset contains output from the data assimilation version of the Whole Atmosphere Community Climate Model with thermosphere-ionosphere eXtension (WACCMX DART). The dataset includes model output fields of electron column density, temperature, and zonal wind as well as DART observation space diagnostics. The results are based on a series of Observing System Simulation Experiments that are aimed at evaluating the assimilation of ionospheric observations in WACCMX DART. Included are files from the OSSE truth simulation, as well as from three experiments: Experiment 1: No ionosphere data assimilation. Experiment 2: Ionosphere data assimilation without thermosphere constraint. Experiment 3: Ionosphere data assimilation with thermosphere constraint. The dataset is in support of the publication &quot;Assimilation of Ionosphere Observations in the Whole Atmosphere Community Climate Model with thermosphere-ionosphere eXtension (WACCMX)&quot;.</gco:CharacterString>
+                <gco:CharacterString>This dataset contains output from the data assimilation version of the Whole Atmosphere Community Climate Model with thermosphere-ionosphere eXtension (WACCMX DART). The dataset includes model output fields of electron column density, temperature, and zonal wind as well as DART observation space diagnostics. The results are based on a series of Observing System Simulation Experiments that are aimed at evaluating the assimilation of ionospheric observations in WACCMX DART.  Included are files from the OSSE truth simulation, as well as from three experiments:
+
+Experiment 1: No ionosphere data assimilation.
+Experiment 2: Ionosphere data assimilation without thermosphere constraint.
+Experiment 3: Ionosphere data assimilation with thermosphere constraint. 
+
+The dataset is in support of the publication &quot;Assimilation of Ionosphere Observations in the Whole Atmosphere Community Climate Model with thermosphere-ionosphere eXtension (WACCMX)&quot;.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

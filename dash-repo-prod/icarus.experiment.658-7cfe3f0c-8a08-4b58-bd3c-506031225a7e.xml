@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:57-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:56-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-10T16:59:45-07:00</gco:Date>
+                                <gco:Date>2021-12-10</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-10T16:59:44-07:00</gco:Date>
+                                <gco:Date>2021-12-10</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Determine the average and individual gas-particle accommodation coefficients of reaction products formed from toluene photooxidation and contributing to SOA formation. Summary: Toluene, Methyl nitrite, NO, and particle seed added to chamber, UV lights turned on for 10-20 sec, multifunctional products formed and some condensed to aerosol. The 10-20s UV light/photochemistry bursts were repeated 7 times. SMPS measurements of particle size distributions were conducted to determine particle formation, surface area and condensational sink rate coefficients. In this experiment reported, Aerosol-phase chemical species were measured with HR-AMS. Organization: Jimenez Lab Lab Affiliation: University of Colorado, Boulder Chamber: 1-White (1W) Experiment Category: Volatility and partitioning Oxidant: Hydroxyl radical Reactants: Toluene, Methyl nitrite, Nitric oxide Reaction Type: Photooxidation Temperature: 25 Seed Name: Ammonium sulfate Pressure: 830 mbar</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Determine the average and individual gas-particle accommodation coefficients of reaction products formed from toluene photooxidation and contributing to SOA formation.
+
+Summary:
+Toluene, Methyl nitrite, NO, and particle seed added to chamber, UV lights turned on for 10-20 sec, multifunctional products formed and some condensed to aerosol. The 10-20s UV light/photochemistry bursts were repeated 7 times. SMPS measurements of particle size distributions were conducted to determine particle formation, surface area and condensational sink rate coefficients. In this experiment reported, Aerosol-phase chemical species were measured with HR-AMS.
+
+Organization: Jimenez Lab
+Lab Affiliation: University of Colorado, Boulder
+Chamber: 1-White (1W)
+
+Experiment Category: Volatility and partitioning
+Oxidant: Hydroxyl radical
+Reactants: Toluene, Methyl nitrite, Nitric oxide
+Reaction Type: Photooxidation
+Temperature: 25
+Seed Name: Ammonium sulfate
+Pressure: 830 mbar</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

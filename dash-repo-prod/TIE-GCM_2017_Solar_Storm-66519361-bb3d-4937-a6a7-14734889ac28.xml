@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:03:03-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:07:02-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-09-06T11:56:03-06:00</gco:Date>
+                                <gco:Date>2019-09-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-09-06T11:56:03-06:00</gco:Date>
+                                <gco:Date>2019-09-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -136,7 +136,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset contains model output associated with the 7 September 2017 solar storm. These netCDF files are global gridded 60-second output by the NCAR TIE-GCM v2.0 model. The metadata in the individual netCDF files describes the individual parameters and locations. The spatial resolution is 2.5 x 2.5 degrees lat/lon.</gco:CharacterString>
+                <gco:CharacterString>This dataset contains model output associated with the 7 September 2017 solar storm. 
+
+These netCDF files are global gridded 60-second output by the NCAR TIE-GCM v2.0 model. The metadata in the individual netCDF files describes the individual parameters and locations. The spatial resolution is 2.5 x 2.5 degrees lat/lon.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:53-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:43-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:52:11-07:00</gco:Date>
+                                <gco:Date>2021-12-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:52:11-07:00</gco:Date>
+                                <gco:Date>2021-12-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,21 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Investigate atmospheric fate of ethyl formate, specifically looking at the chemistry of the HC(O)OCH(O.)CH3 radical as a function of T and O2 partial pressure. Summary: Photolysis of Cl2 in the presence of ethyl formate, 273 K. Organization: NCAR Lab Affiliation: NCAR ACOM Boulder CO USA Chamber: NCAR First Floor Stainless Steel Experiment Category: Gas phase chemical reaction Oxidant: Chlorine radical Reactants: ETHYL FORMATE Reaction Type: Photooxidation Pressure: 730 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Investigate atmospheric fate of ethyl formate, specifically looking at the chemistry of the HC(O)OCH(O.)CH3 radical as a function of T and O2 partial pressure.
+
+Summary:
+Photolysis of Cl2 in the presence of ethyl formate, 273 K.
+
+Organization: NCAR
+Lab Affiliation: NCAR ACOM Boulder CO USA
+Chamber: NCAR First Floor Stainless Steel
+
+Experiment Category: Gas phase chemical reaction
+Oxidant: Chlorine radical
+Reactants: ETHYL FORMATE
+Reaction Type: Photooxidation
+Pressure: 730 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

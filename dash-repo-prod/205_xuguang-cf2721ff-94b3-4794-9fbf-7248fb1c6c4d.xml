@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:25-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:58-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-05-14T09:26:09-06:00</gco:Date>
+                                <gco:Date>2021-05-14</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-05-14T08:28:59-06:00</gco:Date>
+                                <gco:Date>2021-05-14</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -150,7 +150,11 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This is TEC data used for the paper: Variations in thermosphere composition and ionosphere total electron content under &apos;geomagnetically quiet&apos; conditions at solar-minimum. There are two files: One is a 2-day data from 0:10 UT on DOY 110 in 2019 to 23:40 UT on DOY 111 in 2019 (name: TEC 30min19110111) another is a 2-day data from 0:10 UT on DOY 232 in 2019 to 23:40 UT on DOY 233 in 2019 (name: TEC 30min 19232233)</gco:CharacterString>
+                <gco:CharacterString>This is TEC data used for the paper: Variations in thermosphere composition and ionosphere total electron content under &apos;geomagnetically quiet&apos; conditions at solar-minimum. 
+
+There are two files:
+One is a 2-day data from 0:10 UT on DOY 110 in 2019 to 23:40 UT on DOY 111 in 2019 (name: TEC 30min19110111)
+another is a 2-day data from 0:10 UT on DOY 232 in 2019 to 23:40 UT on DOY 233 in 2019 (name: TEC 30min 19232233)</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

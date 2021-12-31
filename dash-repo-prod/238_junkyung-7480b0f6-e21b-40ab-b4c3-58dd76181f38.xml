@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:28-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:01-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-18T18:03:44-06:00</gco:Date>
+                                <gco:Date>2021-10-18</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-15T14:24:28-06:00</gco:Date>
+                                <gco:Date>2021-10-15</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -190,7 +190,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This numerical simulation data set is prepared for manuscript submission to the the Monthly Weather Review journal of the American Meteorological Society (AMS). The National Center for Atmospheric Research (NCAR) and Montana State University jointly developed water vapor MicroPulse Differential absorption lidars (MPDs) that are a significant advance in eye-safe, unattended, lidar-based water vapor remote sensing. We perform Observation System Simulation Experiments (OSSEs) to investigate MPD observation impact and its scientific significance of MPDs for convective weather analysis and predictions. In this study, the Data Assimilation Research Testbed (DART) and the Advanced Research version of the Weather Research and Forecasting model (WRF-ARW) are used to conduct OSSEs for a case study of a mesoscale convective system (MCS). We will submit OSSE results to the Monthly Weather Review journal of the American Meteorological Society (AMS). As this Journal is committed to the FAIR principles, all data used in the manuscript must be archived and cited/referenced properly. The dataset also have persistent identifiers such as DOIs.</gco:CharacterString>
+                <gco:CharacterString>This numerical simulation data set is prepared for manuscript submission to the the Monthly Weather Review journal of the American Meteorological Society (AMS). 
+
+The National Center for Atmospheric Research (NCAR) and Montana State University jointly developed water vapor MicroPulse Differential absorption lidars (MPDs) that are a significant advance in eye-safe, unattended, lidar-based water vapor remote sensing. We perform Observation System Simulation Experiments (OSSEs) to investigate MPD observation impact and its scientific significance of MPDs for convective weather analysis and predictions. In this study, the Data Assimilation Research Testbed (DART) and the Advanced Research version of the Weather Research and Forecasting model (WRF-ARW) are used to conduct OSSEs for a case study of a mesoscale convective system (MCS). We will submit OSSE results to the Monthly Weather Review journal of the American Meteorological Society (AMS). As this Journal is committed to the FAIR principles, all data used in the manuscript must be archived and cited/referenced properly. The dataset also have persistent identifiers such as DOIs.</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
                 <gco:CharacterString>This material is based upon work supported by the National Center for Atmospheric Research, which is a major facility sponsored by the National Science Foundation under Cooperative Agreement No. 1852977.

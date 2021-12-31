@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:24-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:58-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-12-23T16:22:35-07:00</gco:Date>
+                                <gco:Date>2019-12-23</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-12-23T16:22:35-07:00</gco:Date>
+                                <gco:Date>2019-12-23</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -176,7 +176,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset supports the Journal of Geophysical Research publication &quot;Responses of the Thermosphere and Ionosphere System to Concurrent Solar Flares and Geomagnetic Storms&quot; by Qian et al., 2019. The data files are selected output and related analyses from the thermosphere-ionosphere-electrodynamics general circulation model (TIEGCM). The format of the data files are either IDL save files or NetCDF files or ASCII.</gco:CharacterString>
+                <gco:CharacterString>This dataset supports the Journal of Geophysical Research publication &quot;Responses of the Thermosphere and Ionosphere System to Concurrent Solar Flares and Geomagnetic Storms&quot; by Qian et al., 2019.  The data files are selected output and related analyses from the thermosphere-ionosphere-electrodynamics general circulation model (TIEGCM).  The format of the data files are either IDL save files or NetCDF files or ASCII.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:34-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:13-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:00:23-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:00:23-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Part of a series to quantify the nitrooxy-hydroperoxide yield and the SOA yield from nighttime RO2+HO2-dominated NO3-initiated chemistry of a-pinene by adding H2O2 + ozone + NO2 to the chamber. This experiment serves as the &quot;no-NO2&quot; control for the experiment on 20190910, to see what the ozonolysis products are so those can be subtracted off the NO3+ozonolysis results. Summary: H2O2 and O3 were injected in the chamber and allowed to equilibrate. Ammonium sulfate seed particles were injected. Then a-pinene was injected and decayed by reaction with ozone. Gas phase was monitored by CF3O- CIMS and particle formation by SMPS. Organization: Nguyen Group Lab Affiliation: UC Davis Chamber: Tran&apos;s big bag of air Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Ozone Reactants: ALPHA-PINENE, OZONE, hydrogen peroxide Reaction Type: Dark oxidation Relative Humidity: 5 Temperature: 22 Seed Name: Ammonium sulfate Pressure: 755 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Part of a series to quantify the nitrooxy-hydroperoxide yield and the SOA yield from nighttime RO2+HO2-dominated NO3-initiated chemistry of a-pinene by adding H2O2 + ozone + NO2 to the chamber. This experiment serves as the &quot;no-NO2&quot; control for the experiment on 20190910, to see what the ozonolysis products are so those can be subtracted off the NO3+ozonolysis results.
+
+Summary:
+H2O2 and O3 were injected in the chamber and allowed to equilibrate. Ammonium sulfate seed particles were injected. Then a-pinene was injected and decayed by reaction with ozone. Gas phase was monitored by CF3O- CIMS and particle formation by SMPS.
+
+Organization: Nguyen Group
+Lab Affiliation: UC Davis
+Chamber: Tran&apos;s big bag of air
+
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Ozone
+Reactants: ALPHA-PINENE, OZONE, hydrogen peroxide
+Reaction Type: Dark oxidation
+Relative Humidity: 5
+Temperature: 22
+Seed Name: Ammonium sulfate
+Pressure: 755 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

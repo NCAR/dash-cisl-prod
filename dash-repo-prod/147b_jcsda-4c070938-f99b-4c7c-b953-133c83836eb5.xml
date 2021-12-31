@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:18-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:52-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -122,7 +122,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-09-15T14:04:07-06:00</gco:Date>
+                                <gco:Date>2021-09-15</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-09-14T07:54:14-06:00</gco:Date>
+                                <gco:Date>2021-09-14</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -182,7 +182,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>JEDI-MPAS is the interface between the generic components of the Joint Effort for Data assimilation Integration (JEDI) system and the atmospheric core of the Model for Prediction Across Scales (MPAS). The JEDI software package is a unified, innovative data assimilation system for Earth System Prediction. Developed and distributed by UCP’s Joint Center for Satellite Data Assimilation (JCSDA), JEDI is versatile and sophisticated enough for a variety of applications, from operational weather forecasting and atmospheric research on High Performance Computing (HPC), to learning the fundamentals of data assimilation by running idealized toy models on your laptop. The atmospheric component of MPAS is a non-hydrostatic model using an unstructured centroidal Voronoi mesh with smoothly varying resolution for global or regional domains. The primary development partners for MPAS are Los Alamos National Laboratory and the National Center for Atmospheric Research. This data set provides example observation files, model backgrounds, and other input files needed to run a variety of JEDI-MPAS applications, including the comprehensive suite of unit tests and example activities that are described in online tutorials. This data set accompanies JEDI-MPAS, version 1.0.0, released 24 September 20.</gco:CharacterString>
+                <gco:CharacterString>JEDI-MPAS is the interface between the generic components of the Joint Effort for Data assimilation Integration (JEDI) system and the atmospheric core of the Model for Prediction Across Scales (MPAS). The JEDI software package is a unified, innovative data assimilation system for Earth System Prediction. Developed and distributed by UCP’s Joint Center for Satellite Data Assimilation (JCSDA), JEDI is versatile and sophisticated enough for a variety of applications, from operational weather forecasting and atmospheric research on High Performance Computing (HPC), to learning the fundamentals of data assimilation by running idealized toy models on your laptop. The atmospheric component of MPAS is a non-hydrostatic model using an unstructured centroidal Voronoi mesh with smoothly varying resolution for global or regional domains. The primary development partners for MPAS are Los Alamos National Laboratory and the National Center for Atmospheric Research.
+
+This data set provides example observation files, model backgrounds, and other input files needed to run a variety of JEDI-MPAS applications, including the comprehensive suite of unit tests and example activities that are described in online tutorials. This data set accompanies JEDI-MPAS, version 1.0.0, released 24 September 20.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

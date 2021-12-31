@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:51-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:01-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -145,7 +145,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:57:30-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -155,7 +155,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:57:29-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -280,7 +280,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: To observe the low NOx oxidation products from OH + alpha-pinene for comparison to signals which were observed during the SOAS field campaign. Major first generation products should include the hydroxy hydroperoxide of alpha pinene, and pinonaldehyde. Summary: The experiment appeared to go well. There was a bit of a SNAFU at the beginning, as it was realized that the chamber exhaust line was still connected about 2-3 minutes after the addition of the alpha-pinene had been started. It was disconnected at this point, however, some of the alpha-pinene may have been lost to the exhaust. However, observations after the alpha-pinene addition was complete and before adding the H2O2, (PTRMS reported 28 ppbv levels of alpha-pinene and CRM OHR reported ~50 s-1 OH reactivity) implied little of the alpha-pinene was lost to the exhaust. Thus, the experiment proceeded as planned. Particle nucleation was observed after about 1.5 hrs of oxidation by the AMS. Peak organic aerosol levels of 25 ug/m^3 were reached after about 3 hrs of oxidation. After ~5hrs of oxidation the lights were turned off, and ammonium sulfate seeds were added to the bag. This caused an increase in OA observed by the AMS. Organization: 2014 FIXCIT Study Lab Affiliation: California Institute of Technology Chamber: Seinfeld chambers Experiment Category: Gas phase chemical reaction Oxidant: Hydroxyl radical Reactants: ALPHA-PINENE, hydrogen peroxide Reaction Type: Photooxidation Relative Humidity: 5 Temperature: 27 Pressure: 755</gco:CharacterString>
+                <gco:CharacterString>Goals:
+To observe the low NOx oxidation products from OH + alpha-pinene for comparison to signals which were observed during the SOAS field campaign.  Major first generation products should include the hydroxy hydroperoxide of alpha pinene, and pinonaldehyde.
+
+Summary:
+The experiment appeared to go well.  There was a bit of a SNAFU at the beginning, as it was realized that the chamber exhaust line was still connected about 2-3 minutes after the addition of the alpha-pinene had been started.  It was disconnected at this point, however, some of the alpha-pinene may have been lost to the exhaust.  However, observations after the alpha-pinene addition was  complete and before adding the H2O2, (PTRMS reported 28 ppbv levels of alpha-pinene and CRM OHR reported ~50 s-1 OH reactivity) implied little of the alpha-pinene was lost to the exhaust. Thus, the experiment proceeded as planned.  Particle nucleation was observed after about 1.5 hrs of oxidation by the AMS.  Peak organic aerosol levels of 25 ug/m^3 were reached after about 3 hrs of oxidation. After ~5hrs of oxidation the lights were turned off, and ammonium sulfate seeds were added to the bag.  This caused an increase in OA observed by the AMS.
+
+Organization: 2014 FIXCIT Study
+Lab Affiliation: California Institute of Technology
+Chamber: Seinfeld chambers
+
+Experiment Category: Gas phase chemical reaction
+Oxidant: Hydroxyl radical
+Reactants: ALPHA-PINENE, hydrogen peroxide
+Reaction Type: Photooxidation
+Relative Humidity: 5
+Temperature: 27
+Pressure: 755</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

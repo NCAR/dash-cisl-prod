@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:01-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:16-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:56:59-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:56:59-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Photo-oxidation of toluene with initial OH and NO with continuous NO injection under black lights. Summary: Target: 80ppb toluene+1ppm H2O2+20 ppb NO+ 5ppb/hr continous NO (A) INSTRUMENTS: SMPS, GC1, AMS, APM, SYFT Organization: UCR-CECERT-APL-Cocker Group Lab Affiliation: University of California, Riverside, CE-CERT Chamber: EPA chamber Experiment Category: Photolysis, any phase, Aerosol formation, Aerosol aging Oxidant: Hydroxyl radical Reactants: toluene, H2O2, NO Reaction Type: Photooxidation Relative Humidity: 0.01 Temperature: 28 Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Photo-oxidation of toluene with initial OH and NO with continuous NO injection under black lights.
+
+Summary:
+Target: 80ppb toluene+1ppm H2O2+20 ppb NO+ 5ppb/hr continous NO  (A)
+INSTRUMENTS: SMPS, GC1, AMS, APM, SYFT
+
+Organization: UCR-CECERT-APL-Cocker Group
+Lab Affiliation: University of California, Riverside, CE-CERT
+Chamber: EPA chamber
+
+Experiment Category: Photolysis, any phase, Aerosol formation, Aerosol aging
+Oxidant: Hydroxyl radical
+Reactants: toluene, H2O2, NO
+Reaction Type: Photooxidation
+Relative Humidity: 0.01
+Temperature: 28
+Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

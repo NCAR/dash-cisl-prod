@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:41-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:21-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:17-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:16-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Probing the steady state NO and O3 concentration that could be reached by varying the concentrations of reactants H2O2 and NO in the photooxidation experiment Summary: First, a given amount of H2O2 and NO is continuously injected into the chamber till the steady state is established. Second, the UV lights are on to initiate photochemistry till another steady state is established. Organization: NCAR Lab Affiliation: NCAR ACOM Boulder CO USA Chamber: NCAR 3rd Floor Teflon Experiment Category: Gas phase chemical reaction, Blank/Control Oxidant: Hydroxyl radical Reactants: nitric oxide, hydrogen peroxide Reaction Type: Photooxidation Relative Humidity: 10 Temperature: 35 Pressure: 0.8 atm</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Probing the steady state NO and O3 concentration that could be reached by varying the concentrations of reactants H2O2 and NO in the photooxidation experiment
+
+Summary:
+First, a given amount of H2O2 and NO is continuously injected into the chamber till the steady state is established. Second, the UV lights are on to initiate photochemistry till another steady state is established.
+
+Organization: NCAR
+Lab Affiliation: NCAR ACOM Boulder CO USA
+Chamber: NCAR 3rd Floor Teflon
+
+Experiment Category: Gas phase chemical reaction, Blank/Control
+Oxidant: Hydroxyl radical
+Reactants: nitric oxide, hydrogen peroxide
+Reaction Type: Photooxidation
+Relative Humidity: 10
+Temperature: 35
+Pressure: 0.8 atm</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

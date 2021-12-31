@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:15-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:48-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-07-29T12:50:48-06:00</gco:Date>
+                                <gco:Date>2020-07-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-07-20T09:57:42-06:00</gco:Date>
+                                <gco:Date>2020-07-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -198,7 +198,11 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This data repository contains the model simulation and observational data used in the manuscript: Hendricks, E. A., J. C. Knievel, and D. S. Nolan, 2021: Evaluation of boundary-layer and urban-canopy parameterizations for simulating wind in Miami during Hurricane Irma (2017), Mon. Wea. Rev., submitted. There are four Weather Research and Forecasting (WRF) model simulations consisting of two planetary boundary layer (PBL) parameterizations and two urban canopy models. The PBL schemes are Mellor-Yamada-Janjic (MYJ) and Yonsei University (YSU). The urban canopy models are a simple bulk scheme and the multilayer Building Effects Parameterization (BEP). The observational data consists of Automated Surface Observing Systems (ASOS) stations of Palm Beach International Airport (KPBI), Miami International Airport (KMIA), Pompano Beach Airpark (KPMP), the Fowey Rocks station from the National Oceanic and Atmospheric Administration (NOAA) National Data Buoy Center, the University of Miami Health Center WeatherStem station, and an observational wind swath analysis of Hurricane Irma from the NOAA National Hurricane Center (NHC).</gco:CharacterString>
+                <gco:CharacterString>This data repository contains the model simulation and observational data used in the manuscript:
+
+Hendricks, E. A., J. C. Knievel, and D. S. Nolan, 2021: Evaluation of boundary-layer and urban-canopy parameterizations for simulating wind in Miami during Hurricane Irma (2017), Mon. Wea. Rev., submitted.
+
+There are four Weather Research and Forecasting (WRF) model simulations consisting of two planetary boundary layer (PBL) parameterizations and two urban canopy models. The PBL schemes are Mellor-Yamada-Janjic (MYJ) and Yonsei University (YSU). The urban canopy models are a simple bulk scheme and the multilayer Building Effects Parameterization (BEP). The observational data consists of Automated Surface Observing Systems (ASOS) stations of Palm Beach International Airport (KPBI), Miami International Airport (KMIA), Pompano Beach Airpark (KPMP), the Fowey Rocks station from the National Oceanic and Atmospheric Administration (NOAA) National Data Buoy Center, the University of Miami Health Center WeatherStem station, and an observational wind swath analysis of Hurricane Irma from the NOAA National Hurricane Center (NHC).</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

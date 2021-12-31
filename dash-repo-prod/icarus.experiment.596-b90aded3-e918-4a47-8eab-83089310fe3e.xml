@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:41-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:22-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:01:06-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:01:06-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: To quantify gas-phase product yields and the SOA yield from nighttime NO3-initiated chemistry of a-pinene using N2O5. This experiment in particular targeted RO2+NO chemistry by using a high initial NO/pinene ratio. Summary: a-pinene, NOx, and seed aerosol were injected into the chamber and allowed to mix, followed by N2O5, which quickly dissociated to NO2 and NO3. a-pinene decayed rapidly by reaction with NO3. Gas phase was monitored by CF3O- CIMS and particle formation by SMPS. After all injections, a DNPH cartridge was collected for offline HRMS analysis. Organization: Nguyen Group Lab Affiliation: UC Davis Chamber: Tran&apos;s big bag of air Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Nitrate radical Reactants: ALPHA-PINENE, Dinitrogen pentoxide, 10102-44-0, nitric oxide Reaction Type: Dark oxidation Relative Humidity: 5 Temperature: 22 Seed Name: Ammonium sulfate Pressure: 755 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+To quantify gas-phase product yields and the SOA yield from nighttime NO3-initiated chemistry of a-pinene using N2O5. This experiment in particular targeted RO2+NO chemistry by using a high initial NO/pinene ratio.
+
+Summary:
+a-pinene, NOx, and seed aerosol were injected into the chamber and allowed to mix, followed by N2O5, which quickly dissociated to NO2 and NO3. a-pinene decayed rapidly by reaction with NO3. Gas phase was monitored by CF3O- CIMS and particle formation by SMPS. After all injections, a DNPH cartridge was collected for offline HRMS analysis.
+
+Organization: Nguyen Group
+Lab Affiliation: UC Davis
+Chamber: Tran&apos;s big bag of air
+
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Nitrate radical
+Reactants: ALPHA-PINENE, Dinitrogen pentoxide, 10102-44-0, nitric oxide
+Reaction Type: Dark oxidation
+Relative Humidity: 5
+Temperature: 22
+Seed Name: Ammonium sulfate
+Pressure: 755 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

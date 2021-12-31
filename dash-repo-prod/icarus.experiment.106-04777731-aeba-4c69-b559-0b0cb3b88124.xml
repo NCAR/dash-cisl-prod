@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:36-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:12-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:02-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:02-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,21 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Prepare APIN/O3 SOA for aging experiments Summary: SOA prepared from the ozonolysis of APIN to use in aging experiments. Two filters collected. Organization: Nizkorodov Lab Lab Affiliation: University of California, Irvine Chamber: Nizkorodov Chamber Experiment Category: Aerosol formation Oxidant: Ozone Reactants: ALPHA-PINENE Reaction Type: Dark oxidation Temperature: 21.2</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Prepare APIN/O3 SOA for aging experiments
+
+Summary:
+SOA prepared from the ozonolysis of APIN to use in aging experiments. Two filters collected.
+
+Organization: Nizkorodov Lab
+Lab Affiliation: University of California, Irvine
+Chamber: Nizkorodov Chamber
+
+Experiment Category: Aerosol formation
+Oxidant: Ozone
+Reactants: ALPHA-PINENE
+Reaction Type: Dark oxidation
+Temperature: 21.2</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

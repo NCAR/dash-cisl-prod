@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:10-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:04:09-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:53:34-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:53:34-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Chamber cleaning with H2O2 and O3 Summary: Chamber cleaning with H2O2 and O3 Organization: UCR-CECERT-APL-Cocker Group Lab Affiliation: University of California, Riverside, CE-CERT Chamber: EPA chamber Experiment Category: Blank/Control Oxidant: Hydroxyl radical and Ozone Reactants: nitric oxide Reaction Type: Photooxidation Relative Humidity: 0.01 Temperature: 28 Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Chamber cleaning with H2O2 and O3
+
+Summary:
+Chamber cleaning with H2O2 and O3
+
+Organization: UCR-CECERT-APL-Cocker Group
+Lab Affiliation: University of California, Riverside, CE-CERT
+Chamber: EPA chamber
+
+Experiment Category: Blank/Control
+Oxidant: Hydroxyl radical and Ozone
+Reactants: nitric oxide
+Reaction Type: Photooxidation
+Relative Humidity: 0.01
+Temperature: 28
+Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

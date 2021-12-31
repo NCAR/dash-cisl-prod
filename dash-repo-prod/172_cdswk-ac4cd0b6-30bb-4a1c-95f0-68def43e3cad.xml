@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:21-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:54-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-01-29T10:49:05-07:00</gco:Date>
+                                <gco:Date>2021-01-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-01-27T09:40:59-07:00</gco:Date>
+                                <gco:Date>2021-01-27</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -347,7 +347,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset contains IEPOX-SOA (Isoprene epoxydiol derived secondary organic aerosol) concentrations and other related variables under present and future conditions. CESM2.1/CAM6-chem (Community Earth System Model version 2.1 / Community Atmosphere Model version 6 with comprehensive tropospheric and stratospheric chemistry representation) was used with a horizontal resolution of 0.95° in latitude by 1.25° in longitude, and 32 vertical layers up to 1 hPa (40 km). Four shared socioeconomic pathways (SSPs) were used for the simulation of the mid and end of the 21st century - SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5. The detailed information is available in Table 1 in the following manuscript: Jo et al., Future changes in isoprene-epoxydiol-derived secondary organic aerosol (IEPOX-SOA) under the shared socioeconomic pathways: the importance of physico-chemical dependency., ACP, 2021 (https://doi.org/10.5194/acp-2020-543). Please contact Duseong Jo (cdswk@ucar.edu) or Louisa Emmons (emmons@ucar.edu) if you have questions about this dataset.</gco:CharacterString>
+                <gco:CharacterString>This dataset contains IEPOX-SOA (Isoprene epoxydiol derived secondary organic aerosol) concentrations and other related variables under present and future conditions. CESM2.1/CAM6-chem (Community Earth System Model version 2.1 / Community Atmosphere Model version 6 with comprehensive tropospheric and stratospheric chemistry representation) was used with a horizontal resolution of 0.95° in latitude by 1.25° in longitude, and 32 vertical layers up to 1 hPa (40 km). Four shared socioeconomic pathways (SSPs) were used for the simulation of the mid and end of the 21st century - SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5. The detailed information is available in Table 1 in the following manuscript: Jo et al., Future changes in isoprene-epoxydiol-derived secondary organic aerosol (IEPOX-SOA) under the shared socioeconomic pathways: the importance of physico-chemical dependency., ACP, 2021 (https://doi.org/10.5194/acp-2020-543).
+
+Please contact Duseong Jo (cdswk@ucar.edu) or Louisa Emmons (emmons@ucar.edu) if you have questions about this dataset.</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
                 <gco:CharacterString>Environmental Protection Agency (EPA) Science to Achieve Results Fellowships

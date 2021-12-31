@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:08-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:28-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:57:33-07:00</gco:Date>
+                                <gco:Date>2021-12-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:57:33-07:00</gco:Date>
+                                <gco:Date>2021-12-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Determine atmospheric photoxidation pathways for ethyl acetate, specifically examine chemistry of CH3CH2C(O)OCH(O.)CH3 radical vs. T and O2 partial pressure Summary: Determine end-products of Cl-atom initiated oxidation of ethyl acetate vs. T and O2 partial pressure. Organization: NCAR Lab Affiliation: NCAR ACOM Boulder CO USA Chamber: NCAR First Floor Stainless Steel Experiment Category: Gas phase chemical reaction Oxidant: Chlorine radical Reactants: ETHYL ACETATE Reaction Type: Photooxidation Temperature: -24 Pressure: 740 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Determine atmospheric photoxidation pathways for ethyl acetate, specifically examine chemistry of CH3CH2C(O)OCH(O.)CH3 radical vs. T and O2 partial pressure
+
+Summary:
+Determine end-products of Cl-atom initiated oxidation of ethyl acetate vs. T and O2 partial pressure.
+
+Organization: NCAR
+Lab Affiliation: NCAR ACOM Boulder CO USA
+Chamber: NCAR First Floor Stainless Steel
+
+Experiment Category: Gas phase chemical reaction
+Oxidant: Chlorine radical
+Reactants: ETHYL ACETATE
+Reaction Type: Photooxidation
+Temperature: -24
+Pressure: 740 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

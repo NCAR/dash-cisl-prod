@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:33-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:07-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-10-29T10:26:53-06:00</gco:Date>
+                                <gco:Date>2019-10-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-10-29T10:26:53-06:00</gco:Date>
+                                <gco:Date>2019-10-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -249,7 +249,13 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>These data are the results of sensitivities with the Community Land Model (version 5, CLM5) under conditions of elevated carbon dioxide, nitrogen deposition, and present day transient control conditions. 13 parameters are modified with 5 iterations each, for four different individual flux tower sites. The CLM5 is the land surface scheme of the CESM2 Earth System model, and these simulations form the basis of a paper currently in press at the Journal of Advances in Modeling the Earth System, which forms part of the CESM2 special issue. For each site x experiment file, there are monthly CLM history output files for 53 simulations, which are 13 parameters varied across 4 iterations plus the default. The parameter files used can be found in the PFT files. Simulations 1 through 52 access the PFT files in the order 11, 12, 13, 14, 21, 22, 23, 24, 31,32,33, 34,... 131, 132, 133, 134. Simulation number 53 accesses the default PFT file (#00). For further information on driving data, available analysis scripts, etc. please contact the Resource Support Contact below.</gco:CharacterString>
+                <gco:CharacterString>These data are the results of sensitivities with the Community Land Model (version 5, CLM5) under conditions of elevated carbon dioxide, nitrogen deposition, and present day transient control conditions. 13 parameters are modified with 5 iterations each, for four different individual flux tower sites.
+
+The CLM5 is the land surface scheme of the CESM2 Earth System model, and these simulations form the basis of a paper currently in press at the Journal of Advances in Modeling the Earth System, which forms part of the CESM2 special issue.
+
+For each site x experiment file, there are monthly CLM history output files for 53 simulations, which are 13 parameters varied across 4 iterations plus the default. The parameter files used can be found in the PFT files. Simulations 1 through 52 access the PFT files in the order 11, 12, 13, 14, 21, 22, 23, 24, 31,32,33, 34,... 131, 132, 133, 134. Simulation number 53 accesses the default PFT file (#00). 
+
+For further information on driving data, available analysis scripts, etc. please contact the Resource Support Contact below.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

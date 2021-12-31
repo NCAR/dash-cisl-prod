@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:53-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:03-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:58:32-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:58:31-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -234,7 +234,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Investigate the gas and particle phase composition of the isoprene low NO oxidation mixture, in the presence of moderate relative humidity and wet ammonium sulfate seeds. Test out ozone addition to GTHOS inlet. Summary: This was an interesting experiment. We meant to inject only isoprene, but 4,3-ISOPOOH was also injected due to unexpected contamination of the &quot;hydrocarbon injection&quot; line from Friday&apos;s experiment. So there was ~ 60 ppb isoprene, and ~ 10-30 ppb ISOPOOH in the bag. The RH was 50.5% and the particle sulfate mass concentration was ~ 54 ug/m3 when the experiment started. The particles were injected deliquesced, so they should have water still on them in some form. Once the OH-oxidation started, a few things stood out as interesting. First, very little IEPOX was observed in the gas-phase despite plenty of isoprene and ISOPOOH around. In comparison, the low NO isoprene photooxidation produced an order of magnitude more IEPOX, relatively. The NO was low (~ 20 ppt throughout the experiment) so the RO2 radicals were not reacting with NO preferentially. During SOAS, gas-phase IEPOX was also low. Not much particle organic mass formed (~5 ug/m3 overall) and the organic fraction was seemingly oxidized away from the gas-phase OH, something that we have also noticed in the past. Second, ISOPOOH was lost faster than isoprene, which was not expected based on OH reaction alone, so heterogenous chemistry might be important for ISOPOOH as well in the presence of wet seed aerosol or wet walls. Lots of hydroxyacetone and glycolaldehyde were produced from the oxidation of isoprene low-NO products. Some mystery masses were observed by the PTRMS and I- CIMS, that were not seen in other isoprene low NO experiments (perhaps products of the aqueous chemistry.) GTHOS got a chance to try out ozone addition to the inlet, which did produce plenty of what appears to be interference, but post-processing is needed to gauge the success of this trial. At the end of the experiment, the temperature was ramped up to 45 deg C, held for 30 min, then ramped down again to room temperature. Changes in the AMS organic signal was observed. Organization: 2014 FIXCIT Study Lab Affiliation: California Institute of Technology Chamber: Seinfeld chambers Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Hydroxyl radical Reactants: ISOPRENE, 4-hydroxy-3-hydroperoxy ISOPOOH, hydrogen peroxide Reaction Type: Photooxidation Relative Humidity: 51 Temperature: 28 Seed Name: Ammonium sulfate Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Investigate the gas and particle phase composition of the isoprene low NO oxidation mixture, in the presence of moderate relative humidity and wet ammonium sulfate seeds. Test out ozone addition to GTHOS inlet.
+
+Summary:
+This was an interesting experiment. We meant to inject only isoprene, but 4,3-ISOPOOH was also injected  due to unexpected contamination of the &quot;hydrocarbon injection&quot; line from Friday&apos;s experiment. So there was ~ 60 ppb isoprene, and ~ 10-30 ppb ISOPOOH in the bag. The RH was 50.5% and the particle sulfate mass concentration was ~ 54 ug/m3 when the experiment started. The particles were injected deliquesced, so they should have water still on them in some form. Once the OH-oxidation started, a few things stood out as interesting. First, very little IEPOX was observed in the gas-phase despite plenty of isoprene and ISOPOOH around. In comparison, the low NO isoprene photooxidation produced an order of magnitude more IEPOX, relatively.  The NO was low (~ 20 ppt throughout the experiment) so the RO2 radicals were not reacting with NO preferentially. During SOAS, gas-phase IEPOX was also low. Not much particle organic mass formed (~5 ug/m3 overall) and the organic fraction was seemingly oxidized away from the gas-phase OH, something that we have also noticed in the past. Second, ISOPOOH was lost faster than isoprene, which was not expected based on OH reaction alone, so heterogenous chemistry might be important for ISOPOOH as well in the presence of wet seed aerosol or wet walls. Lots of hydroxyacetone and glycolaldehyde were produced from the oxidation of isoprene low-NO products. Some mystery masses were observed by the PTRMS and I- CIMS, that were not seen in other isoprene low NO experiments (perhaps products of the aqueous chemistry.) GTHOS got a chance to try out ozone addition to the inlet, which did produce plenty of what appears to be interference, but post-processing is needed to gauge the success of this trial. At the end of the experiment, the temperature was ramped up to 45 deg C, held for 30 min, then ramped down again to room temperature. Changes in the AMS organic signal was observed.
+
+Organization: 2014 FIXCIT Study
+Lab Affiliation: California Institute of Technology
+Chamber: Seinfeld chambers
+
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Hydroxyl radical
+Reactants: ISOPRENE, 4-hydroxy-3-hydroperoxy ISOPOOH, hydrogen peroxide
+Reaction Type: Photooxidation
+Relative Humidity: 51
+Temperature: 28
+Seed Name: Ammonium sulfate
+Pressure: 750 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

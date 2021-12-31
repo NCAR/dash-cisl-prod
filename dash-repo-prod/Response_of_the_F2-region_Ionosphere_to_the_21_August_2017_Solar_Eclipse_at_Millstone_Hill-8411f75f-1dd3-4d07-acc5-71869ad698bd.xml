@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:03:03-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:07:02-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-02-14T14:45:57-07:00</gco:Date>
+                                <gco:Date>2019-02-14</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-08-29T10:12:11-06:00</gco:Date>
+                                <gco:Date>2019-08-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -227,7 +227,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset is associated with the publication &quot;Physical Processes Driving the Response of the F2-region Ionosphere to the 21 August 2017 Solar Eclipse at Millstone Hill&quot;. In particular, the NCAR- Community model: high-resolution thermosphere-ionosphere-electrodynamics general circulation model (TIEGCM) has been used to investigate the response of ionospheric F2-region electron density (Ne) at Millstone Hill (42.610N, 71.480W, maximum obscuration: 63%) to the Great American Solar Eclipse on 21 August 2017. Two sets of model runs were done, one with the eclipse and the other without. Model outputs of winds, temperatures and electron densities, as well as diagnostic variables of key chemical and physical processes that determined the ionosphere responses to the eclipse, were analyzed and used in producing a paper: Physical Processes Driving the Response of the F2-region Ionosphere to the 21 August 2017 Solar Eclipse at Millstone Hill.</gco:CharacterString>
+                <gco:CharacterString>This dataset is associated with the publication &quot;Physical Processes Driving the Response of the F2-region Ionosphere to the 21 August 2017 Solar Eclipse at Millstone Hill&quot;. 
+
+In particular, the NCAR- Community model: high-resolution thermosphere-ionosphere-electrodynamics general circulation model (TIEGCM) has been used to investigate the response of ionospheric F2-region electron density (Ne) at Millstone Hill (42.610N, 71.480W, maximum obscuration: 63%) to the Great American Solar Eclipse on 21 August 2017. Two sets of model runs were done, one with the eclipse and the other without. Model outputs of winds, temperatures and electron densities, as well as diagnostic variables of key chemical and physical processes that determined the ionosphere responses to the eclipse, were analyzed and used in producing a paper: Physical Processes Driving the Response of the F2-region Ionosphere to the 21 August 2017 Solar Eclipse at Millstone Hill.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

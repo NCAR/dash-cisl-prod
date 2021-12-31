@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:45-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:31-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:01:14-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:01:14-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: This experiment was performed to assess the reactive uptake behavior of trans beta-IEPOX that was synthesized for the experiment. Different particle inorganic compositions (mainly ammonium sulfate or AS) and different particle water content were investigated. Particles are injected into the chamber as deliquesced droplets (through a wet wall denuder) and they stabilize to their equilibrium particle liquid water content depending on their hygroscopicity. Summary: No organic aerosol (OA) growth was observed on NaCl Organization: Caltech Atmospheric Chamber Lab Affiliation: California Institute of Technology, Pasadena, CA Chamber: Near/Far Bag 2012-2015 (Tran) Experiment Category: Condensed-phase chemical reaction, Multiphase chemical reaction Oxidant: None Reactants: trans-beta IEPOX Reaction Type: Heterogeneous oxidation, Other aqueous/aerosol phase Relative Humidity: 60 Temperature: 22 Seed Name: Sodium chloride Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+This experiment was performed to assess the reactive uptake behavior of trans beta-IEPOX that was synthesized for the experiment. Different particle inorganic compositions (mainly ammonium sulfate or AS) and different particle water content were investigated. Particles are injected into the chamber as deliquesced droplets (through a wet wall denuder) and they stabilize to their equilibrium particle liquid water content depending on their hygroscopicity.
+
+Summary:
+No organic aerosol (OA) growth was observed on NaCl
+
+Organization: Caltech Atmospheric Chamber
+Lab Affiliation: California Institute of Technology, Pasadena, CA
+Chamber: Near/Far Bag 2012-2015 (Tran)
+
+Experiment Category: Condensed-phase chemical reaction, Multiphase chemical reaction
+Oxidant: None
+Reactants: trans-beta IEPOX
+Reaction Type: Heterogeneous oxidation, Other aqueous/aerosol phase
+Relative Humidity: 60
+Temperature: 22
+Seed Name: Sodium chloride
+Pressure: 750 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

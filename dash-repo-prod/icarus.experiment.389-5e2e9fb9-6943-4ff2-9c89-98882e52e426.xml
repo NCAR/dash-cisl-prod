@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:49-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:04:58-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:56:12-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:56:11-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: To calculate SOA yield from Cl-initiated photo-oxidation of isoprene at a VOC:Cl2 ratio of 0.80, and using acidic seed. Cl2 was injected continuously during lights-on period. Summary: Acidic seed was injected with an initial seed surface area of 3200 um2/cm3, followed by a continuous Cl2 injection out of a gas cylinder, and the isoprene injection using a heated glass bulb. Temperature was kept at 25C for the whole duration of the experiment, while RH was kept at less than 10%. Organization: Hildebrandt Ruiz Lab Lab Affiliation: University of Texas at Austin, Austin, TX, USA Chamber: LHR Chamber Experiment Category: Gas phase chemical reaction, Volatility and partitioning, Aerosol formation Oxidant: Chlorine radical Reactants: ISOPRENE Reaction Type: Photooxidation Temperature: 25 Seed Name: Ammonium sulfate + Sulfuric acid</gco:CharacterString>
+                <gco:CharacterString>Goals:
+To calculate SOA yield from Cl-initiated photo-oxidation of isoprene at a VOC:Cl2 ratio of 0.80, and using acidic seed. Cl2 was injected continuously during lights-on period.
+
+Summary:
+Acidic seed was injected with an initial seed surface area of 3200 um2/cm3, followed by a continuous Cl2 injection out of a gas cylinder, and the isoprene injection using a heated glass bulb. Temperature was kept at 25C for the whole duration of the experiment, while RH was kept at less than 10%.
+
+Organization: Hildebrandt Ruiz Lab
+Lab Affiliation: University of Texas at Austin, Austin, TX, USA
+Chamber: LHR Chamber
+
+Experiment Category: Gas phase chemical reaction, Volatility and partitioning, Aerosol formation
+Oxidant: Chlorine radical
+Reactants: ISOPRENE
+Reaction Type: Photooxidation
+Temperature: 25
+Seed Name: Ammonium sulfate + Sulfuric acid</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

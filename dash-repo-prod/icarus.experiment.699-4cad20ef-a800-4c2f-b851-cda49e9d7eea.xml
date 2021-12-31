@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:59-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:58-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-13T11:45:26-07:00</gco:Date>
+                                <gco:Date>2021-12-13</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-13T11:45:26-07:00</gco:Date>
+                                <gco:Date>2021-12-13</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: To characterize vapor wall loss Summary: Vapor wall loss characterization based on the case study of a-pinene ozonolysis with different seed concentration Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Far) Experiment Category: Aerosol formation, Instrument/Chamber characterization Oxidant: Ozone Reactants: a-Pinene Reaction Type: Dark oxidation Relative Humidity: 5 Temperature: 25</gco:CharacterString>
+                <gco:CharacterString>Goals:
+To characterize vapor wall loss
+
+Summary:
+Vapor wall loss characterization based on the case study of a-pinene ozonolysis with different seed concentration
+
+Organization: Ng Research Group
+Lab Affiliation: Georgia Institute of Technology
+Chamber: Georgia Tech Environmental Chamber (Far)
+
+Experiment Category: Aerosol formation, Instrument/Chamber characterization
+Oxidant: Ozone
+Reactants: a-Pinene
+Reaction Type: Dark oxidation
+Relative Humidity: 5
+Temperature: 25</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

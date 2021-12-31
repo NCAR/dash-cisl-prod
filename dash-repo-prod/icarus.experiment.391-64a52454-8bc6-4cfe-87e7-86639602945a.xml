@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:50-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:04:59-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -122,7 +122,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:57:01-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:57:00-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -257,7 +257,28 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Low NO isoprene oxidation experiment to test the waters. Interested mainly in: -do instruments see the usual chemical compounds (ISOPOOH, IEPOX) -are instruments affected by ppm H2O2 levels -working out potential pitfalls in chamber method with this many instruments Summary: Resolved initial issues with sampling lines and injection lines. Initial H2O2 addition may have been lower due to an eventually fixed issue with a lower injection line pressure. Isoprene injection proceeded as normally, but we started sampling before the prescribed 30 minutes of mixing for hydrocarbon (out of eagerness?). For future runs, it is probably advantageous to add hydrocarbon/standard first, then add H2O2. After approximately 30-45 minutes of sampling, instruments reported stable backgrounds so the full bank of UV lights were turned on. Based on initial reports, the chemistry proceeded as expected. Approximate calculation of RO2 reaction with NO vs. HO2 yielded a 1:14 ratio in the initial (~10min) phase of the experiment, which is very good. Peak ISOPOOH was reached at ~1.5-2hrs into the experiment. Bag volume was checked at 23:17. Organization: 2014 FIXCIT Study Lab Affiliation: California Institute of Technology Chamber: Seinfeld chambers Experiment Category: Gas phase chemical reaction Oxidant: Hydroxyl radical Reactants: ISOPRENE, hydrogen peroxide Reaction Type: Photooxidation Relative Humidity: 5 Temperature: 27 Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Low NO isoprene oxidation experiment to test the waters.
+Interested mainly in:
+-do instruments see the usual chemical compounds (ISOPOOH, IEPOX)
+-are instruments affected by ppm H2O2 levels
+-working out potential pitfalls in chamber method with this many instruments
+
+Summary:
+Resolved initial issues with sampling lines and injection lines.
+Initial H2O2 addition may have been lower due to an eventually fixed issue with a lower injection line pressure. Isoprene injection proceeded as normally, but we started sampling before the prescribed 30 minutes of mixing for hydrocarbon (out of eagerness?). For future runs, it is probably advantageous to add hydrocarbon/standard first, then add H2O2. After approximately 30-45 minutes of sampling, instruments reported stable backgrounds so the full bank of UV lights were turned on. Based on initial reports, the chemistry proceeded as expected. Approximate calculation of RO2 reaction with NO vs. HO2 yielded  a 1:14 ratio in the initial (~10min) phase of the experiment, which is very good. Peak ISOPOOH was reached at ~1.5-2hrs into the experiment. Bag volume was checked at 23:17.
+
+Organization: 2014 FIXCIT Study
+Lab Affiliation: California Institute of Technology
+Chamber: Seinfeld chambers
+
+Experiment Category: Gas phase chemical reaction
+Oxidant: Hydroxyl radical
+Reactants: ISOPRENE, hydrogen peroxide
+Reaction Type: Photooxidation
+Relative Humidity: 5
+Temperature: 27
+Pressure: 750 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:42-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:23-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:21-07:00</gco:Date>
+                                <gco:Date>2021-12-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:20-07:00</gco:Date>
+                                <gco:Date>2021-12-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: To investigate gas and particle phase compounds and SOA yields. Summary: 100 ppb of Cl2 was injected and reacted with 4uL of isoprene at low RH in the presence of ammonium sulfate seeds. Organization: Hildebrandt Ruiz Lab Lab Affiliation: University of Texas at Austin, Austin, TX, USA Chamber: LHR Chamber Experiment Category: Gas phase chemical reaction, Volatility and partitioning, Aerosol formation Oxidant: Chlorine radical Reactants: ISOPRENE Reaction Type: Photooxidation Temperature: 25 Seed Name: Ammonium sulfate</gco:CharacterString>
+                <gco:CharacterString>Goals:
+To investigate gas and particle phase compounds and SOA yields.
+
+Summary:
+100 ppb of Cl2 was injected and reacted with 4uL of isoprene at low RH in the presence of ammonium sulfate seeds.
+
+Organization: Hildebrandt Ruiz Lab
+Lab Affiliation: University of Texas at Austin, Austin, TX, USA
+Chamber: LHR Chamber
+
+Experiment Category: Gas phase chemical reaction, Volatility and partitioning, Aerosol formation
+Oxidant: Chlorine radical
+Reactants: ISOPRENE
+Reaction Type: Photooxidation
+Temperature: 25
+Seed Name: Ammonium sulfate</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

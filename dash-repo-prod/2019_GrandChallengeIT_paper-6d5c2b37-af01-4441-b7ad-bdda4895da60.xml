@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:24-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:57-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-10-21T19:59:14-06:00</gco:Date>
+                                <gco:Date>2019-10-21</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-12-18T08:49:19-07:00</gco:Date>
+                                <gco:Date>2019-12-18</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -159,7 +159,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>These data sets accompany an AGU Centennial publication &quot;Challenges to Understanding the Earth&apos;s Ionosphere and Thermosphere&quot; by R.A. Heelis and A. Maute. The data file tiegcm_totTgcm.s_181_12UT_GCpaper.nc is output from a thermosphere-ionosphere-electrodynamics general circulation model (TIEGCM) simulation described in the publication (DOI:10.1007/s11214-017-0330-3). The simulation is for 2009 solar minimum conditions. The ionospheric current and neutral wind in file &quot;heelis_empirical_f130_12UT_extracted.nc&quot; is based on a stand-alone dynamo model (described in doi:10.1002/2017JA024841) driven by the Horizontal Wind Model and ionospheric conductivities based on empirical models of the ionosphere (IRI) and the neutral atmosphere (MSIS). The calculation is for solar medium condition (F10.7=130) and DOY 181 under geomagnetic quiescent times.</gco:CharacterString>
+                <gco:CharacterString>These data sets  accompany an AGU Centennial publication &quot;Challenges to Understanding the Earth&apos;s Ionosphere and Thermosphere&quot; by R.A. Heelis and A. Maute. The data file tiegcm_totTgcm.s_181_12UT_GCpaper.nc is output from a thermosphere-ionosphere-electrodynamics general circulation model (TIEGCM) simulation described in the publication (DOI:10.1007/s11214-017-0330-3). The simulation is for 2009 solar minimum conditions. The ionospheric current and neutral wind in file &quot;heelis_empirical_f130_12UT_extracted.nc&quot; is based on a stand-alone dynamo model (described in doi:10.1002/2017JA024841) driven by the Horizontal Wind Model and ionospheric conductivities based on empirical models of the ionosphere (IRI) and the neutral atmosphere (MSIS). The calculation is for solar medium condition (F10.7=130) and DOY 181 under geomagnetic quiescent times.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

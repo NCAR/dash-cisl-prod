@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:29-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:06-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:59:48-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:59:48-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Control experiment to quantify the SOA yield from a-pinene ozonolysis to subtract off from the corresponding experiment with NO2 (20190704) so that we can quantify just the a-pinene+NO3 contribution. Part of a series of varying initial seed particle surface area to see how that affects SOA formation. Summary: H2O2 and O3 were injected in the chamber and allowed to equilibrate. Then a-pinene was injected and decayed by reaction with ozone. Gas phase was monitored by CF3O- CIMS and particle formation by SMPS. A filter was collected for later offline analysis. Organization: Nguyen Group Lab Affiliation: UC Davis Chamber: Tran&apos;s big bag of air Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Ozone Reactants: ALPHA-PINENE, OZONE, hydrogen peroxide Reaction Type: Dark oxidation Relative Humidity: 5 Temperature: 22 Seed Name: N/A Pressure: 755 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Control experiment to quantify the SOA yield from a-pinene ozonolysis to subtract off from the corresponding experiment with NO2 (20190704) so that we can quantify just the a-pinene+NO3 contribution. Part of a series of varying initial seed particle surface area to see how that affects SOA formation.
+
+Summary:
+H2O2 and O3 were injected in the chamber and allowed to equilibrate. Then a-pinene was injected and decayed by reaction with ozone. Gas phase was monitored by CF3O- CIMS and particle formation by SMPS. A filter was collected for later offline analysis.
+
+Organization: Nguyen Group
+Lab Affiliation: UC Davis
+Chamber: Tran&apos;s big bag of air
+
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Ozone
+Reactants: ALPHA-PINENE, OZONE, hydrogen peroxide
+Reaction Type: Dark oxidation
+Relative Humidity: 5
+Temperature: 22
+Seed Name: N/A
+Pressure: 755 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

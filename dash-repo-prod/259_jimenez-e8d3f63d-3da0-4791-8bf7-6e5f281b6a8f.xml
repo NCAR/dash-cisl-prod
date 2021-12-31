@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:29-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:03-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-11-19T13:28:12-07:00</gco:Date>
+                                <gco:Date>2021-11-19</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-11-18T14:19:09-07:00</gco:Date>
+                                <gco:Date>2021-11-18</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -187,7 +187,14 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset has been used in the publication: Jimenez, P.A., J. Yang, J.-H. Kim, M. Sengupta, and J. Dudhia: Assessing the WRF-Solar model performance using satellite-derived irradiance from the National Solar Radiation Database. J. Applied Met. &amp;amp; Climatol. (accepted). The article presents the reference WRF-Solar configuration and describes the value of shortwave irradiance retrievals from the National Solar Radiation Database (NSRDB) to improve the WRF-Solar performance. The dataset consist of global horizontal irradiance from several WRF-Solar simulations over the contiguous U.S. spanning the year of 2018, and collocated satellite retrievals for the same year. The dataset will help to: 1. Ensure reproducibility of results in the article above 2. Provide a reference WRF-Solar simulation and adequate observations over an extended period to continue improving the WRF-Solar performance</gco:CharacterString>
+                <gco:CharacterString>This dataset has been used in the publication:
+Jimenez, P.A., J. Yang, J.-H. Kim, M. Sengupta, and J. Dudhia: Assessing the WRF-Solar model performance using satellite-derived irradiance from the National Solar Radiation Database. J. Applied Met. &amp;amp; Climatol. (accepted).
+
+The article presents the reference WRF-Solar configuration and describes the value of shortwave irradiance retrievals from the National Solar Radiation Database (NSRDB) to improve the WRF-Solar performance. The dataset consist of global horizontal irradiance from several WRF-Solar simulations over the contiguous U.S. spanning the year of 2018, and collocated satellite retrievals for the same year.
+
+The dataset will help to:
+1. Ensure reproducibility of results in the article above
+2. Provide a reference WRF-Solar simulation and adequate observations over an extended period to continue improving the WRF-Solar performance</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
                 <gco:CharacterString>Funding provided by the US Department of Energy (DOE) Project DE-AC36-08GO28308.

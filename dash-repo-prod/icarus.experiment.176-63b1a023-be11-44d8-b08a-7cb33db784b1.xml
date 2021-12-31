@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:49-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:36-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:52-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:52-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: generate naphthalene SOA for cellular ROS assay Summary: 550 ppb naphthalene injected and use HONO as the source of OH radical Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Near) Experiment Category: Gas phase chemical reaction, Condensed-phase chemical reaction, Multiphase chemical reaction, Aerosol formation Oxidant: Hydroxyl radical Reactants: naphthalene Reaction Type: Photooxidation Relative Humidity: 3.7 Temperature: 22 Seed Name: Ammonium sulfate</gco:CharacterString>
+                <gco:CharacterString>Goals:
+generate naphthalene SOA for cellular ROS assay
+
+Summary:
+550 ppb naphthalene injected and use HONO as the source of OH radical
+
+Organization: Ng Research Group
+Lab Affiliation: Georgia Institute of Technology
+Chamber: Georgia Tech Environmental Chamber (Near)
+
+Experiment Category: Gas phase chemical reaction, Condensed-phase chemical reaction, Multiphase chemical reaction, Aerosol formation
+Oxidant: Hydroxyl radical
+Reactants: naphthalene
+Reaction Type: Photooxidation
+Relative Humidity: 3.7
+Temperature: 22
+Seed Name: Ammonium sulfate</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

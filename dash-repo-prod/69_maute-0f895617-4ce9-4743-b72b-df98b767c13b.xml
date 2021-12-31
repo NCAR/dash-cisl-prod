@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:31-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:05-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-01-29T13:09:57-07:00</gco:Date>
+                                <gco:Date>2020-01-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-01-29T13:09:57-07:00</gco:Date>
+                                <gco:Date>2020-01-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -170,7 +170,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The data set consist of thermosphere-ionosphere-electrodynamics general circulation model (TIEGCM) simulation results used in the publication &quot;Dynamics and electrodynamics of an ultra-fast Kelvin wave (UFKW) packet in the ionosphere and thermosphere&quot; by Forbes et al. Focus is on an eastward-propagating ultra-fast Kelvin wave (UFKW) packet with periods between 2-4 days and zonal wavenumber s = -1 during DOY 266-281, 2009. Two sets of simulations are provided with different lower boundary (97km) conditions: 1. forced by daily and zonal mean (S0) 2. forced by S0 and 2-7days with s=-1 perturbations. For these simulations the solar flux and geomagnetic forcing is held constant. Hourly output is provided of the neutral wind, neutral temperature, NmF2, hmF2, ExB drift and electron density.</gco:CharacterString>
+                <gco:CharacterString>The data set consist of thermosphere-ionosphere-electrodynamics general circulation model (TIEGCM) simulation results used in the publication &quot;Dynamics and electrodynamics of an ultra-fast Kelvin wave (UFKW) packet in the ionosphere and thermosphere&quot; by Forbes et al.
+
+Focus is on an eastward-propagating ultra-fast Kelvin wave (UFKW) packet with periods between 2-4 days and zonal wavenumber s = -1 during DOY 266-281, 2009. Two sets of simulations are provided with different lower boundary (97km) conditions: 1. forced by daily and zonal mean (S0) 2. forced by S0 and 2-7days with s=-1 perturbations. For these simulations the solar flux and geomagnetic forcing is held constant. Hourly output is provided of the neutral wind, neutral temperature, NmF2, hmF2, ExB drift and electron density.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

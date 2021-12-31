@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:55-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:05-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:56:21-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:56:21-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -234,7 +234,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Test if the HO2 + O3 reaction contributes to the GTHOS artifact, at two RH conditions. Summary: Injections went smoothly. For the CF3O- CIMS, the products that were produced were mostly formic acid, H2O2, and HMHP. Ozone was constant over the course of ~ 2 h, even with lights on, and decreased immediately upon the injection of formaldehyde. Cyclohexane did not appear to react at all throughout the experiment, and the cyclohexane hydroperoxide (m/z 201 on CF3O- CIMS) was not observed. HMHP was assumed to have been produced from the HCHO + HO2 reaction, as described by Niki et al, Chem Phys Lett, 1980. There was a step-function increase of the cyclohexane signal in the GC-FID from the injection of formaldehyde. This additional signal was steady throughout the reaction, so we think there might have been some cyclohexane still left in the injection line that got injected in with the formaldehyde, and so this should not be regarded as a GC interference at the cyclohexane retention time by formaldehyde (which did not show up in the NO3 + formaldehyde experiments). The addition of water vapor decreased the HMHP signal greater than the dilution ratio, as marked by O3, indicating the HMHP signal may have a water sensitivity. Ozone did not further react away after the addition of water. Organization: 2014 FIXCIT Study Lab Affiliation: California Institute of Technology Chamber: Seinfeld chambers Experiment Category: Instrument/Chamber characterization Oxidant: Ozone Reactants: OZONE, CYCLOHEXANE Reaction Type: Photooxidation Relative Humidity: 31 Temperature: 25 Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Test if the HO2 + O3 reaction contributes to the GTHOS artifact, at two RH conditions.
+
+Summary:
+Injections went smoothly. For the CF3O- CIMS, the products that were produced were mostly formic acid, H2O2, and HMHP. Ozone was constant over the course of ~ 2 h, even with lights on, and decreased immediately upon the injection of formaldehyde. Cyclohexane did not appear to react at all throughout the experiment, and the cyclohexane hydroperoxide (m/z 201 on CF3O- CIMS) was not observed. HMHP was assumed to have been produced from the HCHO + HO2 reaction, as described by Niki et al, Chem Phys Lett, 1980. There was a step-function increase of the cyclohexane signal in the GC-FID from the injection of formaldehyde. This additional signal was steady throughout the reaction, so we think there might have been some cyclohexane still left in the injection line that got injected in with the formaldehyde, and so this should not be regarded as a GC interference at the cyclohexane retention time by formaldehyde (which did not show up in the NO3 + formaldehyde experiments). The addition of water vapor decreased the HMHP signal greater than the dilution ratio, as marked by O3, indicating the HMHP signal may have a water sensitivity. Ozone did not further react away after the addition of water.
+
+Organization: 2014 FIXCIT Study
+Lab Affiliation: California Institute of Technology
+Chamber: Seinfeld chambers
+
+Experiment Category: Instrument/Chamber characterization
+Oxidant: Ozone
+Reactants: OZONE, CYCLOHEXANE
+Reaction Type: Photooxidation
+Relative Humidity: 31
+Temperature: 25
+Pressure: 750 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

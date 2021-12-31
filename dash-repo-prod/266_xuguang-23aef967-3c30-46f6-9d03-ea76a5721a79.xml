@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:29-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:03-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-13T10:00:15-07:00</gco:Date>
+                                <gco:Date>2021-12-13</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-13T08:44:34-07:00</gco:Date>
+                                <gco:Date>2021-12-13</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -150,7 +150,17 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This is the data for the submitted paper: Satellite in-situ electron density observations of the mid-latitude storm enhanced density on the noon meridional plane in the F region during the 20 November 2003 magnetic storm. The data contains five files. The file NE_TGWeimer_2003324 is the electron density (NE) data along the CHAMP orbit on Nov 20, 2003. The file TGSED4_Mlat30_2003324 is the NE, HMF2, WI_ExB, VI_ExB and VN at Mlat = 30 on the noon meridional plane (MLT = 12 hr) in the Northern hemisphere on Nov 20, 2003. The temporal resolution is 1-min. The file TGSED4_Mlat60_2003324 is the NE, HMF2, WI_ExB, VI_ExB and VN at Mlat = 60 on the noon meridional plane (MLT = 12 hr) in the Northern hemisphere on Nov 20, 2003. The temporal resolution is 1-min. The file TGSED3_Mlat30_2003324 is the NE at Mlat = 30 as a function of MLT and UT. The temporal resolution is 5-min. The file TGSED3_Mlat60_2003324 is the NE at Mlat = 60 as a function of MLT and UT. The temporal resolution is 5-min.</gco:CharacterString>
+                <gco:CharacterString>This is the data for the submitted paper: Satellite in-situ electron density observations of the mid-latitude storm enhanced density on the noon meridional plane in the F region during the 20 November 2003 magnetic storm.
+
+The data contains five files. The file NE_TGWeimer_2003324 is the electron density (NE) data along the CHAMP orbit on Nov 20, 2003.
+
+The file TGSED4_Mlat30_2003324 is the NE, HMF2, WI_ExB, VI_ExB and VN at Mlat = 30 on the noon meridional plane (MLT = 12 hr) in the Northern hemisphere on Nov 20, 2003. The temporal resolution is 1-min.
+
+The file TGSED4_Mlat60_2003324 is the NE, HMF2, WI_ExB, VI_ExB and VN at Mlat = 60 on the noon meridional plane (MLT = 12 hr) in the Northern hemisphere on Nov 20, 2003. The temporal resolution is 1-min.
+
+The file TGSED3_Mlat30_2003324 is the NE at Mlat = 30  as a function of MLT and UT. The temporal resolution is 5-min.
+
+The file TGSED3_Mlat60_2003324 is the NE at Mlat = 60  as a function of MLT and UT. The temporal resolution is 5-min.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:34-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:08-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-02-07T12:17:08-07:00</gco:Date>
+                                <gco:Date>2019-02-07</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-08-29T10:12:11-06:00</gco:Date>
+                                <gco:Date>2019-08-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -188,7 +188,12 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset contains the data files that underlie the four figures that are included in the paper entitled &quot;Is shallow convection sensitive to environmental heterogeneities?&quot; (please see the &quot;Related Links&quot; section to access the paper). The data represents analysis of 3D large eddy simulation. These are either profiles (e.g., the cloud fraction) or evolutions (e.g., the mean liquid water path) of various model-predicted quantities. These typically include several dozen levels each. One figure includes 2D cross sections of predicted cloud water mixing ratio. The abstract of the paper is included as follows: &quot;The key assumption underlying convection parameterizations is that rising plumes develop in a horizontally-homogeneous environment. With this in mind, we investigate the impact of environmental cloud-layer heterogeneities on shallow convection using large-eddy simulation that applies a master-slave methodology. In the master-slave approach, two independent sets of thermodynamic variables (master and slave) are driven by one dynamics (coupled with the master) to remove the impact of internal variability of the dynamical system considered. The two thermodynamic sets include either a realistic heterogeneous environment or an environment that is homogenized outside clouds. It is important that homogenization also excludes subsiding shells surrounding cumulus clouds. The results show a small impact of the homogenization since the cloud field properties differ little between the master and slave thermodynamic sets. The physical explanation highlights the role of the subsiding shell shielding a shallow cumulus cloud from its environment.&quot;</gco:CharacterString>
+                <gco:CharacterString>This dataset contains the data files that underlie the four figures that are included in the paper entitled &quot;Is shallow convection sensitive to environmental heterogeneities?&quot; (please see the &quot;Related Links&quot; section to access the paper).
+
+The data represents analysis of 3D large eddy simulation. These are either profiles (e.g., the cloud fraction) or evolutions (e.g., the mean liquid water path) of various model-predicted quantities. These typically include several dozen levels each. One figure includes 2D cross sections of predicted cloud water mixing ratio.
+
+The abstract of the paper is included as follows:
+&quot;The key assumption underlying convection parameterizations is that rising plumes develop in a horizontally-homogeneous environment. With this in mind, we investigate the impact of environmental cloud-layer heterogeneities on shallow convection using large-eddy simulation that applies a master-slave methodology. In the master-slave approach, two independent sets of thermodynamic variables (master and slave) are driven by one dynamics (coupled with the master) to remove the impact of internal variability of the dynamical system considered. The two thermodynamic sets include either a realistic heterogeneous environment or an environment that is homogenized outside clouds. It is important that homogenization also excludes subsiding shells surrounding cumulus clouds. The results show a small impact of the homogenization since the cloud field properties differ little between the master and slave thermodynamic sets. The physical explanation highlights the role of the subsiding shell shielding a shallow cumulus cloud from its environment.&quot;</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

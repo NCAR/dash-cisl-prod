@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:03:00-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:59-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:50:43-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:50:43-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Make Diesel SOA to study viscosity and liquid-liquid phase separation of SOA from the photooxidation of diesel vapors. Summary: Prepare SOA for diesel study from diesel #2 and OH at low relative humidity and high NOx. Organization: Nizkorodov Lab Lab Affiliation: University of California, Irvine Chamber: Nizkorodov Chamber Experiment Category: Aerosol formation Oxidant: Hydroxyl radical Reactants: Fuels, diesel, C9-18-alkane branched and linear, nitric oxide Reaction Type: Photooxidation Relative Humidity: 6 Temperature: 23</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Make Diesel SOA to study viscosity and liquid-liquid phase separation of SOA from the photooxidation of diesel vapors.
+
+Summary:
+Prepare SOA for diesel study from diesel #2 and OH at low relative humidity and high NOx.
+
+Organization: Nizkorodov Lab
+Lab Affiliation: University of California, Irvine
+Chamber: Nizkorodov Chamber
+
+Experiment Category: Aerosol formation
+Oxidant: Hydroxyl radical
+Reactants: Fuels, diesel, C9-18-alkane branched and linear, nitric oxide
+Reaction Type: Photooxidation
+Relative Humidity: 6
+Temperature: 23</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

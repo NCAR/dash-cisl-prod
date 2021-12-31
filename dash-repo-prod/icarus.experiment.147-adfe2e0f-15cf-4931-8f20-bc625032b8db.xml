@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:43-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:25-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:23-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:23-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Determine the SOA yield, products and molar yield of SOA products for the reaction of catechol with NO3. Summary: Reaction occurred in immediately, was conducted in the dark, reacting 124 ppb of catechol. SOA mass yield was 138%, 4-nitrocatechol yield was 86%. Organization: Ziemann Lab Affiliation: University of Colorado, Boulder, Boulder, CO, USA Chamber: Janet (Chamber 1) Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Nitrate radical Reactants: pyrocatechol, Dinitrogen pentoxide Reaction Type: Dark oxidation Relative Humidity: 1 Temperature: 23 Seed Name: Dioctyl Sebacate Pressure: 630 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Determine the SOA yield, products and molar yield of SOA products for the reaction of catechol with NO3.
+
+Summary:
+Reaction occurred in immediately, was conducted in the dark, reacting 124 ppb of catechol. SOA mass yield was 138%, 4-nitrocatechol yield was 86%.
+
+Organization: Ziemann
+Lab Affiliation: University of Colorado, Boulder, Boulder, CO, USA
+Chamber: Janet (Chamber 1)
+
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Nitrate radical
+Reactants: pyrocatechol, Dinitrogen pentoxide
+Reaction Type: Dark oxidation
+Relative Humidity: 1
+Temperature: 23
+Seed Name: Dioctyl Sebacate
+Pressure: 630 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

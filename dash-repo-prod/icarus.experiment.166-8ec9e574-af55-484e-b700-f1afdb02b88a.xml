@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:48-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:33-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:48-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:47-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Determine the gas-phase and particle-phase reaction products as well as SOA yield of resorcinol + NO3 in the presence of NOx. Summary: 400 ppb of resorcinol was added to 1 ppm of N2O5 present in the chamber. N2O5 thermally dissociated to NO3 + NO2, and NO3 reacted with resorcinol. SOA Yield was 11% assuming all resorcinol reacted. Organization: Ziemann Lab Affiliation: University of Colorado, Boulder, Boulder, CO, USA Chamber: Janet (Chamber 1) Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Nitrate radical Reactants: resorcinol, Dinitrogen pentoxide Reaction Type: Dark oxidation Relative Humidity: 1 Temperature: 23 Seed Name: Dioctyl Sebacate Pressure: 630</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Determine the gas-phase and particle-phase reaction products as well as SOA yield of resorcinol + NO3 in the presence of NOx.
+
+Summary:
+400 ppb of resorcinol was added to 1 ppm of N2O5 present in the chamber. N2O5 thermally dissociated to NO3 + NO2, and NO3 reacted with resorcinol. SOA Yield was 11% assuming all resorcinol reacted.
+
+Organization: Ziemann
+Lab Affiliation: University of Colorado, Boulder, Boulder, CO, USA
+Chamber: Janet (Chamber 1)
+
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Nitrate radical
+Reactants: resorcinol, Dinitrogen pentoxide
+Reaction Type: Dark oxidation
+Relative Humidity: 1
+Temperature: 23
+Seed Name: Dioctyl Sebacate
+Pressure: 630</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

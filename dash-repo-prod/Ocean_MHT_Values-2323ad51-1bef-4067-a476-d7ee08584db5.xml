@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:03:02-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:07:02-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-04-12T11:21:30-06:00</gco:Date>
+                                <gco:Date>2019-04-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-08-29T10:12:11-06:00</gco:Date>
+                                <gco:Date>2019-08-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -214,7 +214,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset includes data for Figures 2, 4, 6, 10 and 12 of the &quot;Observation-based Estimate of Global and Basin Ocean Meridional Heat Transport Time Series&quot; paper. This paper is published through the Journal of Climate (2019) and by authors, Kevin E. Trenberth, Yongxin Zhang, John T. Fasullo and Lijing Cheng (for the link to the full paper, please see the &quot;Related Links&quot; section below). The data files associated with this dataset provides tabular values and are for general use.</gco:CharacterString>
+                <gco:CharacterString>This dataset includes data for Figures 2, 4, 6, 10 and 12 of the &quot;Observation-based Estimate of Global and Basin Ocean Meridional Heat Transport Time Series&quot; paper. This paper is published through the Journal of Climate (2019) and by authors, Kevin E. Trenberth, Yongxin Zhang, John T. Fasullo and Lijing Cheng (for the link to the full paper, please see the &quot;Related Links&quot; section below). The  data files associated with this dataset provides tabular values and are for general use.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

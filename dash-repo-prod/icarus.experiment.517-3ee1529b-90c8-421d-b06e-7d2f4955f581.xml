@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:20-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:48-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:58:56-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:58:55-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Photo-oxidation of phenol with methyl nitrite and high NO under black lights. Summary: Targets: phenol 50ppb (A), NO 500ppb, MN 50ppbbenzene 500ppb(B) INSTRUMENTS: SMPS, AMS, VTDMA, KANOMAX, PILS-ToF, GC1,2 Organization: UCR-CECERT-APL-Cocker Group Lab Affiliation: University of California, Riverside, CE-CERT Chamber: EPA chamber Experiment Category: Photolysis, any phase, Aerosol formation, Aerosol aging Oxidant: Hydroxyl radical Reactants: phenol, nitric oxide, Methyl nitrite Reaction Type: Photooxidation Relative Humidity: 0.01 Temperature: 28 Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Photo-oxidation of phenol with methyl nitrite and high NO under black lights.
+
+Summary:
+Targets: phenol 50ppb (A), NO 500ppb, MN 50ppbbenzene 500ppb(B)
+INSTRUMENTS: SMPS, AMS, VTDMA, KANOMAX, PILS-ToF, GC1,2
+
+Organization: UCR-CECERT-APL-Cocker Group
+Lab Affiliation: University of California, Riverside, CE-CERT
+Chamber: EPA chamber
+
+Experiment Category: Photolysis, any phase, Aerosol formation, Aerosol aging
+Oxidant: Hydroxyl radical
+Reactants: phenol, nitric oxide, Methyl nitrite
+Reaction Type: Photooxidation
+Relative Humidity: 0.01
+Temperature: 28
+Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

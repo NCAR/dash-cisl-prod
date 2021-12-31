@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:03:04-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:07:04-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-07-31T15:23:45-06:00</gco:Date>
+                                <gco:Date>2019-07-31</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-08-29T10:12:11-06:00</gco:Date>
+                                <gco:Date>2019-08-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset contains simulation output from specified dynamics WACCM-X simulations of the solar flare that occurred on September 7, 2005. Included are vertical profiles of the electron density, conductivity, zonal wind, and vertical plasma drift at 285E and 320E geographic longitude at a 5 minute cadence for simulations with and without the effects of the solar flare. The resolution of the model output is 0.25 scale heights vertical resolution; 1.9 degrees latitude resolution. The simulation output is in support of a publication submitted to Geophysical Research Letters.</gco:CharacterString>
+                <gco:CharacterString>This dataset contains simulation output from specified dynamics WACCM-X simulations of the solar flare that occurred on September 7, 2005. Included are vertical profiles of the electron density, conductivity, zonal wind, and vertical plasma drift at 285E and 320E geographic longitude at a 5 minute cadence for simulations with and without the effects of the solar flare. The resolution of the model output is 0.25 scale heights vertical resolution; 1.9 degrees latitude resolution.  The simulation output is in support of a publication submitted to Geophysical Research Letters.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:24-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:58-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -145,7 +145,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-05-20T11:27:05-06:00</gco:Date>
+                                <gco:Date>2021-05-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -155,7 +155,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-05-12T11:04:49-06:00</gco:Date>
+                                <gco:Date>2021-05-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -249,7 +249,18 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>C-iTRACE is a coarse resolution (3˚), ocean-only simulation run from the LGM (22ka) to present day using iPOP2, the isotope-enabled ocean component of the CESM1. This simulation was developed in order to better understand ocean circulation and tracer evolution during the last deglaciation, and it does so by providing a direct comparison to paleo-ocean proxy records via the inclusion of isotope tracers and active biogeochemistry. C-iTRACE is forced with monthly heat, freshwater, and momentum fluxes from TraCE-21Ka. Simulated tracers include carbon isotopes, oxygen isotopes, Neodymium and Pa/Th. Further details about the C-iTRACE simulation can be found in Gu et al. 2019, 2020, 2021. Please cite the three papers below according to your usage of CiTRACE: Gu et al., 2019, describes the physical variables and the d18O in CiTRACE. Gu et al., 2020, describes multiple isotopes at the Last Glacial Maximum in CiTRACE Gu et al., 2021, describes carbon isotopes during the deglaciation in CiTRACE. Gu, S., Liu, Z., Lynch‐Stieglitz, J., Jahn, A., Zhang, J., Lindsay, K., &amp;amp; Wu, L. (2019). Assessing the Ability of Zonal d18O Contrast in Benthic Foraminifera to Reconstruct Deglacial Evolution of Atlantic Meridional Overturning Circulation. Paleoceanography and Paleoclimatology, 34(5), 800–812.https://doi.org/10.1029/2019PA003564 Gu, S., Liu, Z., Oppo, D. W., Lynch-Stieglitz, J., Jahn, A., Zhang, J., &amp;amp; Wu, L. (2020). Assessing the potential capability of reconstructing glacial Atlantic water masses and AMOC using multiple proxies in CESM. Earth and Planetary Science Letters, 541, 116294. https://doi.org/10.1016/j.epsl.2020.116294&quot; Gu, S., Z. Liu, D. W. Oppo, J. Lynch-Stieglitz, A. Jahn, J. Zhang, K. Lindsay &amp;amp; L. Wu (2021), Remineralization dominating the δ13C decrease in the mid-depth Atlantic during the last deglaciation, in revision for Earth and Planetary Science Letters.</gco:CharacterString>
+                <gco:CharacterString>C-iTRACE is a coarse resolution (3˚), ocean-only simulation run from the LGM (22ka) to present day using iPOP2, the isotope-enabled ocean component of the CESM1. This simulation was developed in order to better understand ocean circulation and tracer evolution during the last deglaciation, and it does so by providing a direct comparison to paleo-ocean proxy records via the inclusion of isotope tracers and active biogeochemistry. C-iTRACE is forced with monthly heat, freshwater, and momentum fluxes from TraCE-21Ka. Simulated tracers include carbon isotopes, oxygen isotopes, Neodymium and Pa/Th.
+
+Further details about the C-iTRACE simulation can be found in Gu et al. 2019, 2020, 2021. Please cite the three papers below according to your usage of CiTRACE:
+Gu et al., 2019, describes the physical variables and the d18O in CiTRACE.
+Gu et al., 2020, describes multiple isotopes at the Last Glacial Maximum in CiTRACE
+Gu et al., 2021, describes carbon isotopes during the deglaciation in CiTRACE.
+
+Gu, S., Liu, Z., Lynch‐Stieglitz, J., Jahn, A., Zhang, J., Lindsay, K., &amp;amp; Wu, L. (2019). Assessing the Ability of Zonal d18O Contrast in Benthic Foraminifera to Reconstruct Deglacial Evolution of Atlantic Meridional Overturning Circulation. Paleoceanography and Paleoclimatology, 34(5), 800–812.https://doi.org/10.1029/2019PA003564
+
+Gu, S., Liu, Z., Oppo, D. W., Lynch-Stieglitz, J., Jahn, A., Zhang, J., &amp;amp; Wu, L. (2020). Assessing the potential capability of reconstructing glacial Atlantic water masses and AMOC using multiple proxies in CESM. Earth and Planetary Science Letters, 541, 116294. https://doi.org/10.1016/j.epsl.2020.116294&quot;
+
+Gu, S., Z. Liu, D. W. Oppo, J. Lynch-Stieglitz, A. Jahn, J. Zhang, K. Lindsay &amp;amp; L. Wu (2021), Remineralization dominating the δ13C decrease in the mid-depth Atlantic during the last deglaciation, in revision for Earth and Planetary Science Letters.</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
                 <gco:CharacterString>The C-iTRACE project was funded by NSF (NSF-1566432 and NSF-1810681), and was carried out at the University of Colorado Boulder, the University of Wisconsin-Madison, and the Ohio State University.</gco:CharacterString>

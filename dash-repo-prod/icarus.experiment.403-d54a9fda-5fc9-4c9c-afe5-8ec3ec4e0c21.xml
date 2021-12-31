@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:01:52-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:05:02-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -122,7 +122,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:58:25-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-12T01:58:24-06:00</gco:Date>
+                                <gco:Date>2021-10-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -257,7 +257,36 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Investigate &quot;slow&quot; (isomerization-favoring) OH chemistry of alpha-pinene Summary: Timeline (UTC, hrs): 00:00,Instruments (NO; CF3O-; GTHOS; OHR; AMS; PTRMS) start sampling the bag 00:30,Instruments stopped sampling; added CH3ONO to the bag with 5 SLM zero air 00:35,Added alpha-pinene with 6 SLM zero air in 50degC water bath 01:22,Stopped alpha-pinene addition 01:30,Certain instruments started sampling (CF3O- CIMS; GTHOS; NO). GTHOS and NO off bag overnight 02:05,2 UV bulbs on (~ 1% lights) 16:05,Instruments started sampling on bag; AMS saw nucleation overnight; O3 instrument reads 10 ppbv 16:30,Lights off 17:34,Lights on (20%) 18:15,Lights on (100%) 19:37,Lights off 20:20,Add 2 min of NO flow to kill O3/HO2 22:45,Stopped sampling; start flushing Organization: 2014 FIXCIT Study Lab Affiliation: California Institute of Technology Chamber: Seinfeld chambers Experiment Category: Gas phase chemical reaction Oxidant: Hydroxyl radical Reactants: ALPHA-PINENE, Methyl nitrite Reaction Type: Photooxidation Relative Humidity: 5 Temperature: 40 Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Investigate &quot;slow&quot; (isomerization-favoring) OH chemistry of alpha-pinene
+
+Summary:
+Timeline (UTC, hrs):
+00:00,Instruments (NO; CF3O-; GTHOS; OHR; AMS; PTRMS) start sampling the bag
+00:30,Instruments stopped sampling; added CH3ONO to the bag with 5 SLM zero air
+00:35,Added alpha-pinene with 6 SLM zero air in 50degC water bath
+01:22,Stopped alpha-pinene addition
+01:30,Certain instruments started sampling (CF3O- CIMS; GTHOS; NO). GTHOS and NO off bag overnight
+02:05,2 UV bulbs on (~ 1% lights)
+16:05,Instruments started sampling on bag; AMS saw nucleation overnight; O3 instrument reads 10 ppbv
+16:30,Lights off
+17:34,Lights on (20%)
+18:15,Lights on (100%)
+19:37,Lights off
+20:20,Add 2 min of NO flow to kill O3/HO2
+22:45,Stopped sampling; start flushing
+
+Organization: 2014 FIXCIT Study
+Lab Affiliation: California Institute of Technology
+Chamber: Seinfeld chambers
+
+Experiment Category: Gas phase chemical reaction
+Oxidant: Hydroxyl radical
+Reactants: ALPHA-PINENE, Methyl nitrite
+Reaction Type: Photooxidation
+Relative Humidity: 5
+Temperature: 40
+Pressure: 750 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

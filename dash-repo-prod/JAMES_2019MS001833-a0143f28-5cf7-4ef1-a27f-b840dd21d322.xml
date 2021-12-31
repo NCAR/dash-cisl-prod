@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:03:01-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:07:01-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-12-06T09:40:02-07:00</gco:Date>
+                                <gco:Date>2019-12-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2019-12-06T09:40:02-07:00</gco:Date>
+                                <gco:Date>2019-12-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -159,7 +159,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>CLM5 Simulations used for the paper &quot;Representing Intra-Hillslope Lateral Subsurface Flow in the Community Land Model&quot;. Files are in NetCDF format. Filenames beginning with &apos;RME_&apos; contain single point simulations for the Reynolds Mountain East catchment. Filenames beginning with &apos;Global_&apos; contains global simulations used in the sensitivity study. Filenames beginning with &apos;surfdata_&apos; contain input surface data files used in CLM5 Hillslope simulations.</gco:CharacterString>
+                <gco:CharacterString>CLM5 Simulations used for the paper &quot;Representing Intra-Hillslope Lateral Subsurface Flow in the Community Land Model&quot;. Files are in NetCDF format.
+
+Filenames beginning with &apos;RME_&apos; contain single point simulations for the Reynolds Mountain East catchment. Filenames beginning with &apos;Global_&apos; contains global simulations used in the sensitivity study. Filenames beginning with &apos;surfdata_&apos; contain input surface data files used in CLM5 Hillslope simulations.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

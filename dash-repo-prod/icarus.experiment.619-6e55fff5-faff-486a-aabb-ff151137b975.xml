@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:49-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:36-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:01:33-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:01:32-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: This experiment was done to react 2-Methyl-3-buten-1-ol (231 MBO) with ozone to produce the Hydroxymethylpropanal (HMPR). After oxidizing HMPR with OH in the high NO2 condition, we get the HMPR-PAN (or the peroxynitrate of HMPR). This is analogous to MPAN except it has an OH at the 1-position and no double bond, so that when OH abstracts a hydrogen from HMPR-PAN, it makes the exact same alkyl radical as OH addition to MPAN. The only difference is that the alkyl radical from OH + HMPR-PAN is not created with excess energy, compared to OH addition radicals. Thus...the thermalized radical from HMPR-PAN is not hypothesized to have enough energy to form HMML, and therefore wont form secondary organic aerosol (SOA). Summary: The reaction did not produce any significant amounts of SOA from the OH+HMPR-PAN reaction. Therefore the hypothesis is validated, that the alkyl radical of MPAN +OH goes to HMML because it is formed with excess energy through OH addition. We showed the exact same alkyl radical with less energy will add O2 instead of decomposing to HMML. Organization: Caltech Atmospheric Chamber Lab Affiliation: California Institute of Technology, Pasadena, CA Chamber: Near/Far Bag 2012-2015 (Tran) Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Hydroxyl radical Reactants: 2-Methyl-3-buten-1-ol, Methyl nitrite, 10102-44-0, OZONE Reaction Type: Photooxidation Relative Humidity: 4 Temperature: 25 Pressure: 750 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+This experiment was done to react 2-Methyl-3-buten-1-ol (231 MBO) with ozone to produce the Hydroxymethylpropanal (HMPR). After oxidizing HMPR with OH in the high NO2 condition, we get the HMPR-PAN (or the peroxynitrate of HMPR). This  is analogous to MPAN except it has an OH at the 1-position and no double bond, so that when OH abstracts a hydrogen from HMPR-PAN, it makes the exact same alkyl radical as OH addition to MPAN. The only difference is that the alkyl radical from OH + HMPR-PAN is not created with excess energy, compared to OH addition radicals. Thus...the thermalized radical from HMPR-PAN is not hypothesized to have enough energy to form HMML, and therefore wont form secondary organic aerosol (SOA).
+
+Summary:
+The reaction did not produce any significant amounts of SOA from the OH+HMPR-PAN reaction. Therefore the hypothesis is validated, that the alkyl radical of MPAN +OH goes to HMML because it is formed with excess energy through OH addition. We showed the exact same alkyl radical with less energy will add O2 instead of decomposing to HMML.
+
+Organization: Caltech Atmospheric Chamber
+Lab Affiliation: California Institute of Technology, Pasadena, CA
+Chamber: Near/Far Bag 2012-2015 (Tran)
+
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Hydroxyl radical
+Reactants: 2-Methyl-3-buten-1-ol, Methyl nitrite, 10102-44-0, OZONE
+Reaction Type: Photooxidation
+Relative Humidity: 4
+Temperature: 25
+Pressure: 750 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

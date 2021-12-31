@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:57-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:56-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-08T10:49:45-07:00</gco:Date>
+                                <gco:Date>2021-12-08</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-08T10:49:45-07:00</gco:Date>
+                                <gco:Date>2021-12-08</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: This experiment examined the photoreactivity of isoprene diol with ammonium sulfate aerosol in the absence of an OH precursor. Summary: The chamber was humidified to ~75% RH; ammonium sulfate was introduced by atomization, and isoprene diol was introduced in both gas and particle phases via atomization and evaporation. Lights were turned on to initiate photochemistry, and a filter was collected for offline analysis. Organization: Nguyen Group Lab Affiliation: UC Davis Chamber: Tran&apos;s big bag of air Experiment Category: Condensed-phase chemical reaction, Multiphase chemical reaction, Aerosol aging Oxidant: None Reactants: 2-Methylbut-3-ene-1,2-diol Reaction Type: Photooxidation Relative Humidity: 75 Temperature: 20-22 Seed Name: Ammonium sulfate Pressure: 755 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+This experiment examined the photoreactivity of isoprene diol with ammonium sulfate aerosol in the absence of an OH precursor.
+
+Summary:
+The chamber was humidified to ~75% RH; ammonium sulfate was introduced by atomization, and isoprene diol was introduced in both gas and particle phases via atomization and evaporation. Lights were turned on to initiate photochemistry, and a filter was collected for offline analysis.
+
+Organization: Nguyen Group
+Lab Affiliation: UC Davis
+Chamber: Tran&apos;s big bag of air
+
+Experiment Category: Condensed-phase chemical reaction, Multiphase chemical reaction, Aerosol aging
+Oxidant: None
+Reactants: 2-Methylbut-3-ene-1,2-diol
+Reaction Type: Photooxidation
+Relative Humidity: 75
+Temperature: 20-22
+Seed Name: Ammonium sulfate
+Pressure: 755 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

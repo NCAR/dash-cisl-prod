@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:32-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:06-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-05-08T20:28:01-06:00</gco:Date>
+                                <gco:Date>2020-05-08</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-04-28T11:15:39-06:00</gco:Date>
+                                <gco:Date>2020-04-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -150,7 +150,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset was used to generate plots for a paper in the Geophysical Research Letter, an AGU journal. It includes the percentage difference of column density ratio of O/N2 between quiet time (DOY 153 in 2019) and weak geomagnetic activity time (DOY 156 in 2019), together with the meridional wind, zonal wind, meridional component and the zonal component of E cross B drift at pressure level -1.375 (160-170 km).</gco:CharacterString>
+                <gco:CharacterString>This dataset was used to generate plots for a paper in the Geophysical Research Letter, an AGU journal.  It includes the percentage difference of column density ratio of O/N2 between quiet time (DOY 153 in 2019) and weak geomagnetic activity time (DOY 156 in 2019), together with the meridional wind, zonal wind, meridional component and the zonal component of E cross B drift at pressure level -1.375 (160-170 km).</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:23-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:57-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-11-18T10:04:46-07:00</gco:Date>
+                                <gco:Date>2021-11-18</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-11-18T10:02:09-07:00</gco:Date>
+                                <gco:Date>2021-11-18</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -160,7 +160,12 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset supports a paper being written about metadata standard use by geoscience data repositories. The study is being done to better understand which metadata standards and keyword vocabularies are prominent within the geoscience data repository landscape. The findings should be useful for NCAR&apos;s evaluation of metadata standards within our own systems, as well as by external data repository staff. The guiding questions of the study are as follows: 1. What metadata standards are geoscience data repositories using? 2. What keyword / subject term vocabularies are they using? 3. What interoperability challenges are present in the use of metadata and keyword vocabulary standards within the geoscience repository community?</gco:CharacterString>
+                <gco:CharacterString>This dataset supports a paper being written about metadata standard use by geoscience data repositories. The study is being done to better understand which metadata standards and keyword vocabularies are prominent within the geoscience data repository landscape. The findings should be useful for NCAR&apos;s evaluation of metadata standards within our own systems, as well as by external data repository staff.
+
+The guiding questions of the study are as follows:
+1. What metadata standards are geoscience data repositories using?
+2. What keyword / subject term vocabularies are they using?
+3. What interoperability challenges are present in the use of metadata and keyword vocabulary standards within the geoscience repository community?</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

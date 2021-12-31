@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:26-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:59-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-06-24T08:49:02-06:00</gco:Date>
+                                <gco:Date>2021-06-24</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-06-21T10:15:43-06:00</gco:Date>
+                                <gco:Date>2021-06-21</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -180,7 +180,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Two atmosphere-only experiments using CAM5, PAC-A and extSPCZ-A (each with 10 ensemble members), are conducted to compare with the fully coupled CESM1 tropical Pacific pacemaker (PAC-C) experiments. The uncoupled PAC-A experiment matches the coupled PAC-C in every way, apart from the inclusion of coupling outside of the tropical Pacific region. In this way, the PAC-A ensemble mean with external forcing removed (i.e., PAC-A minus LENS) isolates the direct atmospheric influence of tropical Pacific SST. In other words, the uncoupled PAC-A and coupled PAC-C simulations enable an “apple-to-apple” comparison to identify the tropical Pacific SST influence on global SST and atmospheric teleconnections.</gco:CharacterString>
+                <gco:CharacterString>Two atmosphere-only experiments using CAM5,  PAC-A and extSPCZ-A (each with 10 ensemble members), are conducted to compare with the fully coupled CESM1 tropical Pacific pacemaker (PAC-C) experiments. The uncoupled PAC-A experiment matches the coupled PAC-C in every way, apart from the inclusion of coupling outside of the tropical Pacific region. In this way, the PAC-A ensemble mean with external forcing removed (i.e., PAC-A minus LENS) isolates the direct atmospheric influence of tropical Pacific SST. In other words, the uncoupled PAC-A and coupled PAC-C simulations enable an “apple-to-apple” comparison to identify the tropical Pacific SST influence on global SST and atmospheric teleconnections.</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
                 <gco:CharacterString>This work was supported by the Australian Research Council Centre of Excellence for Climate Extremes (grant CE170100023), the Regional and Global Model Analysis (RGMA) component of the Earth and Environmental System Modeling Program of the U.S. Department of Energy&apos;s Office of Biological &amp; Environmental Research (BER) Cooperative Agreement # DE-FC02-97ER62402, and the National Center for Atmospheric Research, which is a major facility sponsored by the National Science Foundation under Cooperative Agreement No. 1852977.</gco:CharacterString>

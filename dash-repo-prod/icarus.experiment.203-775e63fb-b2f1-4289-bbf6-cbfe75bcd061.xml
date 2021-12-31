@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:56-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:48-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:52:24-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:52:24-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,22 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Find SOA yield for octane + Cl under high NOx condition (NO and NO2 injected). Investigate volatility behavior based on 2D thermograms. Summary: Ammonium sulfate seed (0.01M, 150 mL) was injected using an aerosol generation system. Cl2 gas, NO and NO2 gas were injected from their cylinders. 1 uL of octane was injected into a glass bulb and heated clean air was made to flow over it, carrying the volatilized octane into the chamber. After ~30 mins (sufficient mixing time), lights were turned on for 1 hour (12:25:13-13:25:13). 16.6 ug/m3 of SOA was formed, giving a mass yield of 0.24. This is Exp#3 in associated publication. Organization: Hildebrandt Ruiz Lab Lab Affiliation: University of Texas at Austin, Austin, TX, USA Chamber: LHR Chamber Experiment Category: Gas phase chemical reaction, Volatility and partitioning, Aerosol formation Oxidant: Chlorine radical Reactants: octane, nitric oxide, nitrite Reaction Type: Photooxidation Temperature: 25 Seed Name: Ammonium sulfate</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Find SOA yield for octane + Cl under high NOx condition (NO and NO2 injected). Investigate volatility behavior based on 2D thermograms.
+
+Summary:
+Ammonium sulfate seed (0.01M, 150 mL) was injected using an aerosol generation system. Cl2 gas, NO and NO2 gas were injected from their cylinders. 1 uL of octane was injected into a glass bulb and heated clean air was made to flow over it, carrying the volatilized octane into the chamber. After ~30 mins (sufficient mixing time), lights were turned on for 1 hour (12:25:13-13:25:13). 16.6 ug/m3 of SOA was formed, giving a mass yield of 0.24. This is Exp#3 in associated publication.
+
+Organization: Hildebrandt Ruiz Lab
+Lab Affiliation: University of Texas at Austin, Austin, TX, USA
+Chamber: LHR Chamber
+
+Experiment Category: Gas phase chemical reaction, Volatility and partitioning, Aerosol formation
+Oxidant: Chlorine radical
+Reactants: octane, nitric oxide, nitrite
+Reaction Type: Photooxidation
+Temperature: 25
+Seed Name: Ammonium sulfate</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

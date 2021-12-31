@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:23-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:57-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-04-28T15:51:36-06:00</gco:Date>
+                                <gco:Date>2021-04-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-04-27T14:38:30-06:00</gco:Date>
+                                <gco:Date>2021-04-27</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -233,7 +233,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset contains the processed CMIP5 and CMIP6 data that is necessary to reproduce the figures of Simpson et al (2021) &quot;Emergent constraints on the large-scale atmospheric circulation and regional hydroclimate: do they still work in CMIP6 and how much can they actually constrain the future?&quot;, submitted to Journal of Climate. This can be used alongside the scripts available at https://github.com/islasimpson/ecpaper2020 to reproduce the paper figures.</gco:CharacterString>
+                <gco:CharacterString>This dataset contains the processed CMIP5 and CMIP6 data that is necessary to reproduce the figures of Simpson et al (2021) &quot;Emergent constraints on the large-scale atmospheric circulation and regional hydroclimate: do they still work in CMIP6 and how much can they actually constrain the future?&quot;, submitted to Journal of Climate.  This can be used alongside the scripts available at https://github.com/islasimpson/ecpaper2020 to reproduce the paper figures.</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
                 <gco:CharacterString>This project was initiated through a US Clivar CMIP6 hackathon and the work is supported by the National Center for Atmospheric Research, which is a major facility sponsored by the National Science Foundation under the Cooperative Agreement 1852977.</gco:CharacterString>

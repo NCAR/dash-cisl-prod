@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:45-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:03:30-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:40-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T01:51:40-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -162,7 +162,23 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: Fast burst photooxidation of alkanols (high-NOx). Gas-aerosol-wall partitioning kinetics. Determine accommodation coefficient (alpha) and effective volatility under differing liquid organic seed aerosol concentrations. Summary: Alkanols, Methyl nitrite, NO, and DOS seed added to chamber, UV lights turned on for 10 sec, multifunctional products formed, and measured with nitrate CIMS Organization: Jimenez Lab Lab Affiliation: University of Colorado, Boulder Chamber: 1-White (1W) Experiment Category: Volatility and partitioning Oxidant: Hydroxyl radical Reactants: 1-Hexanol, 1-octanol, 1-Nonanol, 1-DECANOL, 1-DODECANOL, Methyl nitrite, nitric oxide Reaction Type: Photooxidation Relative Humidity: 0.2 Temperature: 27 Seed Name: Di-octyl sebacate</gco:CharacterString>
+                <gco:CharacterString>Goals:
+Fast burst photooxidation of alkanols (high-NOx). Gas-aerosol-wall partitioning kinetics. Determine accommodation coefficient (alpha) and effective volatility under differing liquid organic seed aerosol concentrations.
+
+Summary:
+Alkanols, Methyl nitrite, NO, and DOS seed added to chamber, UV lights turned on for 10 sec, multifunctional products formed, and measured with nitrate CIMS
+
+Organization: Jimenez Lab
+Lab Affiliation: University of Colorado, Boulder
+Chamber: 1-White (1W)
+
+Experiment Category: Volatility and partitioning
+Oxidant: Hydroxyl radical
+Reactants: 1-Hexanol, 1-octanol, 1-Nonanol, 1-DECANOL, 1-DODECANOL, Methyl nitrite, nitric oxide
+Reaction Type: Photooxidation
+Relative Humidity: 0.2
+Temperature: 27
+Seed Name: Di-octyl sebacate</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

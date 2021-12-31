@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:02:40-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:06:19-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:00:56-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-29T02:00:55-07:00</gco:Date>
+                                <gco:Date>2021-12-29</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -139,7 +139,24 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals: To quantify the nitrooxy-hydroperoxide yield and the SOA yield from nighttime RO2+RO2-dominated NO3-initiated chemistry of a-pinene using N2O5. This experiment was predominantly to collect a filter to analyze the chemical content of pinene+NO3 RO2+RO2 SOA by offline HRMS. Summary: a-pinene was injected into the chamber, followed by N2O5, which quickly dissociated to NO2 and NO3. a-pinene decayed rapidly by reaction with NO3. Gas phase was monitored by CF3O- CIMS and particle formation by SMPS. After all injections, a filter was collected for offline HRMS analysis. Organization: Nguyen Group Lab Affiliation: UC Davis Chamber: Tran&apos;s big bag of air Experiment Category: Gas phase chemical reaction, Aerosol formation Oxidant: Nitrate radical Reactants: ALPHA-PINENE, Dinitrogen pentoxide Reaction Type: Dark oxidation Relative Humidity: 5 Temperature: 22 Seed Name: N/A Pressure: 755 Torr</gco:CharacterString>
+                <gco:CharacterString>Goals:
+To quantify the nitrooxy-hydroperoxide yield and the SOA yield from nighttime RO2+RO2-dominated NO3-initiated chemistry of a-pinene using N2O5. This experiment was predominantly to collect a filter to analyze the chemical content of pinene+NO3 RO2+RO2 SOA by offline HRMS.
+
+Summary:
+a-pinene was injected into the chamber, followed by N2O5, which quickly dissociated to NO2 and NO3. a-pinene decayed rapidly by reaction with NO3. Gas phase was monitored by CF3O- CIMS and particle formation by SMPS. After all injections, a filter was collected for offline HRMS analysis.
+
+Organization: Nguyen Group
+Lab Affiliation: UC Davis
+Chamber: Tran&apos;s big bag of air
+
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Nitrate radical
+Reactants: ALPHA-PINENE, Dinitrogen pentoxide
+Reaction Type: Dark oxidation
+Relative Humidity: 5
+Temperature: 22
+Seed Name: N/A
+Pressure: 755 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

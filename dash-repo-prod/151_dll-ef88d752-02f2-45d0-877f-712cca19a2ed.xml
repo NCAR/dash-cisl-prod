@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2021-12-30T00:00:19-07:00</gco:DateTime>
+        <gco:DateTime>2021-12-31T00:02:53-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-11-04T10:33:22-07:00</gco:Date>
+                                <gco:Date>2020-11-04</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-10-28T09:38:37-06:00</gco:Date>
+                                <gco:Date>2020-10-28</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -173,7 +173,14 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The data included consist of four simulations completed for Trends in land carbon cycle (TRENDY) simulations for the Global Carbon Project, which follow the land modeling protocol used for the 2020 Global Carbon Budget. The simulations include: • S0, an extension of the spin up with constant forcings and land use • S1, including transient CO2, N deposition, and population density • S2, including transient CO2, climate, N deposition, population density, urban, and aerosols • S3, including all transient forcings from the S2 simulation, as well as transient land use change, which includes shifting cultivation, irrigation, and agricultural N fertilizer Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land use change, and N deposition data provided by TRENDY. All files include monthly averaged data for the full time period. The ‘h0’ files are grid cell averages, whereas the ‘h1’ files are 1-dimensional files averaged by plant functional type. A script to grid the ‘h1’ files is available on the CTSM python GitHub website: https://github.com/NCAR/ctsm_python_gallery/blob/master/notebooks/PFT-Gridding.ipynb</gco:CharacterString>
+                <gco:CharacterString>The data included consist of four simulations completed for Trends in land carbon cycle (TRENDY) simulations for the Global Carbon Project, which follow the land modeling protocol used for the 2020 Global Carbon Budget. The simulations include:
+
+        •       S0, an extension of the spin up with constant forcings and land use
+        •       S1, including transient CO2, N deposition, and population density
+        •       S2, including transient CO2, climate, N deposition, population density, urban, and aerosols
+        •       S3, including all transient forcings from the S2 simulation, as well as transient land use change, which includes shifting cultivation, irrigation, and agricultural N fertilizer
+
+Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land use change, and N deposition data provided by TRENDY.  All files include monthly averaged data for the full time period. The ‘h0’ files are grid cell averages, whereas the ‘h1’ files are 1-dimensional files averaged by plant functional type. A script to grid the ‘h1’ files is available on the CTSM python GitHub website: https://github.com/NCAR/ctsm_python_gallery/blob/master/notebooks/PFT-Gridding.ipynb</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
