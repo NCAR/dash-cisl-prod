@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-04T00:04:05-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-05T00:01:53-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -94,7 +94,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20150112_a-Pinene_Ozone_No Seed</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20150112_a-Pinene_Ozone_Ammonium sulfate</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -177,7 +177,8 @@ Oxidant: Ozone
 Reactants: a-Pinene
 Reaction Type: Dark oxidation
 Relative Humidity: 5
-Temperature: 25</gco:CharacterString>
+Temperature: 25
+Seed Name: Ammonium sulfate</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
@@ -411,7 +412,7 @@ Temperature: 25</gco:CharacterString>
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20150112_a-Pinene_Ozone_No Seed</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20150112_a-Pinene_Ozone_Ammonium sulfate</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
