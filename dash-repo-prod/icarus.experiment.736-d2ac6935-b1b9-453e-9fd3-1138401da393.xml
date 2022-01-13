@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::d2ac6935-b1b9-453e-9fd3-1138401da393</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::d2ac6935-b1b9-453e-9fd3-1138401da393</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -27,10 +27,10 @@
     <gmd:contact>
         <gmd:CI_ResponsibleParty>
             <gmd:individualName>
-                <gco:CharacterString>DASH Repository Curator</gco:CharacterString>
+                <gco:CharacterString>GDEX Curator</gco:CharacterString>
             </gmd:individualName>
             <gmd:organisationName>
-                <gco:CharacterString>UCAR/NCAR - DASH Repository</gco:CharacterString>
+                <gco:CharacterString>UCAR/NCAR - GDEX</gco:CharacterString>
             </gmd:organisationName>
             <gmd:contactInfo>
                 <gmd:CI_Contact>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-12T00:02:00-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-13T00:02:52-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -401,7 +401,7 @@ Pressure: 630</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_2acdaedf-3fd4-4e0b-a0a7-07ad5c1e0efa">
+                                <gml:TimePeriod gml:id="tp_63ce1d6a-6a6f-462e-8393-71e3036f9bd5">
                                     <gml:beginPosition>2015-02-11</gml:beginPosition>
                                     <gml:endPosition>2015-02-11</gml:endPosition>
                                 </gml:TimePeriod>
@@ -435,7 +435,7 @@ Pressure: 630</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/d2ac6935-b1b9-453e-9fd3-1138401da393.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/d2ac6935-b1b9-453e-9fd3-1138401da393.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

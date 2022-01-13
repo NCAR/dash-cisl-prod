@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::f8a24a42-9f94-4ebd-a656-56297566eab7</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::f8a24a42-9f94-4ebd-a656-56297566eab7</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -27,10 +27,10 @@
     <gmd:contact>
         <gmd:CI_ResponsibleParty>
             <gmd:individualName>
-                <gco:CharacterString>DASH Repository Curator</gco:CharacterString>
+                <gco:CharacterString>GDEX Curator</gco:CharacterString>
             </gmd:individualName>
             <gmd:organisationName>
-                <gco:CharacterString>UCAR/NCAR - DASH Repository</gco:CharacterString>
+                <gco:CharacterString>UCAR/NCAR - GDEX</gco:CharacterString>
             </gmd:organisationName>
             <gmd:contactInfo>
                 <gmd:CI_Contact>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-12T00:01:28-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-13T00:02:20-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-01-11</gco:Date>
+                                <gco:Date>2022-01-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-01-11</gco:Date>
+                                <gco:Date>2022-01-12</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -383,7 +383,7 @@ Seed Name: 1:2 MgSO4/H2SO4</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_1dacffaa-6fb4-4801-b3d5-c4e9612ec1cc">
+                                <gml:TimePeriod gml:id="tp_dc5a31d3-7ff6-45d5-9ec2-9cc09eda600f">
                                     <gml:beginPosition>2017-01-09</gml:beginPosition>
                                     <gml:endPosition>2017-01-09</gml:endPosition>
                                 </gml:TimePeriod>
@@ -417,7 +417,7 @@ Seed Name: 1:2 MgSO4/H2SO4</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/f8a24a42-9f94-4ebd-a656-56297566eab7.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/f8a24a42-9f94-4ebd-a656-56297566eab7.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

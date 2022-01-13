@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::0426ce26-db1f-47bb-ac37-48becd159d6c</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::0426ce26-db1f-47bb-ac37-48becd159d6c</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -27,10 +27,10 @@
     <gmd:contact>
         <gmd:CI_ResponsibleParty>
             <gmd:individualName>
-                <gco:CharacterString>DASH Repository Curator</gco:CharacterString>
+                <gco:CharacterString>GDEX Curator</gco:CharacterString>
             </gmd:individualName>
             <gmd:organisationName>
-                <gco:CharacterString>UCAR/NCAR - DASH Repository</gco:CharacterString>
+                <gco:CharacterString>UCAR/NCAR - GDEX</gco:CharacterString>
             </gmd:organisationName>
             <gmd:contactInfo>
                 <gmd:CI_Contact>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-12T00:00:07-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-13T00:00:49-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -174,7 +174,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - DASH Repository</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - GDEX</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
@@ -469,7 +469,7 @@ Code and documentation for the Land Use Tool - CLM5 is currently hosted on githu
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/0426ce26-db1f-47bb-ac37-48becd159d6c.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/0426ce26-db1f-47bb-ac37-48becd159d6c.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

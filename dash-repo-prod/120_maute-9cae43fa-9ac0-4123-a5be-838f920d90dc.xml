@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::9cae43fa-9ac0-4123-a5be-838f920d90dc</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::9cae43fa-9ac0-4123-a5be-838f920d90dc</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -27,10 +27,10 @@
     <gmd:contact>
         <gmd:CI_ResponsibleParty>
             <gmd:individualName>
-                <gco:CharacterString>DASH Repository Curator</gco:CharacterString>
+                <gco:CharacterString>GDEX Curator</gco:CharacterString>
             </gmd:individualName>
             <gmd:organisationName>
-                <gco:CharacterString>UCAR/NCAR - DASH Repository</gco:CharacterString>
+                <gco:CharacterString>UCAR/NCAR - GDEX</gco:CharacterString>
             </gmd:organisationName>
             <gmd:contactInfo>
                 <gmd:CI_Contact>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-12T00:00:02-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-13T00:00:44-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -105,7 +105,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - DASH Repository</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - GDEX</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
@@ -342,7 +342,7 @@ Focus is on an eastward-propagating ultra-fast Kelvin wave (UFKW) packet with pe
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/9cae43fa-9ac0-4123-a5be-838f920d90dc.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/9cae43fa-9ac0-4123-a5be-838f920d90dc.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
