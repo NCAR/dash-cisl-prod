@@ -37,7 +37,7 @@
                     <gmd:address>
                         <gmd:CI_Address>
                             <gmd:electronicMailAddress>
-                                <gco:CharacterString>datahelp@ucar.edu</gco:CharacterString>
+                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
                             </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                     </gmd:address>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-13T00:01:41-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-14T00:00:44-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -407,7 +407,7 @@ Seed Name: Sucrose</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_b409f0d9-b8c6-4280-9c9c-3782ae11c5cf">
+                                <gml:TimePeriod gml:id="tp_36e8255b-c2eb-4420-8991-6b03fbe18536">
                                     <gml:beginPosition>2018-05-04</gml:beginPosition>
                                     <gml:endPosition>2018-05-04</gml:endPosition>
                                 </gml:TimePeriod>

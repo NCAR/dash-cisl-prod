@@ -37,7 +37,7 @@
                     <gmd:address>
                         <gmd:CI_Address>
                             <gmd:electronicMailAddress>
-                                <gco:CharacterString>datahelp@ucar.edu</gco:CharacterString>
+                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
                             </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                     </gmd:address>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-13T00:01:11-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-14T00:00:25-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-01-12</gco:Date>
+                                <gco:Date>2022-01-13</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-01-12</gco:Date>
+                                <gco:Date>2022-01-13</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -359,7 +359,7 @@ Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_e2fb6675-e7bb-42b6-ac14-b828865ec099">
+                                <gml:TimePeriod gml:id="tp_ea91b6e9-7c9f-439a-8e43-f4fffbdc83f5">
                                     <gml:beginPosition>2018-12-28</gml:beginPosition>
                                     <gml:endPosition>2018-12-28</gml:endPosition>
                                 </gml:TimePeriod>

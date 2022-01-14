@@ -37,7 +37,7 @@
                     <gmd:address>
                         <gmd:CI_Address>
                             <gmd:electronicMailAddress>
-                                <gco:CharacterString>datahelp@ucar.edu</gco:CharacterString>
+                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
                             </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                     </gmd:address>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-13T00:02:37-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-14T00:01:37-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-01-12</gco:Date>
+                                <gco:Date>2022-01-13</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-01-12</gco:Date>
+                                <gco:Date>2022-01-13</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -361,7 +361,7 @@ Pressure: 755 Torr</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_c87897ae-6062-4067-8c6d-224d72214670">
+                                <gml:TimePeriod gml:id="tp_e0b310cf-b99e-4d62-9e7d-30392acbaa3e">
                                     <gml:beginPosition>2020-10-02</gml:beginPosition>
                                     <gml:endPosition>2020-10-02</gml:endPosition>
                                 </gml:TimePeriod>

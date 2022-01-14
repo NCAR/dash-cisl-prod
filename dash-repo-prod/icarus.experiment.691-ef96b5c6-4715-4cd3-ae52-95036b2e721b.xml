@@ -37,7 +37,7 @@
                     <gmd:address>
                         <gmd:CI_Address>
                             <gmd:electronicMailAddress>
-                                <gco:CharacterString>datahelp@ucar.edu</gco:CharacterString>
+                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
                             </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                     </gmd:address>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-13T00:02:49-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-14T00:01:49-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -361,7 +361,7 @@ Pressure: 755 Torr</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_a9163d47-d6d2-4298-be9a-3a2c98279fac">
+                                <gml:TimePeriod gml:id="tp_a0bc6fe6-575a-423d-ae91-1d10c1aad038">
                                     <gml:beginPosition>2021-11-16</gml:beginPosition>
                                     <gml:endPosition>2021-11-16</gml:endPosition>
                                 </gml:TimePeriod>

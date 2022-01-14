@@ -37,7 +37,7 @@
                     <gmd:address>
                         <gmd:CI_Address>
                             <gmd:electronicMailAddress>
-                                <gco:CharacterString>datahelp@ucar.edu</gco:CharacterString>
+                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
                             </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                     </gmd:address>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-13T00:02:50-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-14T00:01:50-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -383,7 +383,7 @@ Seed Name: Ammonium sulfate</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_973df00f-68ec-4209-8842-2dcb6af25106">
+                                <gml:TimePeriod gml:id="tp_018abc7d-98c9-46f6-ba01-afe2cee17045">
                                     <gml:beginPosition>2015-04-17</gml:beginPosition>
                                     <gml:endPosition>2015-04-17</gml:endPosition>
                                 </gml:TimePeriod>

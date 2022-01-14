@@ -37,7 +37,7 @@
                     <gmd:address>
                         <gmd:CI_Address>
                             <gmd:electronicMailAddress>
-                                <gco:CharacterString>datahelp@ucar.edu</gco:CharacterString>
+                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
                             </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                     </gmd:address>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-13T00:01:37-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-14T00:00:41-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -407,7 +407,7 @@ Seed Name: DOS</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_28d1c3e8-a167-4da8-a6ff-7d6ac037ca58">
+                                <gml:TimePeriod gml:id="tp_7e5dd2b6-42c9-43b1-9c84-1f685f55192b">
                                     <gml:beginPosition>2018-03-13</gml:beginPosition>
                                     <gml:endPosition>2018-03-13</gml:endPosition>
                                 </gml:TimePeriod>

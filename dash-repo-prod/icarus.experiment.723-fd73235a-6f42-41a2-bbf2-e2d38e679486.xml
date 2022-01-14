@@ -37,7 +37,7 @@
                     <gmd:address>
                         <gmd:CI_Address>
                             <gmd:electronicMailAddress>
-                                <gco:CharacterString>datahelp@ucar.edu</gco:CharacterString>
+                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
                             </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                     </gmd:address>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-13T00:02:51-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-14T00:01:51-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -382,7 +382,7 @@ Temperature: 25</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_bb9cce13-94a3-4620-ae2d-3f9f610a2182">
+                                <gml:TimePeriod gml:id="tp_6045ab37-c2d4-4147-8191-6ba83b2978f0">
                                     <gml:beginPosition>2015-01-23</gml:beginPosition>
                                     <gml:endPosition>2015-01-23</gml:endPosition>
                                 </gml:TimePeriod>
