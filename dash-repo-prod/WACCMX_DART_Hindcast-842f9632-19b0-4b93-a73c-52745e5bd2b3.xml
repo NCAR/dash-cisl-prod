@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-27T00:06:00-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-28T00:03:00-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -405,8 +405,8 @@
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
                                 <gml:TimePeriod gml:id="tp_35c04338-f1ef-4e1b-9da7-0991fa917b83">
-                                    <gml:beginPosition>2009-01-01T07:00:00-07:00</gml:beginPosition>
-                                    <gml:endPosition>2010-12-31T07:00:00-07:00</gml:endPosition>
+                                    <gml:beginPosition>2009-01-01T07:00:00</gml:beginPosition>
+                                    <gml:endPosition>2010-12-31T07:00:00</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>

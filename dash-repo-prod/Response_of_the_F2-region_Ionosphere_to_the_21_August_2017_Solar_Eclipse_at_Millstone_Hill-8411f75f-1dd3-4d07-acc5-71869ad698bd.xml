@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-27T00:05:59-07:00</gco:DateTime>
+        <gco:DateTime>2022-01-28T00:02:59-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -382,8 +382,8 @@ In particular, the NCAR- Community model: high-resolution thermosphere-ionospher
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
                                 <gml:TimePeriod gml:id="tp_4b77e872-a8cc-443b-8a98-9802efaa11d5">
-                                    <gml:beginPosition>2017-08-19T06:00:00-06:00</gml:beginPosition>
-                                    <gml:endPosition>2017-08-22T06:00:00-06:00</gml:endPosition>
+                                    <gml:beginPosition>2017-08-19T06:00:00</gml:beginPosition>
+                                    <gml:endPosition>2017-08-22T06:00:00</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
