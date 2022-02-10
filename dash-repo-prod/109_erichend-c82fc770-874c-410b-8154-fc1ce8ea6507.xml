@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-02-09T00:00:03-07:00</gco:DateTime>
+        <gco:DateTime>2022-02-10T00:00:03-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -65,6 +65,29 @@
         <gco:CharacterString>https://doi.org/10.5065/86q5-hh48</gco:CharacterString>
     </gmd:dataSetURI>
 
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://doi.org/10.1175/MWR-D-20-0278.1</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>Evaluation of Boundary Layer and Urban Canopy Parameterizations for Simulating Wind in Miami during Hurricane Irma (2017)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString></gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
 
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>
