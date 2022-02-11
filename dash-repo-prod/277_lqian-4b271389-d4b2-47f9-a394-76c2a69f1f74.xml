@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.gdex::da2bd3b5-31c1-435c-897a-278443db80ec</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::4b271389-d4b2-47f9-a394-76c2a69f1f74</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-02-11T00:01:01-07:00</gco:DateTime>
+        <gco:DateTime>2022-02-11T00:00:18-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/vk00-cf79</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/p3wa-1q97</gco:CharacterString>
     </gmd:dataSetURI>
 
 
@@ -71,12 +71,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: UCR-CECERT-APL-Cocker Group_20170115_None_Ammonium sulfate_EPA2295B - Weihan</gco:CharacterString>
+                        <gco:CharacterString>Seasonal Variation of Thermospheric Composition Observed by NASA GOLD</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-02-04</gco:Date>
+                                <gco:Date>2022-02-10</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-02-04</gco:Date>
+                                <gco:Date>2022-02-10</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -96,26 +96,47 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/vk00-cf79" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/vk00-cf79
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/p3wa-1q97" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/p3wa-1q97
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
                     </gmd:identifier>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Cocker, David</gco:CharacterString>
-                            </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>UCR-CECERT-APL-Cocker Group</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - GDEX</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>dcocker@engr.ucr.edu</gco:CharacterString>
+                                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Qian, Liying</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>lqian@ucar.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
@@ -126,52 +147,28 @@
                             </gmd:role>
                         </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:organisationName>
-                                <gco:CharacterString>ICARUS Community</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals:
-PM Wall loss with blacklights on in the last hour
-
-Summary:
-Atomizeing 0.04M Asmonia Sulfate
-INSTRUMENTS: Dual SMPS
-
-Organization: UCR-CECERT-APL-Cocker Group
-Lab Affiliation: University of California, Riverside, CE-CERT
-Chamber: EPA chamber
-
-Experiment Category: Instrument/Chamber characterization
-Oxidant: None
-Reaction Type: Non-chemical
-Relative Humidity: 0.01
-Temperature: 28
-Seed Name: Ammonium sulfate
-Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
+                <gco:CharacterString>We examine characteristics of the seasonal variation of thermospheric composition using column number density ratio ∑O/N2 observed by the NASA Global Observations of Limb and Disk (GOLD) mission from low-mid to mid-high latitudes. We found that the ∑O/N2 seasonal variation is hemispherically asymmetric: in the southern hemisphere, it exhibits the well-known annual and seminal pattern, with highs near the equinoxes, and primary and secondary lows near the solstices. In the northern hemisphere, it is dominated by an annual variation, with a minor semiannual component with the highs shifting towards the wintertime. We also found that the durations of the December and June solstice seasons in terms of thermospheric composition are highly variable with longitude. Our hypothesis is that ion-neutral collisional heating in the equatorial ionization anomaly region and auroral Joule heating play substantial roles in this longitudinal dependency.</gco:CharacterString>
             </gmd:abstract>
+            <gmd:credit>
+                <gco:CharacterString>NASA NNH19ZDA001N-HSR, NASA 80NSSC18K0648, NASA 80NSSC19K0278, NASA NNH19ZDA001N-HGIO</gco:CharacterString>
+            </gmd:credit>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Le, Chen</gco:CharacterString>
+                        <gco:CharacterString>Liying Qian</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>UCR-CECERT-APL-Cocker Group</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:contactInfo>
                         <gmd:CI_Contact>
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                        <gco:CharacterString>cle030@ucr.edu</gco:CharacterString>
+                                        <gco:CharacterString>lqian@ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
@@ -226,10 +223,10 @@ Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; IONOSPHERE/MAGNETOSPHERE DYNAMICS &gt; ION CHEMISTRY/IONIZATION</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; TRACE GASES/TRACE SPECIES</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; SOLAR ENERGETIC PARTICLE PROPERTIES &gt; PARTICLE DENSITY</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -265,43 +262,7 @@ Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>In Situ Land-Based Platforms &gt; Laboratory</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:type>
-                        <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
-                    </gmd:type>
-                    <gmd:thesaurusName>
-                        <gmd:CI_Citation>
-                            <gmd:title>
-                                <gco:CharacterString>NASA/GCMD Earth Science Keywords</gco:CharacterString>
-                            </gmd:title>
-                            <gmd:alternateTitle>
-                                <gco:CharacterString>Platforms and Sources Keywords</gco:CharacterString>
-                            </gmd:alternateTitle>
-                            <gmd:date>
-                                <gmd:CI_Date>
-                                    <gmd:date>
-                                        <gco:Date>2018-03-15</gco:Date>
-                                    </gmd:date>
-                                    <gmd:dateType>
-                                        <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
-                                    </gmd:dateType>
-                                </gmd:CI_Date>
-                            </gmd:date>
-                            <gmd:edition>
-                                <gco:CharacterString>8.6</gco:CharacterString>
-                            </gmd:edition>
-                            <gmd:collectiveTitle>
-                                <gco:CharacterString>Global Change Master Directory (GCMD). 2018. GCMD Keywords, Version 8.6. Greenbelt, MD: Global Change Data Center, Science and Exploration Directorate, Goddard Space Flight Center (GSFC) National Aeronautics and Space Administration (NASA). URL (GCMD Keyword Forum Page): https://earthdata.nasa.gov/gcmd-forum</gco:CharacterString>
-                            </gmd:collectiveTitle>
-                        </gmd:CI_Citation>
-                    </gmd:thesaurusName>
-                </gmd:MD_Keywords>
-            </gmd:descriptiveKeywords>
-            <gmd:descriptiveKeywords>
-                <gmd:MD_Keywords>
-                    <gmd:keyword>
-                        <gco:CharacterString>In Situ/Laboratory Instruments &gt; Chemical Meters/Analyzers</gco:CharacterString>
+                        <gco:CharacterString>Earth Remote Sensing Instruments &gt; Passive Remote Sensing &gt; Spectrometers/Radiometers &gt; Spectrometers &gt; Gold &gt; Global-Scale Observations Of The Limb And Disk</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -344,12 +305,26 @@ Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
                     </gmd:useLimitation>
                     <gmd:otherConstraints>
                         <gco:CharacterString>
-                            These data are openly accessible by all registered users. Accounts are available free of charge following the registration of user information with a valid email address.
+                            None
                         </gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
 
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLatitude">5.0</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLongitude">5.0</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
 
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
@@ -358,12 +333,28 @@ Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
 
             <gmd:extent>
                 <gmd:EX_Extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-180.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>180.0</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>-60.0</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>60.0</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_e91cd8f3-97ba-48f8-9774-595a3418b706">
-                                    <gml:beginPosition>2017-01-15</gml:beginPosition>
-                                    <gml:endPosition>2017-01-15</gml:endPosition>
+                                <gml:TimePeriod gml:id="tp_f08eaf65-5d5d-4528-a50b-0cdb8e0c1d3c">
+                                    <gml:beginPosition>2018-10-05</gml:beginPosition>
+                                    <gml:endPosition>2021-09-30</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -395,7 +386,7 @@ Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://gdex.ucar.edu/dataset/id/da2bd3b5-31c1-435c-897a-278443db80ec.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/4b271389-d4b2-47f9-a394-76c2a69f1f74.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -404,7 +395,7 @@ Pressure: 0.015&apos;&apos; H2O</gco:CharacterString>
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: UCR-CECERT-APL-Cocker Group_20170115_None_Ammonium sulfate_EPA2295B - Weihan</gco:CharacterString>
+                                <gco:CharacterString>Seasonal Variation of Thermospheric Composition Observed by NASA GOLD</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
