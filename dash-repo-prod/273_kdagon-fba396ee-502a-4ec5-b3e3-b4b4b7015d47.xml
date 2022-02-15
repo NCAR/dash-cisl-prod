@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.gdex::08ea3ac5-6459-4428-af71-476f5ae88149</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::fba396ee-502a-4ec5-b3e3-b4b4b7015d47</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -37,7 +37,7 @@
                     <gmd:address>
                         <gmd:CI_Address>
                             <gmd:electronicMailAddress>
-                                <gco:CharacterString>datahelp@ucar.edu</gco:CharacterString>
+                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
                             </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                     </gmd:address>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-02-15T00:00:04-07:00</gco:DateTime>
+        <gco:DateTime>2022-02-15T00:00:14-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/77xn-3n58</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/q6t7-ta06</gco:CharacterString>
     </gmd:dataSetURI>
 
 
@@ -71,12 +71,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Dataset associated with manuscript &quot;Magnetosphere-ionosphere coupling via prescribed field-aligned current simulated by the TIEGCM&quot;</gco:CharacterString>
+                        <gco:CharacterString>Machine learning-based detection of weather fronts and associated extreme precipitation in CESM1.3</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-10-05</gco:Date>
+                                <gco:Date>2022-02-14</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2020-10-02</gco:Date>
+                                <gco:Date>2022-01-27</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -96,8 +96,8 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/77xn-3n58" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/77xn-3n58
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/q6t7-ta06" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/q6t7-ta06
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
@@ -112,7 +112,7 @@
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>datahelp@ucar.edu</gco:CharacterString>
+                                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
@@ -126,17 +126,17 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Maute, Astrid</gco:CharacterString>
+                                <gco:CharacterString>Dagon, Katie</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - Climate &amp; Global Dynamics Laboratory</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>maute@ucar.edu</gco:CharacterString>
+                                                <gco:CharacterString>kdagon@ucar.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
@@ -147,25 +147,58 @@
                             </gmd:role>
                         </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Truesdale, John</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Rosenbloom, Nan</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Bates, Susan</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The dataset is associated with the manuscript &quot;Magnetosphere-ionosphere coupling via prescribed field-aligned current simulated by the TIEGCM&quot;. It is based on simulations using the NCAR Thermosphere-Ionosphere Electrodynamics General Circulation Model (TIEGCM) and comparing the thermosphere-ionosphere response during 28-30 May, 2010 geomagnetic storm due to different realizations of magnetosphere-ionosphere (MI) coupling in the model. Results are presented using for MI coupling the Assimilative Mapping of Ionospheric Electrodynamics (AMIE), the empirical Weimer ion convection, and fitted field-aligned current based on observations from the Active Magnetosphere and Planetary Electrodynamics Response Experiment (AMPERE). The output includes among others high latitude quantities of auroral ionization rates, field-aligned current, electric potential, hemispheric integrated Joule heating, and middle and low-latitude zonal mean neutral wind, density, composition, ionospheric Nmf2, TEC and equatorial vertical drift.</gco:CharacterString>
+                <gco:CharacterString>These data are the results of high resolution simulations with the Community Earth System Model, version 1.3 (CESM1.3). These simulations form the basis of a publication analyzing machine learning based-detection of weather fronts and associated extreme precipitation.</gco:CharacterString>
             </gmd:abstract>
+            <gmd:credit>
+                <gco:CharacterString>This material is based upon work supported by the U.S. Department of Energy (DOE), Office of Science, Office of Biological &amp; Environmental Research (BER), Regional and Global Model Analysis (RGMA) component of the Earth and Environmental System Modeling Program under Award Number DE-SC0022070 and National Science Foundation (NSF) IA 1947282. This work was also supported by the National Center for Atmospheric Research (NCAR), which is a major facility sponsored by the NSF under Cooperative Agreement No. 1852977. The CESM project is supported primarily by the National Science Foundation (NSF). Computing and data storage resources were provided by the Computational and Information Systems Laboratory (CISL) at NCAR. An award of computer time was provided by the Innovative and Novel Computational Impact on Theory and Experiment (INCITE) program. This research used resources of the Argonne Leadership Computing Facility, which is a DOE Office of Science User Facility supported under Contract DE-AC02-06CH11357. This research is also part of the Blue Waters sustained-petascale computing project, which is supported by the NSF (Awards OCI-0725070 and ACI-1238993) and the state of Illinois. Blue Waters is a joint effort of the University of Illinois at Urbana-Champaign and its National Center for Supercomputing Applications. This work is also part of the &quot;High Resolution Earth System Modeling Using Blue Waters Capabilities&quot; PRAC allocation support by the National Science Foundation (Award ACI-1516624). This research used resources of the National Energy Research Scientific Computing Center (NERSC), a U.S. Department of Energy Office of Science User Facility located at Lawrence Berkeley National Laboratory, operated under Contract No. DE-AC02-05CH11231.</gco:CharacterString>
+            </gmd:credit>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Astrid Maute</gco:CharacterString>
+                        <gco:CharacterString>Katie Dagon</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - Climate &amp; Global Dynamics Laboratory</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:contactInfo>
                         <gmd:CI_Contact>
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                        <gco:CharacterString>maute@ucar.edu</gco:CharacterString>
+                                        <gco:CharacterString>kdagon@ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
@@ -220,10 +253,13 @@
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; SOLAR-ATMOSPHERE/SPACE-WEATHER MODELS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; IONOSPHERE/MAGNETOSPHERE DYNAMICS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; ATMOSPHERIC/OCEAN INDICATORS &gt; EXTREME WEATHER &gt; EXTREME PRECIPITATION</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; COUPLED CLIMATE MODELS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -235,6 +271,42 @@
                             </gmd:title>
                             <gmd:alternateTitle>
                                 <gco:CharacterString>Science and Services Keywords</gco:CharacterString>
+                            </gmd:alternateTitle>
+                            <gmd:date>
+                                <gmd:CI_Date>
+                                    <gmd:date>
+                                        <gco:Date>2018-03-15</gco:Date>
+                                    </gmd:date>
+                                    <gmd:dateType>
+                                        <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
+                                    </gmd:dateType>
+                                </gmd:CI_Date>
+                            </gmd:date>
+                            <gmd:edition>
+                                <gco:CharacterString>8.6</gco:CharacterString>
+                            </gmd:edition>
+                            <gmd:collectiveTitle>
+                                <gco:CharacterString>Global Change Master Directory (GCMD). 2018. GCMD Keywords, Version 8.6. Greenbelt, MD: Global Change Data Center, Science and Exploration Directorate, Goddard Space Flight Center (GSFC) National Aeronautics and Space Administration (NASA). URL (GCMD Keyword Forum Page): https://earthdata.nasa.gov/gcmd-forum</gco:CharacterString>
+                            </gmd:collectiveTitle>
+                        </gmd:CI_Citation>
+                    </gmd:thesaurusName>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Models/Analyses &gt; Cesm &gt; Ncar Community Earth System Model</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+                    </gmd:type>
+                    <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                            <gmd:title>
+                                <gco:CharacterString>NASA/GCMD Earth Science Keywords</gco:CharacterString>
+                            </gmd:title>
+                            <gmd:alternateTitle>
+                                <gco:CharacterString>Platforms and Sources Keywords</gco:CharacterString>
                             </gmd:alternateTitle>
                             <gmd:date>
                                 <gmd:CI_Date>
@@ -272,6 +344,34 @@
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
 
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLatitude">1.0</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLongitude">1.0</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLatitude">0.23</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLongitude">0.31</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
 
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
@@ -296,12 +396,48 @@
                             </gmd:northBoundLatitude>
                         </gmd:EX_GeographicBoundingBox>
                     </gmd:geographicElement>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-171.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-31.0</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>10.0</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>77.0</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_19000e94-91e3-42cd-99ea-43a2d98e70fd">
-                                    <gml:beginPosition>2010-05-28</gml:beginPosition>
-                                    <gml:endPosition>2010-05-30</gml:endPosition>
+                                <gml:TimePeriod gml:id="tp_39dd1fad-e31e-4a8c-b6f9-615284a9ce98">
+                                    <gml:beginPosition>2000-01-01</gml:beginPosition>
+                                    <gml:endPosition>2005-12-31</gml:endPosition>
+                                </gml:TimePeriod>
+                            </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gml:TimePeriod gml:id="tp_66dca978-cc90-465f-ab13-bafbacdc59ac">
+                                    <gml:beginPosition>2006-01-01</gml:beginPosition>
+                                    <gml:endPosition>2015-12-31</gml:endPosition>
+                                </gml:TimePeriod>
+                            </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gml:TimePeriod gml:id="tp_1adae9b1-6b34-4a4b-a7eb-d7a1b98a9b40">
+                                    <gml:beginPosition>2086-01-01</gml:beginPosition>
+                                    <gml:endPosition>2100-12-31</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -333,7 +469,7 @@
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://gdex.ucar.edu/dataset/id/08ea3ac5-6459-4428-af71-476f5ae88149.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/fba396ee-502a-4ec5-b3e3-b4b4b7015d47.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -342,7 +478,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>Dataset associated with manuscript &quot;Magnetosphere-ionosphere coupling via prescribed field-aligned current simulated by the TIEGCM&quot;</gco:CharacterString>
+                                <gco:CharacterString>Machine learning-based detection of weather fronts and associated extreme precipitation in CESM1.3</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
