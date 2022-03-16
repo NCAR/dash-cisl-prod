@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.gdex::a3e62b15-51af-4960-83b7-6a066e267b22</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::b9343539-3f97-4371-bc75-f6ef1ac57191</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-03-16T00:01:47-06:00</gco:DateTime>
+        <gco:DateTime>2022-03-16T00:00:15-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/tg6n-t406</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/t224-6s94</gco:CharacterString>
     </gmd:dataSetURI>
 
 
@@ -71,12 +71,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20211122_2-Methylbut-3-ene-1,2-diol_None_Ammonium sulfate</gco:CharacterString>
+                        <gco:CharacterString>AEW hindcast using the Model for Prediction Across Scales-Atmosphere (MPAS-A) version 7.1</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-08</gco:Date>
+                                <gco:Date>2022-03-15</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-08</gco:Date>
+                                <gco:Date>2022-03-09</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -96,26 +96,47 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/tg6n-t406" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/tg6n-t406
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/t224-6s94" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/t224-6s94
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
                     </gmd:identifier>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Nguyen, Tran</gco:CharacterString>
-                            </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>Nguyen Group</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - GDEX</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>tbn@ucdavis.edu</gco:CharacterString>
+                                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Núñez Ocasio, Kelly M.</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Mesoscale and Microscale Meteorology Laboratory</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>knocasio@ucar.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
@@ -128,50 +149,36 @@
                     </gmd:citedResponsibleParty>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
-                            <gmd:organisationName>
-                                <gco:CharacterString>ICARUS Community</gco:CharacterString>
-                            </gmd:organisationName>
+                            <gmd:individualName>
+                                <gco:CharacterString>Rios-Berrios, Rosimar</gco:CharacterString>
+                            </gmd:individualName>
                             <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
                         </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals:
-This experiment serves as a no-light control for experiments on 11/16/21 and 11/19/21, to examine the dark loss rates of isoprene diol and ammonium sulfate aerosol in the chamber while filter collection is in progress.
-
-Summary:
-The chamber was humidified to ~80% RH; ammonium sulfate was introduced by atomization, and isoprene diol was introduced in both gas and particle phases via atomization and evaporation. Filter collection proceeded for ~6 hours and loss rates of particles and gases were measured during that time.
-
-Organization: Nguyen Group
-Lab Affiliation: UC Davis
-Chamber: Tran&apos;s big bag of air
-
-Experiment Category: Volatility and partitioning, Instrument/Chamber characterization, Blank/Control
-Oxidant: None
-Reactants: 2-Methylbut-3-ene-1,2-diol
-Reaction Type: Non-chemical
-Relative Humidity: 79
-Temperature: 20-22
-Seed Name: Ammonium sulfate
-Pressure: 755 Torr</gco:CharacterString>
+                <gco:CharacterString>The dataset includes post-processed model outputs from global simulations using the MPAS-A version 7.1. The model was initialized using both ECMWF Integrated Forecast System (IFS) and NCEP Global Forecast System (GFS) on September 8, 2006 and integrated for 5 days and 6 hours to hindcast the evolution and tropical cyclogenesis of the African easterly wave that became Hurricane Helene in 2006. The dataset can be used to study this specific AEW case and other easterly waves and tropical systems that were active during this time (e.g., Pacific easterly waves active during the same time) as the model was run globally. Although the model produces 15-km horizontal grid outputs, the post-processed outputs available here were interpolated to a 0.25-degree by 0.25-degree latitude-by-longitude grid and 27 isobaric levels (in the vertical).  More details of the data and analysis will be included in a manuscript that is to be submitted to Journal of Advances in Modeling Earth Systems (JAMES) with the title “African Easterly Wave Evolution and Tropical Cyclogenesis in a pre-Helene (2006) Hindcast using the Model for Prediction Across Scales-Atmosphere (MPAS-A)”. The namelist files to run the model as well as a README file are also included in this repository.</gco:CharacterString>
             </gmd:abstract>
+            <gmd:credit>
+                <gco:CharacterString>Funding for this project came from the NCAR Advanced Study Program (ASP).</gco:CharacterString>
+            </gmd:credit>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Bates, Kelvin</gco:CharacterString>
+                        <gco:CharacterString>Kelly M. Núñez Ocasio</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>Nguyen Group</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - Mesoscale and Microscale Meteorology Laboratory</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:contactInfo>
                         <gmd:CI_Contact>
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                        <gco:CharacterString>kelvinhbates@gmail.com</gco:CharacterString>
+                                        <gco:CharacterString>knocasio@ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
@@ -226,10 +233,25 @@ Pressure: 755 Torr</gco:CharacterString>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; WEATHER EVENTS &gt; RAIN STORMS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; TRACE GASES/TRACE SPECIES</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; WEATHER EVENTS &gt; TROPICAL CYCLONES &gt; TROPICAL DEPRESSION MOTION</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; ATMOSPHERIC/OCEAN INDICATORS &gt; EXTREME WEATHER</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; ATMOSPHERIC/OCEAN INDICATORS &gt; EXTREME WEATHER &gt; EXTREME PRECIPITATION</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE &gt; CLIMATE INDICATORS &gt; ATMOSPHERIC/OCEAN INDICATORS &gt; EXTREME WEATHER &gt; MONSOON ONSET/INTENSITY</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; ATMOSPHERIC GENERAL CIRCULATION MODELS</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; WEATHER RESEARCH/FORECAST MODELS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -262,78 +284,6 @@ Pressure: 755 Torr</gco:CharacterString>
                     </gmd:thesaurusName>
                 </gmd:MD_Keywords>
             </gmd:descriptiveKeywords>
-            <gmd:descriptiveKeywords>
-                <gmd:MD_Keywords>
-                    <gmd:keyword>
-                        <gco:CharacterString>In Situ Land-Based Platforms &gt; Laboratory</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:type>
-                        <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
-                    </gmd:type>
-                    <gmd:thesaurusName>
-                        <gmd:CI_Citation>
-                            <gmd:title>
-                                <gco:CharacterString>NASA/GCMD Earth Science Keywords</gco:CharacterString>
-                            </gmd:title>
-                            <gmd:alternateTitle>
-                                <gco:CharacterString>Platforms and Sources Keywords</gco:CharacterString>
-                            </gmd:alternateTitle>
-                            <gmd:date>
-                                <gmd:CI_Date>
-                                    <gmd:date>
-                                        <gco:Date>2018-03-15</gco:Date>
-                                    </gmd:date>
-                                    <gmd:dateType>
-                                        <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
-                                    </gmd:dateType>
-                                </gmd:CI_Date>
-                            </gmd:date>
-                            <gmd:edition>
-                                <gco:CharacterString>8.6</gco:CharacterString>
-                            </gmd:edition>
-                            <gmd:collectiveTitle>
-                                <gco:CharacterString>Global Change Master Directory (GCMD). 2018. GCMD Keywords, Version 8.6. Greenbelt, MD: Global Change Data Center, Science and Exploration Directorate, Goddard Space Flight Center (GSFC) National Aeronautics and Space Administration (NASA). URL (GCMD Keyword Forum Page): https://earthdata.nasa.gov/gcmd-forum</gco:CharacterString>
-                            </gmd:collectiveTitle>
-                        </gmd:CI_Citation>
-                    </gmd:thesaurusName>
-                </gmd:MD_Keywords>
-            </gmd:descriptiveKeywords>
-            <gmd:descriptiveKeywords>
-                <gmd:MD_Keywords>
-                    <gmd:keyword>
-                        <gco:CharacterString>In Situ/Laboratory Instruments &gt; Chemical Meters/Analyzers</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:type>
-                        <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
-                    </gmd:type>
-                    <gmd:thesaurusName>
-                        <gmd:CI_Citation>
-                            <gmd:title>
-                                <gco:CharacterString>NASA/GCMD Earth Science Keywords</gco:CharacterString>
-                            </gmd:title>
-                            <gmd:alternateTitle>
-                                <gco:CharacterString>Instruments and Sensors Keywords</gco:CharacterString>
-                            </gmd:alternateTitle>
-                            <gmd:date>
-                                <gmd:CI_Date>
-                                    <gmd:date>
-                                        <gco:Date>2018-03-15</gco:Date>
-                                    </gmd:date>
-                                    <gmd:dateType>
-                                        <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
-                                    </gmd:dateType>
-                                </gmd:CI_Date>
-                            </gmd:date>
-                            <gmd:edition>
-                                <gco:CharacterString>8.6</gco:CharacterString>
-                            </gmd:edition>
-                            <gmd:collectiveTitle>
-                                <gco:CharacterString>Global Change Master Directory (GCMD). 2018. GCMD Keywords, Version 8.6. Greenbelt, MD: Global Change Data Center, Science and Exploration Directorate, Goddard Space Flight Center (GSFC) National Aeronautics and Space Administration (NASA). URL (GCMD Keyword Forum Page): https://earthdata.nasa.gov/gcmd-forum</gco:CharacterString>
-                            </gmd:collectiveTitle>
-                        </gmd:CI_Citation>
-                    </gmd:thesaurusName>
-                </gmd:MD_Keywords>
-            </gmd:descriptiveKeywords>
 
             <gmd:resourceConstraints>
                 <gmd:MD_LegalConstraints>
@@ -344,12 +294,26 @@ Pressure: 755 Torr</gco:CharacterString>
                     </gmd:useLimitation>
                     <gmd:otherConstraints>
                         <gco:CharacterString>
-                            These data are openly accessible by all registered users. Accounts are available free of charge following the registration of user information with a valid email address.
+                            None
                         </gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
 
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLatitude">0.25</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degreesLongitude">0.25</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
 
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
@@ -358,12 +322,28 @@ Pressure: 755 Torr</gco:CharacterString>
 
             <gmd:extent>
                 <gmd:EX_Extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-180.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>180.0</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>-90.0</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>90.0</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_05b11391-42a0-497d-b4bd-4dc01af459f4">
-                                    <gml:beginPosition>2021-11-22</gml:beginPosition>
-                                    <gml:endPosition>2021-11-22</gml:endPosition>
+                                <gml:TimePeriod gml:id="tp_8ccfc8d1-6ba0-4150-8542-1efca05f8351">
+                                    <gml:beginPosition>2006-09-08T12:00:00</gml:beginPosition>
+                                    <gml:endPosition>2006-09-13T18:00:00</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -395,7 +375,7 @@ Pressure: 755 Torr</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://gdex.ucar.edu/dataset/id/a3e62b15-51af-4960-83b7-6a066e267b22.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/b9343539-3f97-4371-bc75-f6ef1ac57191.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -404,7 +384,7 @@ Pressure: 755 Torr</gco:CharacterString>
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20211122_2-Methylbut-3-ene-1,2-diol_None_Ammonium sulfate</gco:CharacterString>
+                                <gco:CharacterString>AEW hindcast using the Model for Prediction Across Scales-Atmosphere (MPAS-A) version 7.1</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
