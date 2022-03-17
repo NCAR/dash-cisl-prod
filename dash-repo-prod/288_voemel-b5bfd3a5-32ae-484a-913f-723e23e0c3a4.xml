@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.gdex::f4efccac-2ee3-44cb-9775-0a842583032d</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::b5bfd3a5-32ae-484a-913f-723e23e0c3a4</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-03-17T00:02:13-06:00</gco:DateTime>
+        <gco:DateTime>2022-03-17T00:00:18-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/cz70-r693</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/p328-z959</gco:CharacterString>
     </gmd:dataSetURI>
 
     <gmd:metadataExtensionInfo>
@@ -70,7 +70,7 @@
             <gmd:extensionOnLineResource>
                 <gmd:CI_OnlineResource>
                     <gmd:linkage>
-                        <gmd:URL>https://dx.doi.org/10.1021/es803389s</gmd:URL>
+                        <gmd:URL>https://data.eol.ucar.edu/dataset/100.030</gmd:URL>
                     </gmd:linkage>
                     <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
@@ -79,10 +79,33 @@
                         <gco:CharacterString>browser</gco:CharacterString>
                     </gmd:applicationProfile>
                     <gmd:name>
-                        <gco:CharacterString>Publication</gco:CharacterString>
+                        <gco:CharacterString>GTS BUFR Radiosonde Data</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Effects of Molecular Structure on Aerosol Yields from OH Radical-Initiated Reactions of Linear, Branched, and Cyclic Alkanes in the Presence of NOx</gco:CharacterString>
+                        <gco:CharacterString></gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>http://weather.uwyo.edu/upperair/sounding.html</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>http</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>University of Wyoming upper air soundings</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString></gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -94,12 +117,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Ziemann_20071116_Cyclodecane/Methyl nitrite/Nitric oxide_Hydroxyl radical_DOS</gco:CharacterString>
+                        <gco:CharacterString>Hunga Tonga-Hunga Ha&apos;apai stratospheric water vapor from Vaisala RS41 radiosondes</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-01-17</gco:Date>
+                                <gco:Date>2022-03-16</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-01-17</gco:Date>
+                                <gco:Date>2022-03-15</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -119,26 +142,47 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/cz70-r693" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/cz70-r693
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/p328-z959" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/p328-z959
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
                     </gmd:identifier>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Ziemann, Paul</gco:CharacterString>
-                            </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>Ziemann</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - GDEX</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>paul.ziemann@colorado.edu</gco:CharacterString>
+                                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
+                                            </gmd:electronicMailAddress>
+                                        </gmd:CI_Address>
+                                    </gmd:address>
+                                </gmd:CI_Contact>
+                            </gmd:contactInfo>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Vömel, Holger</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:contactInfo>
+                                <gmd:CI_Contact>
+                                    <gmd:address>
+                                        <gmd:CI_Address>
+                                            <gmd:electronicMailAddress>
+                                                <gco:CharacterString>voemel@ucar.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
@@ -151,50 +195,43 @@
                     </gmd:citedResponsibleParty>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
-                            <gmd:organisationName>
-                                <gco:CharacterString>ICARUS Community</gco:CharacterString>
-                            </gmd:organisationName>
+                            <gmd:individualName>
+                                <gco:CharacterString>Evan, Stephanie</gco:CharacterString>
+                            </gmd:individualName>
                             <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Tully, Matt</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
                         </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals:
-Determine SOA yield of OH radical oxidation of the VOC
-
-Summary:
-Alkanes were reacted with OH radicals in the presence of NOx in a 5900 L PTFE environmental chamber filled with clean, dry air (&amp;lt;5 ppbv hydrocarbons, &amp;lt;1% RH) at ?25 °C and atmospheric pressure. The reaction mixture contained ?200-400 µg m-3 of dioctyl sebacate (DOS) seed particles added from an evaporation condensation aerosol generator and 1 (0.5 heptadecane), 10, and 10 ppmv alkane, methyl nitrite, and NO. Reactions were initiated by turning on blacklights to form OH radicals by methyl nitrite photolysis. The average OH radical concentration for 60 min of reaction was ?3 × 107 cm-3 , and ?50-85% of the alkane reacted.
-
-Organization: Ziemann
-Lab Affiliation: University of Colorado, Boulder, Boulder, CO, USA
-Chamber: UC Riverside (APRC)
-
-Experiment Category: Gas phase chemical reaction, Photolysis, any phase, Aerosol formation, Aerosol aging
-Oxidant: Hydroxyl radical
-Reactants: Cyclodecane, Methyl nitrite, Nitric oxide
-Reaction Type: Photooxidation
-Relative Humidity: 1
-Temperature: 25
-Seed Name: DOS
-Pressure: 740 Torr</gco:CharacterString>
+                <gco:CharacterString>This data set contains observations using the Vaisala RS41 radiosonde obtained in the weeks following the Hunga Tonga-Hunga Ha’apai volcanic eruption on 15 January 2022. These observations show the presence of high concentrations of water vapor in the stratosphere. With one exception, all soundings were launched as part of the operational upper air network and their data distributed through the WMO Global Telecommunication System (GTS).</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>DeVault, Marla</gco:CharacterString>
+                        <gco:CharacterString>Holger Vömel</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>Ziemann</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - Earth Observing Laboratory</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:contactInfo>
                         <gmd:CI_Contact>
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                        <gco:CharacterString>marla.devault@colorado.edu</gco:CharacterString>
+                                        <gco:CharacterString>voemel@ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
@@ -249,10 +286,13 @@ Pressure: 740 Torr</gco:CharacterString>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WATER VAPOR</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; TRACE GASES/TRACE SPECIES</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; NATURAL HAZARDS &gt; VOLCANIC ERUPTIONS</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE &gt; SOLID EARTH &gt; TECTONICS &gt; VOLCANIC ACTIVITY &gt; ERUPTION DYNAMICS &gt; GAS/AEROSOL COMPOSITION</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -288,7 +328,7 @@ Pressure: 740 Torr</gco:CharacterString>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>In Situ Land-Based Platforms &gt; Laboratory</gco:CharacterString>
+                        <gco:CharacterString>Earth Observation Satellites &gt; Ncep Gts &gt; National Centers For Environmental Prediction Global Telecommunications Systems</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -324,7 +364,7 @@ Pressure: 740 Torr</gco:CharacterString>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>In Situ/Laboratory Instruments &gt; Chemical Meters/Analyzers</gco:CharacterString>
+                        <gco:CharacterString>Earth Remote Sensing Instruments &gt; Passive Remote Sensing &gt; Profilers/Sounders &gt; Radiosondes</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -367,7 +407,7 @@ Pressure: 740 Torr</gco:CharacterString>
                     </gmd:useLimitation>
                     <gmd:otherConstraints>
                         <gco:CharacterString>
-                            These data are openly accessible by all registered users. Accounts are available free of charge following the registration of user information with a valid email address.
+                            None
                         </gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
@@ -381,12 +421,28 @@ Pressure: 740 Torr</gco:CharacterString>
 
             <gmd:extent>
                 <gmd:EX_Extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-180.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>180.0</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>-35.0</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>5.0</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_69a94f7a-9cc6-4b9b-ad6c-348955b93668">
-                                    <gml:beginPosition>2007-11-16</gml:beginPosition>
-                                    <gml:endPosition>2007-11-16</gml:endPosition>
+                                <gml:TimePeriod gml:id="tp_134f1203-6df1-446e-ab71-75190a4a7d8b">
+                                    <gml:beginPosition>2022-01-15</gml:beginPosition>
+                                    <gml:endPosition>2022-03-15</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -418,7 +474,7 @@ Pressure: 740 Torr</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://gdex.ucar.edu/dataset/id/f4efccac-2ee3-44cb-9775-0a842583032d.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/b5bfd3a5-32ae-484a-913f-723e23e0c3a4.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -427,7 +483,7 @@ Pressure: 740 Torr</gco:CharacterString>
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Ziemann_20071116_Cyclodecane/Methyl nitrite/Nitric oxide_Hydroxyl radical_DOS</gco:CharacterString>
+                                <gco:CharacterString>Hunga Tonga-Hunga Ha&apos;apai stratospheric water vapor from Vaisala RS41 radiosondes</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
