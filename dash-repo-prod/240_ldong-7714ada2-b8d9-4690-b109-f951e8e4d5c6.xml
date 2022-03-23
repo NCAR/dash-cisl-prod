@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-03-22T00:00:14-06:00</gco:DateTime>
+        <gco:DateTime>2022-03-23T00:00:17-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -71,12 +71,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>This dataset contains the necessary data supporting the paper titled &quot;Ionospheric Dawnside Subauroral Polarization Streams (SAPS)&quot;, by Lin et al., 2021</gco:CharacterString>
+                        <gco:CharacterString>Data repository for Lin et al. (2022) &quot;Origin of Dawnside Subauroral Polarization Streams during Major Geomagnetic Storms&quot;</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-22</gco:Date>
+                                <gco:Date>2022-03-22</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-10-22</gco:Date>
+                                <gco:Date>2022-03-22</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -290,11 +290,8 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset contains the necessary data supporting the paper titled &quot;Diffuse Electron Precipitation Effects on Subauroral Polarization Streams&quot;, by Lin et al., 2021.</gco:CharacterString>
+                <gco:CharacterString>This dataset contains the necessary data and plotting tools supporting the paper titled &quot;Origin of Dawnside Subauroral Polarization Streams during Major Geomagnetic Storms&quot;, by Lin et al., 2022. The data includes solar wind/IMF data on 20 November 2003, DMSP F16 measurements of electron precipitation energy flux, electron density, cross track ion drift velocity, magnetic perturbation from 13:51 UT to 14:31 UT on 20 November 2003; MAGE model simulation results of EnFlux, Vhorz, and FAC along the same DMSP trajectory; MAGE simulation results of zonal ion drift, FAC, and magnetospheric equatorial plasma pressure at 06:30 UT and 18:30 UT; MAGE/RCM outputs of ring current pressure at 06 MLT and 18 MLT; RCM outputs of effective potential; CHIMP simulation results of test particle ions at 06:30 UT and 18:30 UT.</gco:CharacterString>
             </gmd:abstract>
-            <gmd:credit>
-                <gco:CharacterString>This work is mainly supported by NASA GCR grant 80NSSC17K0013, and NASA DRIVE Science Center for Geospace Storms (CGS) under grant 80NSSC20K0601.</gco:CharacterString>
-            </gmd:credit>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
@@ -451,7 +448,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_ff85f651-ec55-4e09-83f8-a86e4c8e6258">
+                                <gml:TimePeriod gml:id="tp_48c3c9d5-a0ae-48ce-9b80-efe299cbcc82">
                                     <gml:beginPosition>2003-11-20T00:00:00</gml:beginPosition>
                                     <gml:endPosition>2003-11-21T00:00:00</gml:endPosition>
                                 </gml:TimePeriod>
@@ -494,7 +491,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>This dataset contains the necessary data supporting the paper titled &quot;Ionospheric Dawnside Subauroral Polarization Streams (SAPS)&quot;, by Lin et al., 2021</gco:CharacterString>
+                                <gco:CharacterString>Data repository for Lin et al. (2022) &quot;Origin of Dawnside Subauroral Polarization Streams during Major Geomagnetic Storms&quot;</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
