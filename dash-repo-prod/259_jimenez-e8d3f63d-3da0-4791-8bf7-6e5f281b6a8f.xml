@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-03-24T00:00:19-06:00</gco:DateTime>
+        <gco:DateTime>2022-03-25T00:00:19-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -270,6 +270,14 @@ We would like to acknowledge high-performance computing support from Cheyenne (h
                     </gmd:role>
                 </gmd:CI_ResponsibleParty>
             </gmd:pointOfContact>
+            <gmd:resourceFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>Hierarchical Data Format File (application/x-hdf)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:resourceFormat>
 
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
