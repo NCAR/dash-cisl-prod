@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-04-06T00:00:17-06:00</gco:DateTime>
+        <gco:DateTime>2022-04-07T00:00:22-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-02-14</gco:Date>
+                                <gco:Date>2022-04-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-01-27</gco:Date>
+                                <gco:Date>2022-04-05</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -182,9 +182,6 @@
             <gmd:abstract>
                 <gco:CharacterString>These data are the results of high resolution simulations with the Community Earth System Model, version 1.3 (CESM1.3). These simulations form the basis of a publication analyzing machine learning based-detection of weather fronts and associated extreme precipitation.</gco:CharacterString>
             </gmd:abstract>
-            <gmd:credit>
-                <gco:CharacterString>This material is based upon work supported by the U.S. Department of Energy (DOE), Office of Science, Office of Biological &amp; Environmental Research (BER), Regional and Global Model Analysis (RGMA) component of the Earth and Environmental System Modeling Program under Award Number DE-SC0022070 and National Science Foundation (NSF) IA 1947282. This work was also supported by the National Center for Atmospheric Research (NCAR), which is a major facility sponsored by the NSF under Cooperative Agreement No. 1852977. The CESM project is supported primarily by the National Science Foundation (NSF). Computing and data storage resources were provided by the Computational and Information Systems Laboratory (CISL) at NCAR. An award of computer time was provided by the Innovative and Novel Computational Impact on Theory and Experiment (INCITE) program. This research used resources of the Argonne Leadership Computing Facility, which is a DOE Office of Science User Facility supported under Contract DE-AC02-06CH11357. This research is also part of the Blue Waters sustained-petascale computing project, which is supported by the NSF (Awards OCI-0725070 and ACI-1238993) and the state of Illinois. Blue Waters is a joint effort of the University of Illinois at Urbana-Champaign and its National Center for Supercomputing Applications. This work is also part of the &quot;High Resolution Earth System Modeling Using Blue Waters Capabilities&quot; PRAC allocation support by the National Science Foundation (Award ACI-1516624). This research used resources of the National Energy Research Scientific Computing Center (NERSC), a U.S. Department of Energy Office of Science User Facility located at Lawrence Berkeley National Laboratory, operated under Contract No. DE-AC02-05CH11231.</gco:CharacterString>
-            </gmd:credit>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
@@ -431,7 +428,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_39dd1fad-e31e-4a8c-b6f9-615284a9ce98">
+                                <gml:TimePeriod gml:id="tp_0328d33f-0836-460f-8497-a90c5019dbdd">
                                     <gml:beginPosition>2000-01-01</gml:beginPosition>
                                     <gml:endPosition>2005-12-31</gml:endPosition>
                                 </gml:TimePeriod>
@@ -441,7 +438,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_66dca978-cc90-465f-ab13-bafbacdc59ac">
+                                <gml:TimePeriod gml:id="tp_2460d9bf-6d64-4147-8c1e-a916b71f7586">
                                     <gml:beginPosition>2006-01-01</gml:beginPosition>
                                     <gml:endPosition>2015-12-31</gml:endPosition>
                                 </gml:TimePeriod>
@@ -451,7 +448,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_1adae9b1-6b34-4a4b-a7eb-d7a1b98a9b40">
+                                <gml:TimePeriod gml:id="tp_759fb8d9-c133-4409-a122-b59db5fa5f2a">
                                     <gml:beginPosition>2086-01-01</gml:beginPosition>
                                     <gml:endPosition>2100-12-31</gml:endPosition>
                                 </gml:TimePeriod>
