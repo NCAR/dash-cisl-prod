@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-04-11T00:00:15-06:00</gco:DateTime>
+        <gco:DateTime>2022-04-12T00:00:15-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -65,6 +65,52 @@
         <gco:CharacterString>https://doi.org/10.5065/bdr7-wt42</gco:CharacterString>
     </gmd:dataSetURI>
 
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://doi.org/10.1029/2021MS002776</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>LGM paleoclimate constraints inform cloud parameterizations and equilibrium climate sensitivity in CESM2</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString></gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://github.com/ESCOMP/CESM/releases/tag/release-cesm2.1.1</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>CESM2.1.1</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString></gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
 
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>
@@ -138,32 +184,21 @@
             <gmd:abstract>
                 <gco:CharacterString>This dataset contains the more frequently-used variables from the DECK (Diagnostic, Evaluation and Characterization of Klima), the Coupled Model Intercomparison Project phase 6 (CMIP6) historical, and the Paleoclimate Modelling Intercomparison Project phase 4 (PMIP4) Last Glacial Maximum simulations using the Paleoclimate-Calibrated Community Earth System Model version 2 (CESM2).
 
-The simulations were documented in:
-
-﻿Zhu, J., Otto-Bliesner, B. L., Brady, E. C., Poulsen, C., Shaw, J. K., &amp;amp; Kay, J. E. (2021). LGM paleoclimate constraints inform cloud parameterizations and equilibrium climate sensitivity in CESM2. Journal of Advances in Modeling Earth Systems, in revision
+The simulations are documented in:
+Zhu, J., Otto-Bliesner, B. L., Brady, E. C., Gettelman, A., Bacmeister, J. T., Neale, R. B., Poulsen, C. J., Shaw, J. K., McGraw, Z. S., &amp;amp; Kay, J. E. (2022). LGM paleoclimate constraints inform cloud parameterizations and equilibrium climate sensitivity in CESM2. Journal of Advances in Modeling Earth Systems, 14(4), e2021MS002776. https://doi.org/10.1029/2021MS002776
 
 Simulation naming:
-
 DECK-AMIP: f.e21.FHIST_BGC.f19_f19_mg17.PaleoCalibr.AMIP_COSP.01
-
 DECK-piControl: b.e21.B1850.f19_g17.PaleoCalibr.PI.02
-
 DECK-abrupt-4×CO2: b.e21.B1850.f19_g17.PaleoCalibr.4xCO2.02
-
 DECK-1pctCO2: b.e21.B1850.f19_g17.PaleoCalibr.1pctCO2.02
-
 CMIP6-historical: b.e21.BHIST.f19_g17.PaleoCalibr.HIST.02
-
 PMIP4-LGM: b.e21.B1850.f19_g17.PaleoCalibr.21ka.02
 
 Instructions to reproduce the Paleoclimate-Calibrated configuration:
-
 (1)  Start from CESM2.1.1 (https://github.com/ESCOMP/CESM/releases/tag/release-cesm2.1.1)
-
 (2)  Create a case: create_newcase --case [YOUR_CASE_NAME] --res f19_g17 --compset 1850_CAM60_CLM50%BGC-CROP_CICE_POP2_MOSART_CISM2%NOEVOLVE_WW3 --run-unsupported
-
 (3) Put the micro_mg2_0.F90 (in Individual Files) into the SourceMods/src.cam within your case folder
-
 (4) Put the user_nl_cam (in Individual Files) into your case folder</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
