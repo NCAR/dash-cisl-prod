@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-05-06T00:00:18-06:00</gco:DateTime>
+        <gco:DateTime>2022-05-07T00:00:35-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -170,7 +170,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The dataset stores the GITM simulation results for the study &quot;Low- and mid-latitude ionospheric response to the 2013 St Patrick’s Day geomagnetic storm in the American Sector: GITM simulation&quot;</gco:CharacterString>
+                <gco:CharacterString>The dataset stores the GITM simulation results for the study &quot;Low- and mid-latitude ionospheric response to the 2013 St Patrick&apos;s Day geomagnetic storm in the American Sector: GITM simulation&quot;</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
                 <gco:CharacterString>Funding for this project provided through the Advanced Study Program Postdoctoral Fellowship; NASA grants 80NSSC17K071, 80NSSC22K0061, 80NSSC20K0195, 80NSSC20K1786, 80NSSC20K0606 and NNX17AI39G; AFOSR awards FA9559-17-1-0248 and FA9559-16-1-0364.</gco:CharacterString>
@@ -399,6 +399,30 @@
 
     <gmd:distributionInfo>
         <gmd:MD_Distribution>
+            <gmd:distributionFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>application/x-netcdf</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:distributionFormat>
+            <gmd:distributionFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>Compressed Archive File (application/zip)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:distributionFormat>
+            <gmd:distributionFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>text/plain</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:distributionFormat>
             <gmd:distributor>
                 <gmd:MD_Distributor>
                     <gmd:distributorContact>

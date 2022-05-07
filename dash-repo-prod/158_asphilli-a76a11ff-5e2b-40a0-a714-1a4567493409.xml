@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-05-06T00:00:07-06:00</gco:DateTime>
+        <gco:DateTime>2022-05-07T00:00:17-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -382,6 +382,14 @@
 
     <gmd:distributionInfo>
         <gmd:MD_Distribution>
+            <gmd:distributionFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>Gzip Compressed Archive (application/gzip)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:distributionFormat>
             <gmd:distributor>
                 <gmd:MD_Distributor>
                     <gmd:distributorContact>

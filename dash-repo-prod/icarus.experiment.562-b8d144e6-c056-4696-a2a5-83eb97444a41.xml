@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-05-06T00:06:30-06:00</gco:DateTime>
+        <gco:DateTime>2022-05-07T00:15:13-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -384,6 +384,14 @@ Pressure: 755 Torr</gco:CharacterString>
 
     <gmd:distributionInfo>
         <gmd:MD_Distribution>
+            <gmd:distributionFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>Compressed Archive File (application/zip)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:distributionFormat>
             <gmd:distributor>
                 <gmd:MD_Distributor>
                     <gmd:distributorContact>
