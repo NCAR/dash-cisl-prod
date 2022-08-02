@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-08-01T00:12:53-06:00</gco:DateTime>
+        <gco:DateTime>2022-08-02T00:10:30-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -71,12 +71,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20190606_ALPHA-PINENE/OZONE/10102-44-0/hydrogen peroxide_Nitrate radical_Ammonium sulfate_100ugm3_seeds</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20190606_ALPHA-PINENE/OZONE/Nitrogen dioxide/hydrogen peroxide_Nitrate radical_Ammonium sulfate_100ugm3_seeds</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-02-22</gco:Date>
+                                <gco:Date>2022-08-01</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-02-22</gco:Date>
+                                <gco:Date>2022-08-01</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -151,7 +151,7 @@ Chamber: Tran&apos;s big bag of air
 
 Experiment Category: Gas phase chemical reaction, Aerosol formation
 Oxidant: Nitrate radical
-Reactants: ALPHA-PINENE, OZONE, 10102-44-0, hydrogen peroxide
+Reactants: ALPHA-PINENE, OZONE, Nitrogen dioxide, hydrogen peroxide
 Reaction Type: Dark oxidation
 Relative Humidity: 5
 Temperature: 22
@@ -369,7 +369,7 @@ Pressure: 755 Torr</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_384bfefc-f21b-478a-87e1-683b0bb9de05">
+                                <gml:TimePeriod gml:id="tp_745049fa-0182-451c-93e9-b723eacfe769">
                                     <gml:beginPosition>2019-06-06</gml:beginPosition>
                                     <gml:endPosition>2019-06-06</gml:endPosition>
                                 </gml:TimePeriod>
@@ -420,7 +420,7 @@ Pressure: 755 Torr</gco:CharacterString>
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20190606_ALPHA-PINENE/OZONE/10102-44-0/hydrogen peroxide_Nitrate radical_Ammonium sulfate_100ugm3_seeds</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20190606_ALPHA-PINENE/OZONE/Nitrogen dioxide/hydrogen peroxide_Nitrate radical_Ammonium sulfate_100ugm3_seeds</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
