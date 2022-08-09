@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-08-08T00:00:25-06:00</gco:DateTime>
+        <gco:DateTime>2022-08-09T00:00:29-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -71,7 +71,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Data and Code for Yeager et al. (Nature, 2022)</gco:CharacterString>
+                        <gco:CharacterString>Data and Code for Yeager et al., 2022: Enhanced Skill and Signal-to-noise in an Eddy-Resolving Decadal Prediction System</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -216,7 +216,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The capacity to predict seasonal to decadal Earth system variability and change has grown rapidly in recent years through the use of initialized coupled climate models that incorporate slowly evolving components such as the ocean, land, and sea ice. Initialization from observation-based states improves forecast skill even for decadal outlooks that are strongly influenced by externally forced warming trends. Furthermore, the use of large ensembles has revealed promising potential to predict multiyear variations in regional surface air temperature, precipitation, and atmospheric circulation. However, the prevalence of unrealistically low predictable signal variance in current climate prediction systems suggests that there are fundamental deficiencies in simulating the predictable components of Earth system variability associated with internal and/or external processes. The explanation for such low signal variance remains unknown, but this flaw appears to be unrelated to initialization and is instead intrinsic to model structure. A leading hypothesis is that low signal-to-noise in prediction systems is due to the coarse resolution of component models (atmosphere or ocean or both), but a definitive test of this hypothesis in an initialized prediction framework has been lacking. Here we show that both the overall skill and the signal-to-noise properties of a decadal prediction system are significantly enhanced when model horizontal resolution is increased from order 1° in all components to order 0.1°/0.25° in the ocean/atmosphere. This result suggests that mesoscale atmosphere-ocean interaction, which is present in high-resolution but absent in low-resolution, is a key mechanism involved in the transmission of predictable signals from the ocean to the atmosphere. Seasonal to decadal climate predictions that rely on long ocean memory can therefore be improved through explicit representation of ocean mesoscale eddies and their interactions with the overlying atmosphere.</gco:CharacterString>
+                <gco:CharacterString>The sensitivity of decadal prediction system performance to model resolution is examined by comparing results from low- and high-resolution (LR and HR) predictions conducted with the Community Earth System Model (CESM). The primary difference between the two systems is the horizontal grid spacing of the ocean and atmosphere models (1° for both in LR; 0.1° and 0.25°, respectively, in HR), permitting a first direct comparison of how skill and signal-to-noise characteristics change when moving to the ocean eddy-resolved modeling regime. HR exhibits significantly increased skill and enhanced signal-to-noise for atmospheric fields compared to LR. This result suggests that mesoscale atmosphere-ocean interaction, which is present in HR but absent in LR, is a key mechanism involved in the transmission of predictable signals from the ocean to the atmosphere. Climate predictions can potentially be improved (and the signal-to-noise paradox alleviated) through explicit representation of ocean eddies and their interactions with the atmosphere.</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
                 <gco:CharacterString>Data funded by the International Laboratory for High Resolution Earth System Prediction (iHESP)</gco:CharacterString>
@@ -496,7 +496,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>Data and Code for Yeager et al. (Nature, 2022)</gco:CharacterString>
+                                <gco:CharacterString>Data and Code for Yeager et al., 2022: Enhanced Skill and Signal-to-noise in an Eddy-Resolving Decadal Prediction System</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
