@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-08-17T00:00:14-06:00</gco:DateTime>
+        <gco:DateTime>2022-08-18T00:00:15-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -194,6 +194,14 @@ The guiding questions of the study are as follows:
             <gmd:resourceFormat>
                 <gmd:MD_Format>
                     <gmd:name>
+                        <gco:CharacterString>text/csv</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:resourceFormat>
+            <gmd:resourceFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
                         <gco:CharacterString>text/plain</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
@@ -307,6 +315,14 @@ The guiding questions of the study are as follows:
 
     <gmd:distributionInfo>
         <gmd:MD_Distribution>
+            <gmd:distributionFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>text/csv</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:distributionFormat>
             <gmd:distributionFormat>
                 <gmd:MD_Format>
                     <gmd:name>
