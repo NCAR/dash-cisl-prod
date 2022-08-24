@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-08-23T00:00:19-06:00</gco:DateTime>
+        <gco:DateTime>2022-08-24T00:00:22-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -216,7 +216,9 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This data set contains observations using the Vaisala RS41 radiosonde obtained in the weeks following the Hunga Tonga-Hunga Ha’apai volcanic eruption on 15 January 2022. These observations show the presence of high concentrations of water vapor in the stratosphere. With one exception, all soundings were launched as part of the operational upper air network and their data distributed through the WMO Global Telecommunication System (GTS).</gco:CharacterString>
+                <gco:CharacterString>The Hunga Tonga-Hunga Ha’apai volcanic eruption on 15 January 2022 injected unprecedented amounts of water vapor into the stratosphere (Vömel et al., 2022). This data set contains observations using Vaisala RS41 radiosondes obtained in the weeks following the eruption, which were launched as part of the operational upper air network and distributed through the WMO Global Telecommunication System (GTS). It also includes one research sounding using the Cryogenic Frostpoint Hygrometer launched at the Maïdo Observatory at Reunion one week after the eruption.
+
+Vömel H., S. Evan, and M. Tully (2022): Water vapor injection into the stratosphere by Hunga Tonga-Hunga Ha’apai, Science, in press.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
