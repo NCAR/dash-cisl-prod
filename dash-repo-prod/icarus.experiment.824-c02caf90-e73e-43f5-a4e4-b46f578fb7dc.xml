@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.gdex::4cad20ef-a800-4c2f-b851-cda49e9d7eea</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::c02caf90-e73e-43f5-a4e4-b46f578fb7dc</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-08-26T00:16:20-06:00</gco:DateTime>
+        <gco:DateTime>2022-08-26T00:18:51-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,7 +62,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/zpez-mm44</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/qyx6-ea80</gco:CharacterString>
     </gmd:dataSetURI>
 
     <gmd:metadataExtensionInfo>
@@ -70,7 +70,7 @@
             <gmd:extensionOnLineResource>
                 <gmd:CI_OnlineResource>
                     <gmd:linkage>
-                        <gmd:URL>https://dx.doi.org/10.5194/acp-16-9361-2016</gmd:URL>
+                        <gmd:URL>https://dx.doi.org/10.1021/acs.est.1c04177</gmd:URL>
                     </gmd:linkage>
                     <gmd:protocol>
                         <gco:CharacterString>https</gco:CharacterString>
@@ -82,7 +82,7 @@
                         <gco:CharacterString>Publication</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Influence of Seed Aerosol Surface Area and Oxidation Rate on Vapor-Wall Deposition and SOA Mass Yields: A case study with ?-pinene Ozonolysis</gco:CharacterString>
+                        <gco:CharacterString>Gas-phase oxidation rates and products of 1,2-dihydroxy isoprene</gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
@@ -94,12 +94,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20150112_a-Pinene_Ozone_Ammonium sulfate</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: Kelvin&apos;s lab_20220114_2-Methylbut-3-ene-1,2-diol/Hydrogen peroxide/Ammonium sulfate_Hydroxyl radical_Ammonium sulfate_RH50</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-13</gco:Date>
+                                <gco:Date>2022-08-25</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-13</gco:Date>
+                                <gco:Date>2022-08-25</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -119,8 +119,8 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/zpez-mm44" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/zpez-mm44
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/qyx6-ea80" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/qyx6-ea80
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
@@ -128,17 +128,17 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Ng, Nga (Sally)</gco:CharacterString>
+                                <gco:CharacterString>Bates, Kelvin</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>Ng Research Group</gco:CharacterString>
+                                <gco:CharacterString>Kelvin&apos;s lab</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>ng@chbe.gatech.edu</gco:CharacterString>
+                                                <gco:CharacterString>khbates@ucdavis.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
@@ -163,37 +163,38 @@
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>Goals:
-To characterize vapor wall loss
+Product and SOA formation study on 2-methylbut-3-ene-1,2-diol (1,2-DHI) + OH, using wet (deliquesced) ammonium sulfate seeds at 50% RH. RO2 + HO2 pathway targeted.
 
 Summary:
-Vapor wall loss characterization based on the case study of a-pinene ozonolysis with different seed concentration
+1,2-DHI and H2O2 were injected. AS solution was atomized, and lights were then turned on to initiate photooxidation. The CIMS died briefly (~10 minutes) at 12:20. Note that the NOx and O3 monitors sampled the room air, instead of the chamber, for 1 hour starting at 10:00am
 
-Organization: Ng Research Group
-Lab Affiliation: Georgia Institute of Technology
-Chamber: Georgia Tech Environmental Chamber (Far)
+Organization: Kelvin&apos;s lab
+Lab Affiliation: UC Davis
+Chamber: Kelvin&apos;s big bag of air
 
-Experiment Category: Aerosol formation, Instrument/Chamber characterization
-Oxidant: Ozone
-Reactants: a-Pinene
-Reaction Type: Dark oxidation
-Relative Humidity: 5
-Temperature: 25
-Seed Name: Ammonium sulfate</gco:CharacterString>
+Experiment Category: Gas phase chemical reaction, Aerosol formation
+Oxidant: Hydroxyl radical
+Reactants: 2-Methylbut-3-ene-1,2-diol, Hydrogen peroxide, Ammonium sulfate
+Reaction Type: Photooxidation
+Relative Humidity: 50
+Temperature: 22
+Seed Name: Ammonium sulfate
+Pressure: 755 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Joo, Taekyu</gco:CharacterString>
+                        <gco:CharacterString>Bates, Kelvin</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>Ng Research Group</gco:CharacterString>
+                        <gco:CharacterString>Kelvin&apos;s lab</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:contactInfo>
                         <gmd:CI_Contact>
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                        <gco:CharacterString>tjoo6@gatech.edu</gco:CharacterString>
+                                        <gco:CharacterString>khbates@ucdavis.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
@@ -391,9 +392,9 @@ Seed Name: Ammonium sulfate</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_7e1812f2-b148-4644-b500-64160667d487">
-                                    <gml:beginPosition>2015-01-12</gml:beginPosition>
-                                    <gml:endPosition>2015-01-12</gml:endPosition>
+                                <gml:TimePeriod gml:id="tp_f6875516-407d-4488-b782-cc2aaf548a88">
+                                    <gml:beginPosition>2022-01-14</gml:beginPosition>
+                                    <gml:endPosition>2022-01-14</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
@@ -433,7 +434,7 @@ Seed Name: Ammonium sulfate</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://gdex.ucar.edu/dataset/id/4cad20ef-a800-4c2f-b851-cda49e9d7eea.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/c02caf90-e73e-43f5-a4e4-b46f578fb7dc.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -442,7 +443,7 @@ Seed Name: Ammonium sulfate</gco:CharacterString>
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Ng Research Group_20150112_a-Pinene_Ozone_Ammonium sulfate</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: Kelvin&apos;s lab_20220114_2-Methylbut-3-ene-1,2-diol/Hydrogen peroxide/Ammonium sulfate_Hydroxyl radical_Ammonium sulfate_RH50</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
