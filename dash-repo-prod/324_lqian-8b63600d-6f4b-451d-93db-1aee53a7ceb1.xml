@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.gdex::fdb84c7b-28a7-464a-bc42-9630c48d04a7</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::8b63600d-6f4b-451d-93db-1aee53a7ceb1</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-09-17T00:19:30-06:00</gco:DateTime>
+        <gco:DateTime>2022-09-17T00:00:21-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -62,44 +62,21 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/qwv9-qf98</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/2yh2-1553</gco:CharacterString>
     </gmd:dataSetURI>
 
-    <gmd:metadataExtensionInfo>
-        <gmd:MD_MetadataExtensionInformation>
-            <gmd:extensionOnLineResource>
-                <gmd:CI_OnlineResource>
-                    <gmd:linkage>
-                        <gmd:URL>https://dx.doi.org/10.1021/es803389s</gmd:URL>
-                    </gmd:linkage>
-                    <gmd:protocol>
-                        <gco:CharacterString>https</gco:CharacterString>
-                    </gmd:protocol>
-                    <gmd:applicationProfile>
-                        <gco:CharacterString>browser</gco:CharacterString>
-                    </gmd:applicationProfile>
-                    <gmd:name>
-                        <gco:CharacterString>Publication</gco:CharacterString>
-                    </gmd:name>
-                    <gmd:description>
-                        <gco:CharacterString>Effects of Molecular Structure on Aerosol Yields from OH Radical-Initiated Reactions of Linear, Branched, and Cyclic Alkanes in the Presence of NOx</gco:CharacterString>
-                    </gmd:description>
-                </gmd:CI_OnlineResource>
-            </gmd:extensionOnLineResource>
-        </gmd:MD_MetadataExtensionInformation>
-    </gmd:metadataExtensionInfo>
 
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Ziemann_20071120_3,4-Diethylhexane/Methyl nitrite/Nitric oxide_Hydroxyl radical_DOS</gco:CharacterString>
+                        <gco:CharacterString>Hemispheric Asymmetry of the Annual and Semiannual Variation of Thermospheric Composition</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-01-17</gco:Date>
+                                <gco:Date>2022-09-16</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-01-17</gco:Date>
+                                <gco:Date>2022-09-14</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -119,31 +96,38 @@
                     <gmd:identifier>
                         <gmd:MD_Identifier>
                             <gmd:code>
-                                <gmx:Anchor xlink:href="https://doi.org/10.5065/qwv9-qf98" xlink:title="DOI" xlink:actuate="onRequest">
-                                    https://doi.org/10.5065/qwv9-qf98
+                                <gmx:Anchor xlink:href="https://doi.org/10.5065/2yh2-1553" xlink:title="DOI" xlink:actuate="onRequest">
+                                    https://doi.org/10.5065/2yh2-1553
                                 </gmx:Anchor>
                             </gmd:code>
                         </gmd:MD_Identifier>
                     </gmd:identifier>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Ziemann, Paul</gco:CharacterString>
-                            </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>Ziemann</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - GDEX</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>paul.ziemann@colorado.edu</gco:CharacterString>
+                                                <gco:CharacterString>gdex@ucar.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
                                 </gmd:CI_Contact>
                             </gmd:contactInfo>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Qian, Liying</gco:CharacterString>
+                            </gmd:individualName>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
@@ -151,50 +135,43 @@
                     </gmd:citedResponsibleParty>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
-                            <gmd:organisationName>
-                                <gco:CharacterString>ICARUS Community</gco:CharacterString>
-                            </gmd:organisationName>
+                            <gmd:individualName>
+                                <gco:CharacterString>Yu, Wandi</gco:CharacterString>
+                            </gmd:individualName>
                             <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher">publisher</gmd:CI_RoleCode>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Pedatella, Nicholas</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
                             </gmd:role>
                         </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Goals:
-Determine SOA yield of OH radical oxidation of the VOC
-
-Summary:
-Alkanes were reacted with OH radicals in the presence of NOx in a 5900 L PTFE environmental chamber filled with clean, dry air (&amp;lt;5 ppbv hydrocarbons, &amp;lt;1% RH) at ?25 °C and atmospheric pressure. The reaction mixture contained ?200-400 µg m-3 of dioctyl sebacate (DOS) seed particles added from an evaporation condensation aerosol generator and 1 (0.5 heptadecane), 10, and 10 ppmv alkane, methyl nitrite, and NO. Reactions were initiated by turning on blacklights to form OH radicals by methyl nitrite photolysis. The average OH radical concentration for 60 min of reaction was ?3 × 107 cm-3 , and ?50-85% of the alkane reacted.
-
-Organization: Ziemann
-Lab Affiliation: University of Colorado, Boulder, Boulder, CO, USA
-Chamber: UC Riverside (APRC)
-
-Experiment Category: Gas phase chemical reaction, Photolysis, any phase, Aerosol formation, Aerosol aging
-Oxidant: Hydroxyl radical
-Reactants: 3,4-Diethylhexane, Methyl nitrite, Nitric oxide
-Reaction Type: Photooxidation
-Relative Humidity: 1
-Temperature: 25
-Seed Name: DOS
-Pressure: 740 Torr</gco:CharacterString>
+                <gco:CharacterString>This dataset includes O, O2, and N2 number densities in the altitude region from 110.1 km to 667.5 km derived from TIMED/GUVI limb observation and the corresponding WACCM-X simulated ones. These data are daily average values in five latitude bins from 50 degree south to 50 degree north with a bin size of 20 degrees, and number of data points and observing local times for the data in the latitude bins. They are used to make Figures 1-10 in the paper with the title the same as the title for this dataset.</gco:CharacterString>
             </gmd:abstract>
+            <gmd:credit>
+                <gco:CharacterString>This work was supported by NASA grants 80NSSC20K0189, 80NSSC19K0278, NNH19ZDA001N-HGIO, 80NSSC19K0835, and NNH19ZDA001N-HSR.</gco:CharacterString>
+            </gmd:credit>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>DeVault, Marla</gco:CharacterString>
+                        <gco:CharacterString>Liying Qian</gco:CharacterString>
                     </gmd:individualName>
-                    <gmd:organisationName>
-                        <gco:CharacterString>Ziemann</gco:CharacterString>
-                    </gmd:organisationName>
                     <gmd:contactInfo>
                         <gmd:CI_Contact>
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                        <gco:CharacterString>marla.devault@colorado.edu</gco:CharacterString>
+                                        <gco:CharacterString>lqian@ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
@@ -208,7 +185,15 @@ Pressure: 740 Torr</gco:CharacterString>
             <gmd:resourceFormat>
                 <gmd:MD_Format>
                     <gmd:name>
-                        <gco:CharacterString>Compressed Archive File (application/zip)</gco:CharacterString>
+                        <gco:CharacterString>application/octet-stream</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:resourceFormat>
+            <gmd:resourceFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>Hierarchical Data Format File (application/x-hdf)</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
@@ -257,10 +242,13 @@ Pressure: 740 Torr</gco:CharacterString>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AEROSOLS</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; ATMOSPHERIC GENERAL CIRCULATION MODELS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC CHEMISTRY &gt; TRACE GASES/TRACE SPECIES</gco:CharacterString>
+                        <gco:CharacterString>EARTH SCIENCE SERVICES &gt; MODELS &gt; SOLAR-ATMOSPHERE/SPACE-WEATHER MODELS</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>EARTH SCIENCE &gt; SUN-EARTH INTERACTIONS &gt; SOLAR ENERGETIC PARTICLE PROPERTIES &gt; PARTICLE DENSITY</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -296,7 +284,7 @@ Pressure: 740 Torr</gco:CharacterString>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>In Situ Land-Based Platforms &gt; Laboratory</gco:CharacterString>
+                        <gco:CharacterString>Earth Observation Satellites &gt; Timed &gt; Thermosphere, Ionosphere, Mesosphere Energetics And Dynamics</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -332,7 +320,7 @@ Pressure: 740 Torr</gco:CharacterString>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>In Situ/Laboratory Instruments &gt; Chemical Meters/Analyzers</gco:CharacterString>
+                        <gco:CharacterString>Earth Remote Sensing Instruments &gt; Passive Remote Sensing &gt; Spectrometers/Radiometers &gt; Imaging Spectrometers/Radiometers &gt; Guvi &gt; Global Ultraviolet Imager</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -375,12 +363,19 @@ Pressure: 740 Torr</gco:CharacterString>
                     </gmd:useLimitation>
                     <gmd:otherConstraints>
                         <gco:CharacterString>
-                            These data are openly accessible by all registered users. Accounts are available free of charge following the registration of user information with a valid email address.
+                            None
                         </gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
 
+            <gmd:spatialResolution>
+                <gmd:MD_Resolution>
+                    <gmd:distance>
+                        <gco:Distance uom="degrees">20.0</gco:Distance>
+                    </gmd:distance>
+                </gmd:MD_Resolution>
+            </gmd:spatialResolution>
 
             <gmd:language>
                 <gco:CharacterString>eng; USA</gco:CharacterString>
@@ -389,16 +384,22 @@ Pressure: 740 Torr</gco:CharacterString>
 
             <gmd:extent>
                 <gmd:EX_Extent>
-                    <gmd:temporalElement>
-                        <gmd:EX_TemporalExtent>
-                            <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_93aff903-5d9a-473e-9e7e-7fda1a88696f">
-                                    <gml:beginPosition>2007-11-20</gml:beginPosition>
-                                    <gml:endPosition>2007-11-20</gml:endPosition>
-                                </gml:TimePeriod>
-                            </gmd:extent>
-                        </gmd:EX_TemporalExtent>
-                    </gmd:temporalElement>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-180.0</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>180.0</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>-50.0</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>50.0</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
                 </gmd:EX_Extent>
             </gmd:extent>
 
@@ -410,7 +411,15 @@ Pressure: 740 Torr</gco:CharacterString>
             <gmd:distributionFormat>
                 <gmd:MD_Format>
                     <gmd:name>
-                        <gco:CharacterString>Compressed Archive File (application/zip)</gco:CharacterString>
+                        <gco:CharacterString>application/octet-stream</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:distributionFormat>
+            <gmd:distributionFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>Hierarchical Data Format File (application/x-hdf)</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
@@ -434,7 +443,7 @@ Pressure: 740 Torr</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://gdex.ucar.edu/dataset/id/fdb84c7b-28a7-464a-bc42-9630c48d04a7.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/8b63600d-6f4b-451d-93db-1aee53a7ceb1.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
@@ -443,7 +452,7 @@ Pressure: 740 Torr</gco:CharacterString>
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Ziemann_20071120_3,4-Diethylhexane/Methyl nitrite/Nitric oxide_Hydroxyl radical_DOS</gco:CharacterString>
+                                <gco:CharacterString>Hemispheric Asymmetry of the Annual and Semiannual Variation of Thermospheric Composition</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
