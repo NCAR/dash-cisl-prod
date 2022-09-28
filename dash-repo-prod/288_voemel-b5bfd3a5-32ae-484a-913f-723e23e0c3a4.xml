@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-09-27T00:00:19-06:00</gco:DateTime>
+        <gco:DateTime>2022-09-28T00:00:19-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -103,6 +103,29 @@
                     </gmd:applicationProfile>
                     <gmd:name>
                         <gco:CharacterString>University of Wyoming upper air soundings</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString></gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://doi.org/10.1126/science.abq2299</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>Water vapor injection into the stratosphere by Hunga Tonga-Hunga Ha’apai</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
                         <gco:CharacterString></gco:CharacterString>
@@ -218,7 +241,7 @@
             <gmd:abstract>
                 <gco:CharacterString>The Hunga Tonga-Hunga Ha’apai volcanic eruption on 15 January 2022 injected unprecedented amounts of water vapor into the stratosphere (Vömel et al., 2022). This data set contains observations using Vaisala RS41 radiosondes obtained in the weeks following the eruption, which were launched as part of the operational upper air network and distributed through the WMO Global Telecommunication System (GTS). It also includes one research sounding using the Cryogenic Frostpoint Hygrometer launched at the Maïdo Observatory at Reunion one week after the eruption.
 
-Vömel H., S. Evan, and M. Tully (2022): Water vapor injection into the stratosphere by Hunga Tonga-Hunga Ha’apai, Science, in press.</gco:CharacterString>
+Vömel H., S. Evan, and M. Tully (2022): Water vapor injection into the stratosphere by Hunga Tonga-Hunga Ha’apai, Science, 377, 1444-1447, doi: 10.1126/science.abq2299.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
