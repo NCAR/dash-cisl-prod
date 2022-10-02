@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-10-01T00:07:43-06:00</gco:DateTime>
+        <gco:DateTime>2022-10-02T00:07:26-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-09-30</gco:Date>
+                                <gco:Date>2022-10-01</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-09-30</gco:Date>
+                                <gco:Date>2022-10-01</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -390,7 +390,7 @@ Pressure: 740 Torr</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_a5ff6887-91a1-4ed0-9fc5-f782a4cab3eb">
+                                <gml:TimePeriod gml:id="tp_e00502a0-52d2-482b-9c1b-c6544bb996c4">
                                     <gml:beginPosition>2005-09-27</gml:beginPosition>
                                     <gml:endPosition>2005-09-27</gml:endPosition>
                                 </gml:TimePeriod>
