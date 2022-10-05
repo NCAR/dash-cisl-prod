@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-10-04T00:25:08-06:00</gco:DateTime>
+        <gco:DateTime>2022-10-05T00:25:25-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-07-05</gco:Date>
+                                <gco:Date>2022-10-04</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-07-05</gco:Date>
+                                <gco:Date>2022-10-03</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -140,7 +140,7 @@
 
 This data set provides example observation files, model backgrounds, and other input files needed to run a variety of JEDI applications, including the comprehensive suite of unit tests and example activities that are described in online tutorials.
 
-This data set accompanies JEDI-SkyLab, version 1.0.0, released on June 30, 2022.</gco:CharacterString>
+This data set accompanies JEDI-SkyLab, version 2.0.0, released in October 2022.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
@@ -302,7 +302,7 @@ This data set accompanies JEDI-SkyLab, version 1.0.0, released on June 30, 2022.
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_c627014b-7a7a-4f1b-b809-529aaa5c7695">
+                                <gml:TimePeriod gml:id="tp_880a002e-8293-445a-99a6-cebd73536a9d">
                                     <gml:beginPosition>2020-10-01</gml:beginPosition>
                                     <gml:endPosition>2020-10-01</gml:endPosition>
                                 </gml:TimePeriod>
