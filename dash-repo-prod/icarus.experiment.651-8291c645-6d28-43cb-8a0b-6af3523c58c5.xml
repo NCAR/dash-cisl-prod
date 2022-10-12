@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-10-11T00:18:38-06:00</gco:DateTime>
+        <gco:DateTime>2022-10-12T00:18:11-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-10</gco:Date>
+                                <gco:Date>2022-10-11</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-10</gco:Date>
+                                <gco:Date>2022-10-11</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -390,7 +390,7 @@ Temperature: 23.0</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_3f46c04d-e09b-4b88-b4b4-862f7c7e7daa">
+                                <gml:TimePeriod gml:id="tp_6a464951-7df1-4dc0-a349-aa001fe93bbc">
                                     <gml:beginPosition>2021-02-03</gml:beginPosition>
                                     <gml:endPosition>2021-02-03</gml:endPosition>
                                 </gml:TimePeriod>
