@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.gdex::0fb5cd9c-464d-462d-b355-25248dbcc2bb</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.dashrepo::0fb5cd9c-464d-462d-b355-25248dbcc2bb</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-10-20T00:00:31-06:00</gco:DateTime>
+        <gco:DateTime>2022-10-21T00:00:53-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-19</gco:Date>
+                                <gco:Date>2022-10-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-19</gco:Date>
+                                <gco:Date>2022-10-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -367,7 +367,7 @@ Pressure: 760 Torr</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_72a8f4f3-231c-4475-aec0-148149302b28">
+                                <gml:TimePeriod gml:id="tp_a304efa8-a584-450b-883d-e4f3515315f9">
                                     <gml:beginPosition>2005-02-24</gml:beginPosition>
                                     <gml:endPosition>2005-02-24</gml:endPosition>
                                 </gml:TimePeriod>
@@ -409,7 +409,7 @@ Pressure: 760 Torr</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://gdex.ucar.edu/dataset/id/0fb5cd9c-464d-462d-b355-25248dbcc2bb.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/0fb5cd9c-464d-462d-b355-25248dbcc2bb.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

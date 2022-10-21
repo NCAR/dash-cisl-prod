@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.gdex::56a2fc44-b270-4581-9ea0-94d695bec3e9</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.dashrepo::56a2fc44-b270-4581-9ea0-94d695bec3e9</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-10-20T00:02:37-06:00</gco:DateTime>
+        <gco:DateTime>2022-10-21T00:03:18-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -122,7 +122,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-19</gco:Date>
+                                <gco:Date>2022-10-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-19</gco:Date>
+                                <gco:Date>2022-10-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -415,7 +415,7 @@ Seed Name: Sucrose</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_ac462247-3564-42d1-96d4-960f5d2b6cb7">
+                                <gml:TimePeriod gml:id="tp_f55aeed7-0731-4b85-880e-3fc4881cd881">
                                     <gml:beginPosition>2017-03-21</gml:beginPosition>
                                     <gml:endPosition>2017-03-21</gml:endPosition>
                                 </gml:TimePeriod>
@@ -457,7 +457,7 @@ Seed Name: Sucrose</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://gdex.ucar.edu/dataset/id/56a2fc44-b270-4581-9ea0-94d695bec3e9.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/56a2fc44-b270-4581-9ea0-94d695bec3e9.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

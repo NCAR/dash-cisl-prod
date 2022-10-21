@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.gdex::5e2e9fb9-6943-4ff2-9c89-98882e52e426</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.dashrepo::5e2e9fb9-6943-4ff2-9c89-98882e52e426</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-10-20T00:06:42-06:00</gco:DateTime>
+        <gco:DateTime>2022-10-21T00:07:19-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-19</gco:Date>
+                                <gco:Date>2022-10-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-19</gco:Date>
+                                <gco:Date>2022-10-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -390,7 +390,7 @@ Seed Name: Ammonium sulfate + Sulfuric acid</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_1c57ffb7-9d5c-4a60-8a57-f892fb7a6e6d">
+                                <gml:TimePeriod gml:id="tp_e617b51f-7479-4bb3-9a77-2c4739a05dab">
                                     <gml:beginPosition>2017-07-08</gml:beginPosition>
                                     <gml:endPosition>2017-07-08</gml:endPosition>
                                 </gml:TimePeriod>
@@ -432,7 +432,7 @@ Seed Name: Ammonium sulfate + Sulfuric acid</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://gdex.ucar.edu/dataset/id/5e2e9fb9-6943-4ff2-9c89-98882e52e426.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/5e2e9fb9-6943-4ff2-9c89-98882e52e426.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

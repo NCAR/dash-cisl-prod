@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.gdex::c98221c9-7c2e-4c91-96ba-f75b83c1ef02</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.dashrepo::c98221c9-7c2e-4c91-96ba-f75b83c1ef02</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-10-20T00:02:26-06:00</gco:DateTime>
+        <gco:DateTime>2022-10-21T00:03:07-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -122,7 +122,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-19</gco:Date>
+                                <gco:Date>2022-10-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-19</gco:Date>
+                                <gco:Date>2022-10-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -415,7 +415,7 @@ Seed Name: Oleic Acid</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_4b602393-924c-4878-bc5a-25b0d95f8f61">
+                                <gml:TimePeriod gml:id="tp_0b325283-3c19-40fe-ab7a-eb348ef80f45">
                                     <gml:beginPosition>2017-01-27</gml:beginPosition>
                                     <gml:endPosition>2017-01-27</gml:endPosition>
                                 </gml:TimePeriod>
@@ -457,7 +457,7 @@ Seed Name: Oleic Acid</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://gdex.ucar.edu/dataset/id/c98221c9-7c2e-4c91-96ba-f75b83c1ef02.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/c98221c9-7c2e-4c91-96ba-f75b83c1ef02.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

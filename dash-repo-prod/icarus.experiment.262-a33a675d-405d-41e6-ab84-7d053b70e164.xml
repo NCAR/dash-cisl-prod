@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.gdex::a33a675d-405d-41e6-ab84-7d053b70e164</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.dashrepo::a33a675d-405d-41e6-ab84-7d053b70e164</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-10-20T00:02:28-06:00</gco:DateTime>
+        <gco:DateTime>2022-10-21T00:03:08-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -122,7 +122,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-19</gco:Date>
+                                <gco:Date>2022-10-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-19</gco:Date>
+                                <gco:Date>2022-10-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -415,7 +415,7 @@ Seed Name: Pentaethylene Glycol</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_28f8807b-d49b-4724-a5a9-bf7a4f2aa583">
+                                <gml:TimePeriod gml:id="tp_34e4a5a7-54d9-430a-8883-05a77427f1ee">
                                     <gml:beginPosition>2017-10-10</gml:beginPosition>
                                     <gml:endPosition>2017-10-10</gml:endPosition>
                                 </gml:TimePeriod>
@@ -457,7 +457,7 @@ Seed Name: Pentaethylene Glycol</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://gdex.ucar.edu/dataset/id/a33a675d-405d-41e6-ab84-7d053b70e164.html</gmd:URL>
+                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/a33a675d-405d-41e6-ab84-7d053b70e164.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
