@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::f8a24a42-9f94-4ebd-a656-56297566eab7</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::f8a24a42-9f94-4ebd-a656-56297566eab7</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-11-02T00:11:36-06:00</gco:DateTime>
+        <gco:DateTime>2022-11-03T00:11:40-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-11-01</gco:Date>
+                                <gco:Date>2022-11-02</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-11-01</gco:Date>
+                                <gco:Date>2022-11-02</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -355,7 +355,7 @@ Seed Name: 1:2 MgSO4/H2SO4</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_51377398-a644-4479-b66d-ae05a9b2ca0e">
+                                <gml:TimePeriod gml:id="tp_ae5732ca-665f-4932-a45d-f4be04b72036">
                                     <gml:beginPosition>2017-01-09</gml:beginPosition>
                                     <gml:endPosition>2017-01-09</gml:endPosition>
                                 </gml:TimePeriod>
@@ -397,7 +397,7 @@ Seed Name: 1:2 MgSO4/H2SO4</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/f8a24a42-9f94-4ebd-a656-56297566eab7.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/f8a24a42-9f94-4ebd-a656-56297566eab7.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::4c070938-f99b-4c7c-b953-133c83836eb5</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::4c070938-f99b-4c7c-b953-133c83836eb5</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-11-02T00:00:07-06:00</gco:DateTime>
+        <gco:DateTime>2022-11-03T00:00:12-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -409,7 +409,7 @@ This data set provides example observation files, model backgrounds, and other i
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/4c070938-f99b-4c7c-b953-133c83836eb5.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/4c070938-f99b-4c7c-b953-133c83836eb5.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

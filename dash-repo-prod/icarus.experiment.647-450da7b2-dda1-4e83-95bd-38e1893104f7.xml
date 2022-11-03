@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::450da7b2-dda1-4e83-95bd-38e1893104f7</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::450da7b2-dda1-4e83-95bd-38e1893104f7</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-11-02T00:22:07-06:00</gco:DateTime>
+        <gco:DateTime>2022-11-03T00:21:49-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -355,7 +355,7 @@ Seed Name: Ammonium sulfate</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_5e371a17-a6b0-44bb-b150-b4fd48877c4e">
+                                <gml:TimePeriod gml:id="tp_64e7aee8-b121-4dd9-85a4-ccc2d886447e">
                                     <gml:beginPosition>2020-11-08</gml:beginPosition>
                                     <gml:endPosition>2020-11-08</gml:endPosition>
                                 </gml:TimePeriod>
@@ -397,7 +397,7 @@ Seed Name: Ammonium sulfate</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/450da7b2-dda1-4e83-95bd-38e1893104f7.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/450da7b2-dda1-4e83-95bd-38e1893104f7.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

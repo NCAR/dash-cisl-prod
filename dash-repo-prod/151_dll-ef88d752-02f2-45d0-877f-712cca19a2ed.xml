@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::ef88d752-02f2-45d0-877f-712cca19a2ed</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::ef88d752-02f2-45d0-877f-712cca19a2ed</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-11-02T00:00:08-06:00</gco:DateTime>
+        <gco:DateTime>2022-11-03T00:00:14-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -399,7 +399,7 @@ Simulations are run from 1700 through 2019 using CRU-JRAv2 forcing, CO2, land us
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/ef88d752-02f2-45d0-877f-712cca19a2ed.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/ef88d752-02f2-45d0-877f-712cca19a2ed.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

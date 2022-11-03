@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::0d4f4215-73f2-4ba5-b4f4-bf30dbb91004</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::0d4f4215-73f2-4ba5-b4f4-bf30dbb91004</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-11-02T00:00:56-06:00</gco:DateTime>
+        <gco:DateTime>2022-11-03T00:01:17-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-11-01</gco:Date>
+                                <gco:Date>2022-11-02</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-11-01</gco:Date>
+                                <gco:Date>2022-11-02</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -354,7 +354,7 @@ Seed Name: Di-octyl sebacate</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_e33461cc-3473-4870-8a41-cec509c80758">
+                                <gml:TimePeriod gml:id="tp_977ba93d-7ebb-4804-9114-b2ebd94130c3">
                                     <gml:beginPosition>2017-01-07</gml:beginPosition>
                                     <gml:endPosition>2017-01-07</gml:endPosition>
                                 </gml:TimePeriod>
@@ -396,7 +396,7 @@ Seed Name: Di-octyl sebacate</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/0d4f4215-73f2-4ba5-b4f4-bf30dbb91004.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/0d4f4215-73f2-4ba5-b4f4-bf30dbb91004.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

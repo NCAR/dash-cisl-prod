@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::871aaeff-17b0-4c22-ab49-62d2a82d0396</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::871aaeff-17b0-4c22-ab49-62d2a82d0396</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-11-02T00:09:39-06:00</gco:DateTime>
+        <gco:DateTime>2022-11-03T00:09:49-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-11-01</gco:Date>
+                                <gco:Date>2022-11-02</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-11-01</gco:Date>
+                                <gco:Date>2022-11-02</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -354,7 +354,7 @@ Temperature: 295</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_65dfd803-c0ab-465e-b0d8-ec1ed9c200b4">
+                                <gml:TimePeriod gml:id="tp_c93210ca-11b7-4fba-b89a-026b955ebef3">
                                     <gml:beginPosition>2012-05-24</gml:beginPosition>
                                     <gml:endPosition>2012-05-24</gml:endPosition>
                                 </gml:TimePeriod>
@@ -396,7 +396,7 @@ Temperature: 295</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/871aaeff-17b0-4c22-ab49-62d2a82d0396.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/871aaeff-17b0-4c22-ab49-62d2a82d0396.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>

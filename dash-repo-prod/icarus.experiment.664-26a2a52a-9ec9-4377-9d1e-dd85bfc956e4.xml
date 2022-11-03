@@ -9,7 +9,7 @@
                                      http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>edu.ucar.dashrepo::26a2a52a-9ec9-4377-9d1e-dd85bfc956e4</gco:CharacterString>
+        <gco:CharacterString>edu.ucar.gdex::26a2a52a-9ec9-4377-9d1e-dd85bfc956e4</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-11-02T00:23:04-06:00</gco:DateTime>
+        <gco:DateTime>2022-11-03T00:22:47-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -356,7 +356,7 @@ Pressure: 740 Torr</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_76aa3f9e-baf9-4ff0-b2a4-74364b267633">
+                                <gml:TimePeriod gml:id="tp_bed435a0-881c-48f1-a8e8-5ad86d9d865b">
                                     <gml:beginPosition>2007-11-07</gml:beginPosition>
                                     <gml:endPosition>2007-11-07</gml:endPosition>
                                 </gml:TimePeriod>
@@ -398,7 +398,7 @@ Pressure: 740 Torr</gco:CharacterString>
                     <gmd:onLine>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>https://dashrepo.ucar.edu/dataset/id/26a2a52a-9ec9-4377-9d1e-dd85bfc956e4.html</gmd:URL>
+                                <gmd:URL>https://gdex.ucar.edu/dataset/id/26a2a52a-9ec9-4377-9d1e-dd85bfc956e4.html</gmd:URL>
                             </gmd:linkage>
                             <gmd:protocol>
                                 <gco:CharacterString>https</gco:CharacterString>
