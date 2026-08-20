@@ -32,7 +32,7 @@
                     <gmd:address>
                         <gmd:CI_Address>
                             <gmd:electronicMailAddress>
-                                <gco:CharacterString>ladwig@ucar.edu</gco:CharacterString>
+                                <gco:CharacterString>geocat@ucar.edu</gco:CharacterString>
                             </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                     </gmd:address>
@@ -45,7 +45,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2017-12-19T16:04:17</gco:DateTime>
+        <gco:DateTime>2026-08-20T14:23:17</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
@@ -119,7 +119,7 @@ This package provides over 30 diagnostic calculations, several interpolation rou
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Bill Ladwig</gco:CharacterString>
+                        <gco:CharacterString>GeoCAT Support</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
                         <gco:CharacterString>UCAR/NCAR</gco:CharacterString>
@@ -130,7 +130,7 @@ This package provides over 30 diagnostic calculations, several interpolation rou
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                    <gco:CharacterString>ladwig@ucar.edu</gco:CharacterString>
+                                    <gco:CharacterString>geocat@ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
